@@ -1,0 +1,19 @@
+# Site settings
+title: James Logan Mayfield
+email: lmayfield@monmouthcollege.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Professional website for James Logan Mayfield
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jlmayfield.github.io" # the base hostname & protocol for your site
+fixedNav: 'true' # true or false
+theme: grey # green, blue, orange, purple, grey
+github_username:  jlmayfield
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+include: [_pages]
+exclude: [_site,LICENSE, _pages/blog.html]
+sass:
+  style: compressed
