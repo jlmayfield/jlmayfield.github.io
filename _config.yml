@@ -7,9 +7,11 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jlmayfield.github.io" # the base hostname & protocol for your site
 fixedNav: 'true' # true or false
 theme: grey # green, blue, orange, purple, grey
-github_username:  jlmayfield
+githubUsername:  jlmayfield
+stackexchangeUsername:  logan-mayfield
 
 # Build settings
+permalink: /:year/:month/:title
 markdown: kramdown
 kramdown:
   input: GFM
