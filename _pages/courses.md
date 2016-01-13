@@ -4,8 +4,7 @@ title: Courses
 permalink: /courses/
 ---
 
-I've started developing lecture notes and a better web presence for my
-courses. Those resources can all be found through the links below.  For a complete list of courses I've taught see my [CV](http://jlmayfield.github.io/docs/mayfield-cv-2015.pdf).
+I've started developing lecture notes and a better web presence for my courses. Those resources can all be found through the links below.  For a complete list of courses I've taught see my [CV](http://jlmayfield.github.io/docs/mayfield-cv-2015.pdf).
 
 ### Computer Science
 
