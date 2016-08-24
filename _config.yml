@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jlmayfield.github.io" # the base hostname & protocol for your site
 fixedNav: 'true' # true or false
-theme: grey # green, blue, orange, purple, grey
+#theme: grey # green, blue, orange, purple, grey
 githubUsername:  jlmayfield
 stackexchangeUsername:  logan-mayfield
 
