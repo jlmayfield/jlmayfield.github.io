@@ -3,37 +3,63 @@
 ---
 @charset "utf-8";
 
-// Helpers
-@import
-  'helpers/variables',
-  'helpers/mixins';
 
-// Base
-@import
-  'base/reset';
 
-// Utilities
-@import
-  'utilities/layout';
+// Our variables
+$base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+$base-font-size:   .95em;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
 
-// Components
-@import
-  'components/header',
-  'components/navigation',
-  'components/article',
-  'components/archives',
-  'components/social',
-  'components/buttons',
-  'components/footer';
+$spacing-unit:     30px;
 
-// Themes
-@import
-  'themes/blue',
-  'themes/green',
-  'themes/grey',
-  'themes/orange',
-  'themes/purple';
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #0077CC;
+// $gameday-sky: #109dc0;
+// I just replaced the colors here as a lazy way to avoid
+//  find and replace on the colors. Maybe I'll fix this later.
 
-// Vendor
+// This is really a rusty red kind of color
+$clemson-purple:      #AB1829;
+//  This is a blueish tone
+$clemson-orange:      #1873AB;
+
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+
+// Width of the content area
+$content-width:    950px;
+
+$on-palm:          600px;
+$on-laptop:        950px;
+
+
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
 @import
-  'vendor/syntax-highlighting';
+        "header",
+	"mobile-header",
+        "base",
+        "layout",
+        "syntax-highlighting",
+	"fancy-image"
+;
