@@ -1,5 +1,14 @@
 - title: "Teaching"
   href: "/teaching/"
+  subcategories:
+    - subtitle: "COMP 161"
+      subhref: "/teaching/COMP161/"
+    - subtitle: "COMP 210"
+      subhref: "/teaching/COMP210/"
+    - subtitle: "COMP 350 - Theory"
+      subhref: "/teaching/COMP350-Theory/"
+    - subtitle: "COMP 401 & 402"
+      subhref: "/teaching/COMP401-402/"
 
 - title: "Research"
   href: "/research/"
