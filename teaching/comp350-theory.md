@@ -10,6 +10,6 @@ permalink: /teaching/COMP350-Theory/
 
 ### Problem Sets
 
-### Proof Assignments
+### Proof Paper Assignments
 
-&nbsp;&nbsp;&nbsp;[Proof Papers](/teaching/COMP350-Theory/comp350-theory-proofs.pdf)  
+&nbsp;&nbsp;&nbsp;[Proof Paper Description] (/teaching/COMP350-Theory/comp350-theory-proofs.pdf)  
