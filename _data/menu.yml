@@ -18,6 +18,9 @@
 
 - title: "For Students"
   href: "/for-students/"
+  subcategories:
+    - subtitle: "Office Hours"
+      subhref: "/for-students/office-hours"
 
 - title: "Blog"
   href: "/blog/"
