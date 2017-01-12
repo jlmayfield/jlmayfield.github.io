@@ -9,6 +9,11 @@ permalink: /teaching/COMP161/
 
 ### Lecture Notes
 
+&nbsp;&nbsp;&nbsp;[00 - Preface](/teaching/COMP161/notes/comp161-lectureNotes-00.pdf)  
+&nbsp;&nbsp;&nbsp;[01 - Programming](/teaching/COMP161/notes/comp161-lectureNotes-01.pdf)  
+&nbsp;&nbsp;&nbsp;[02 - Shells and Remote Access](/teaching/COMP161/notes/comp161-lectureNotes-02.pdf)  
+&nbsp;&nbsp;&nbsp;[03 - Working with the Shell](/teaching/COMP161/notes/comp161-lectureNotes-03.pdf)  
+
 ### Labs & Homework
 
 ### Projects
