@@ -16,4 +16,7 @@ permalink: /teaching/COMP161/
 
 ### Labs & Homework
 
+&nbsp;&nbsp;&nbsp;[Lab 1 & Homework 1](/teaching/COMP161/labs/comp161-lab1.pdf)  
+
+
 ### Projects
