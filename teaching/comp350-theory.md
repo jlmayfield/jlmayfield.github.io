@@ -7,6 +7,7 @@ permalink: /teaching/COMP350-Theory/
 [Syllabus](/teaching/COMP350-Theory/comp350-theory-syllabus.pdf)  
 
 ### Lecture Notes
+&nbsp;&nbsp;&nbsp;[Lecture Notes 01 - Chapter 1 Summary](/teaching/COMP350-Theory/notes/comp350-lectureNotes-01.pdf)  
 
 ### Problem Sets
 
