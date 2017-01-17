@@ -11,7 +11,7 @@ permalink: /teaching/COMP350-Theory/
 
 ### Problem Sets
 
-&nbsp;&nbsp;&nbsp;[Problem Set 01 - Chapter 1 Summary](/teaching/COMP350-Theory/psetss/comp350-pset-01.pdf)  
+&nbsp;&nbsp;&nbsp;[Problem Set 01 - Chapter 1 Summary](/teaching/COMP350-Theory/psets/comp350-pset-01.pdf)  
 
 ### Proof Paper Assignments
 
