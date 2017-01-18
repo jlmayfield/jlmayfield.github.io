@@ -17,3 +17,4 @@ permalink: /teaching/COMP350-Theory/
 
 &nbsp;&nbsp;&nbsp;[Proof Paper Description](/teaching/COMP350-Theory/comp350-theory-proofs.pdf)  
 &nbsp;&nbsp;&nbsp;[Proof Assignments](/teaching/COMP350-Theory/comp350-proof-assigns.pdf)  
+&nbsp;&nbsp;&nbsp;[Example Proof Paper](/teaching/COMP350-Theory/comp350-proof-example.pdf) | [LaTex Source](/teaching/COMP350-Theory/comp350-proof-example.tex) | [Bibtex File](/teaching/COMP350-Theory/Sipser.bib)  
