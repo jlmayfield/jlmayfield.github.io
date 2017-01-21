@@ -20,7 +20,7 @@ permalink: /teaching/COMP161/
 ### Labs & Homework
 
 &nbsp;&nbsp;&nbsp;[Lab 1 & Homework 1](/teaching/COMP161/labs/comp161-lab1.pdf)  
-&nbsp;&nbsp;&nbsp;[Lab 2 & Homework 2](/teaching/COMP161/labs/comp161-lab2.pdf)  
+&nbsp;&nbsp;&nbsp;[Lab 2 & Homework 2](/teaching/COMP161/labs/comp161-lab2.pdf) | [Lab 2 Starter Source](/teaching/COMP161/labs/lab2.zip)   
 
 
 ### Projects
