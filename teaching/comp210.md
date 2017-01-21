@@ -12,10 +12,17 @@ permalink: /teaching/COMP210/
 &nbsp;&nbsp;&nbsp;[01 - Object Orientation](/teaching/COMP210/notes/comp210-lectureNotes-01.pdf)  
 &nbsp;&nbsp;&nbsp;[02 - Java Program Structure and Eclipse](/teaching/COMP210/notes/comp210-lectureNotes-02.pdf)  
 &nbsp;&nbsp;&nbsp;[03 - Procedural Java](/teaching/COMP210/notes/comp210-lectureNotes-03.pdf)  
+&nbsp;&nbsp;&nbsp;[04 - Basic Classes and Hierarchies ](/teaching/COMP210/notes/comp210-lectureNotes-04.pdf)  
+&nbsp;&nbsp;&nbsp;[05 - Class Extension ](/teaching/COMP210/notes/comp210-lectureNotes-05.pdf)  
+&nbsp;&nbsp;&nbsp;[06 - Containment vs. Extension](/teaching/COMP210/notes/comp210-lectureNotes-06.pdf)  
+&nbsp;&nbsp;&nbsp;[07 - Data Strcutures, ADTs, and PDAs](/teaching/COMP210/notes/comp210-lectureNotes-07.pdf)  
+&nbsp;&nbsp;&nbsp;[08 - Binary Trees, Heaps, and Priority Queues ](/teaching/COMP210/notes/comp210-lectureNotes-08.pdf)  
+
 
 ### Labs & Homework
 
 &nbsp;&nbsp;&nbsp;[Lab 1 & Homework 1](/teaching/COMP210/labs/comp210-lab1.pdf)  
+&nbsp;&nbsp;&nbsp;[Lab 2 & Homework 2](/teaching/COMP210/labs/comp210-lab2.pdf)  
 
 
 ### Projects
