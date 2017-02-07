@@ -8,10 +8,13 @@ permalink: /teaching/COMP350-Theory/
 
 ### Lecture Notes
 &nbsp;&nbsp;&nbsp;[Lecture Notes 01 - Chapter 1 Summary](/teaching/COMP350-Theory/notes/comp350-lectureNotes-01.pdf)  
+&nbsp;&nbsp;&nbsp;[Lecture Notes 02 - Chapter 2 Summary](/teaching/COMP350-Theory/notes/comp350-lectureNotes-02.pdf)  
 
 ### Problem Sets
 
-&nbsp;&nbsp;&nbsp;[Problem Set 01 - Chapter 1 Summary](/teaching/COMP350-Theory/psets/comp350-pset-01.pdf)  
+&nbsp;&nbsp;&nbsp;[Problem Set 01](/teaching/COMP350-Theory/psets/comp350-pset-01.pdf)  
+&nbsp;&nbsp;&nbsp;[Problem Set 02](/teaching/COMP350-Theory/psets/comp350-pset-02.pdf)  
+
 
 ### Proof Paper Assignments
 
