@@ -30,3 +30,5 @@ permalink: /teaching/COMP210/
 
 
 ### Projects
+
+&nbsp;&nbsp;&nbsp;[Lab 5](/teaching/COMP210/projects/comp210-proj1.pdf)  
