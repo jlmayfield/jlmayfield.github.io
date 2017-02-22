@@ -26,9 +26,10 @@ permalink: /teaching/COMP210/
 &nbsp;&nbsp;&nbsp;[Lab 3 & Homework 3](/teaching/COMP210/labs/comp210-lab3.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 4 & Homework 4](/teaching/COMP210/labs/comp210-lab4.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 5](/teaching/COMP210/labs/comp210-lab5.pdf)  
+&nbsp;&nbsp;&nbsp;[Lab 6 & Homework 5](/teaching/COMP210/labs/comp210-lab6.pdf)  
 
 
 
 ### Projects
 
-&nbsp;&nbsp;&nbsp;[Lab 5](/teaching/COMP210/projects/comp210-proj1.pdf)  
+&nbsp;&nbsp;&nbsp;[Project 1](/teaching/COMP210/projects/comp210-proj1.pdf)  
