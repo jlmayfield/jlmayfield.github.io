@@ -34,6 +34,7 @@ permalink: /teaching/COMP161/
 &nbsp;&nbsp;&nbsp;[Lab 4 & Homework 4](/teaching/COMP161/labs/comp161-lab4.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 5 & Homework 5](/teaching/COMP161/labs/comp161-lab5.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 6 & Homework 6](/teaching/COMP161/labs/comp161-lab6.pdf)  
+&nbsp;&nbsp;&nbsp;[Lab 7 & Homework 7](/teaching/COMP161/labs/comp161-lab7.pdf)  
 
 
 
