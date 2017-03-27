@@ -21,6 +21,7 @@ permalink: /teaching/COMP161/
 &nbsp;&nbsp;&nbsp;[09 - Procedures for Effect](/teaching/COMP161/notes/comp161-lectureNotes-09.pdf)  
 &nbsp;&nbsp;&nbsp;[10 - Putting it All Together](/teaching/COMP161/notes/comp161-lectureNotes-10.pdf)  
 &nbsp;&nbsp;&nbsp;[11 - Iteration and Recursion on Strings](/teaching/COMP161/notes/comp161-lectureNotes-11.pdf)  
+&nbsp;&nbsp;&nbsp;[12 - UI Loops](/teaching/COMP161/notes/comp161-lectureNotes-12.pdf)  
 &nbsp;&nbsp;&nbsp;[13 - Vectors](/teaching/COMP161/notes/comp161-lectureNotes-13.pdf)  
 
 
@@ -35,7 +36,9 @@ permalink: /teaching/COMP161/
 &nbsp;&nbsp;&nbsp;[Lab 5 & Homework 5](/teaching/COMP161/labs/comp161-lab5.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 6 & Homework 6](/teaching/COMP161/labs/comp161-lab6.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 7 & Homework 7](/teaching/COMP161/labs/comp161-lab7.pdf)  
-&nbsp;&nbsp;&nbsp;[Lab 8 & Homework 8](/teaching/COMP161/labs/comp161-lab8.pdf) 
+&nbsp;&nbsp;&nbsp;[Lab 8 & Homework 8](/teaching/COMP161/labs/comp161-lab8.pdf)
 
 
 ### Projects
+
+&nbsp;&nbsp;&nbsp;[Project 1 Lab](/teaching/COMP161/projects/comp161-proj1c-lab.pdf)
