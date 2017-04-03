@@ -36,3 +36,4 @@ permalink: /teaching/COMP210/
 ### Projects
 
 &nbsp;&nbsp;&nbsp;[Project 1](/teaching/COMP210/projects/comp210-proj1.pdf)  
+&nbsp;&nbsp;&nbsp;[Project 2](/teaching/COMP210/projects/comp210-proj2.pdf)  
