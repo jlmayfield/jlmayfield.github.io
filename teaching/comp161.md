@@ -23,6 +23,9 @@ permalink: /teaching/COMP161/
 &nbsp;&nbsp;&nbsp;[11 - Iteration and Recursion on Strings](/teaching/COMP161/notes/comp161-lectureNotes-11.pdf)  
 &nbsp;&nbsp;&nbsp;[12 - UI Loops](/teaching/COMP161/notes/comp161-lectureNotes-12.pdf)  
 &nbsp;&nbsp;&nbsp;[13 - Vectors](/teaching/COMP161/notes/comp161-lectureNotes-13.pdf)  
+&nbsp;&nbsp;&nbsp;[14 - Search and Sort](/teaching/COMP161/notes/comp161-lectureNotes-14.pdf)  
+&nbsp;&nbsp;&nbsp;[15 - Big-O and Complexity](/teaching/COMP161/notes/comp161-lectureNotes-15.pdf)  
+&nbsp;&nbsp;&nbsp;[16 - Analyzing Search and Sort](/teaching/COMP161/notes/comp161-lectureNotes-16.pdf)  
 
 
 ### Labs & Homework
