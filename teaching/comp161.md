@@ -26,7 +26,7 @@ permalink: /teaching/COMP161/
 &nbsp;&nbsp;&nbsp;[14 - Search and Sort](/teaching/COMP161/notes/comp161-lectureNotes-14.pdf)  
 &nbsp;&nbsp;&nbsp;[15 - Big-O and Complexity](/teaching/COMP161/notes/comp161-lectureNotes-15.pdf)  
 &nbsp;&nbsp;&nbsp;[16 - Analyzing Search and Sort](/teaching/COMP161/notes/comp161-lectureNotes-16.pdf)  
-
+&nbsp;&nbsp;&nbsp;[17 - Profiling ](/teaching/COMP161/notes/comp161-lectureNotes-17.pdf)  
 
 ### Labs & Homework
 
