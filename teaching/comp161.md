@@ -27,6 +27,7 @@ permalink: /teaching/COMP161/
 &nbsp;&nbsp;&nbsp;[15 - Big-O and Complexity](/teaching/COMP161/notes/comp161-lectureNotes-15.pdf)  
 &nbsp;&nbsp;&nbsp;[16 - Analyzing Search and Sort](/teaching/COMP161/notes/comp161-lectureNotes-16.pdf)  
 &nbsp;&nbsp;&nbsp;[17 - Profiling ](/teaching/COMP161/notes/comp161-lectureNotes-17.pdf)  
+&nbsp;&nbsp;&nbsp;[18 - Randomized Procedures](/teaching/COMP161/notes/comp161-lectureNotes-18.pdf)  
 
 ### Labs & Homework
 
@@ -37,7 +38,7 @@ permalink: /teaching/COMP161/
 &nbsp;&nbsp;&nbsp;[Lab 5 & Homework 5](/teaching/COMP161/labs/comp161-lab5.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 6 & Homework 6](/teaching/COMP161/labs/comp161-lab6.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 7 & Homework 7](/teaching/COMP161/labs/comp161-lab7.pdf)  
-&nbsp;&nbsp;&nbsp;[Lab 8 & Homework 8](/teaching/COMP161/labs/comp161-lab8.pdf)
+&nbsp;&nbsp;&nbsp;[Lab 8 & Homework 8](/teaching/COMP161/labs/comp161-lab8.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 9](/teaching/COMP161/labs/comp161-lab9.pdf)  
 
 ### Projects
