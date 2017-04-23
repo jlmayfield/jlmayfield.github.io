@@ -44,4 +44,5 @@ permalink: /teaching/COMP161/
 ### Projects
 
 &nbsp;&nbsp;&nbsp;[Project 1 Lab](/teaching/COMP161/projects/comp161-proj1c-lab.pdf)  
-&nbsp;&nbsp;&nbsp;[Project 1](/teaching/COMP161/projects/comp161-proj1c.pdf)
+&nbsp;&nbsp;&nbsp;[Project 1](/teaching/COMP161/projects/comp161-proj1c.pdf)  
+&nbsp;&nbsp;&nbsp;[Project 2](/teaching/COMP161/projects/comp161-proj2-sp17.pdf)  
