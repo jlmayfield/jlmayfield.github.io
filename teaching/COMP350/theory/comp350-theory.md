@@ -1,7 +1,7 @@
 ---
 layout: page
-title: COMP 350 - Topics in the Theory of Computation
-permalink: /teaching/COMP350-Theory/
+title: COMP 350 - Topics in the Theory of Computation - Spring 2017
+permalink: /teaching/COMP350/theory/
 ---
 
 [Syllabus](/teaching/COMP350-Theory/comp350-theory-syllabus.pdf)  

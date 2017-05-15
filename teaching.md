@@ -8,5 +8,5 @@ permalink: /teaching/
 
 [COMP161 - Introduction to Programming](/teaching/COMP161/)  
 [COMP210 - Object-Oriented Programming](/teaching/COMP210/)  
-[COMP350 - Topics in the Theory of Computation](/teaching/COMP350-Theory/)  
+[COMP350 - Topics in Computer Science](/teaching/COMP350/)  
 [COMP401 & 402 - Senior Capstone](/teaching/COMP401-402/)  
