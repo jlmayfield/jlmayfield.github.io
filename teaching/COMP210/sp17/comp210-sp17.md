@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMP 210 - Object Oriented Programming
+title: COMP 210 - Object Oriented Programming - Spring 2017
 permalink: /teaching/COMP210/sp17/
 ---
 

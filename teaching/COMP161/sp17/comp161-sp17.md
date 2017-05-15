@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMP 161 - Introduction to Programming
+title: COMP 161 - Introduction to Programming - Spring 2017
 permalink: /teaching/COMP161/sp17/
 ---
 
