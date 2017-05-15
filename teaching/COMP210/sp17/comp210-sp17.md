@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP 210 - Object Oriented Programming
-permalink: /teaching/COMP210/sp17
+permalink: /teaching/COMP210/sp17/
 ---
 
 [Syllabus](/teaching/COMP210/sp17comp210-syllabus.pdf)  
