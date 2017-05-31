@@ -10,4 +10,5 @@ permalink: /teaching/
 [COMP210 - Object-Oriented Programming](/teaching/COMP210/)  
 [COMP350 - Topics in Computer Science](/teaching/COMP350/)  
 [COMP401 & 402 - Senior Capstone](/teaching/COMP401-402/)  
+[INTG335 - Artificial Intelligence](/teaching/INTG335/)  
 [MATH260 - Discrete Mathematics](/teaching/MATH260/)  
