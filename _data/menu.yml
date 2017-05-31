@@ -9,6 +9,8 @@
       subhref: "/teaching/COMP350/"
     - subtitle: "COMP 401 & 402"
       subhref: "/teaching/COMP401-402/"
+    - subtitle: "MATH 260"
+      subhref: "/teaching/MATH260/"
 
 - title: "Research"
   href: "/research/"
