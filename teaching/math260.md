@@ -4,4 +4,4 @@ title: MATH 260 - Discrete Mathematics
 permalink: /teaching/MATH260/
 ---
 
-Coming Soon
+[Syllabus](/teaching/MATH260/math260-syllabus.pdf)
