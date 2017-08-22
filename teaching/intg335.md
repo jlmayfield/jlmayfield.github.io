@@ -4,4 +4,11 @@ title: INTG 335 - Artificial Intelligence - Fall 2017
 permalink: /teaching/INTG335/
 ---
 
-Coming Soon
+&nbsp;&nbsp;&nbsp;[Syllabus](/teaching/INTG335/intg335-sylabus.pdf)  
+&nbsp;&nbsp;&nbsp;[Reflection](/teaching/INTG335/intg335-reflection.pdf)  
+
+
+### Journal Assignments  
+
+
+### Papers  
