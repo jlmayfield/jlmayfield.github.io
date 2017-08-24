@@ -10,5 +10,6 @@ permalink: /teaching/INTG335/
 
 ### Journal Assignments  
 
+&nbsp;&nbsp;&nbsp;[Journal 1](/teaching/INTG335/journals/intg335-journal1.pdf)  
 
 ### Papers  
