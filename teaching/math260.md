@@ -9,4 +9,9 @@ permalink: /teaching/MATH260/
 ### Problem Sets
 
 &nbsp;&nbsp;&nbsp;[Grading Rubric](/teaching/MATH260/problemsets/math260-psetRubric.pdf)  
-&nbsp;&nbsp;&nbsp;[Problem Set I](/teaching/MATH260/problemsets/math260-pset1.pdf)
+&nbsp;&nbsp;&nbsp;[Problem Set I](/teaching/MATH260/problemsets/math260-pset1.pdf)  
+
+
+### Mathematica Notebooks
+
+&nbsp;&nbsp;&nbsp;[Set-Based Work](/teaching/MATH260/src/SetsDemo.nb)  
