@@ -16,3 +16,5 @@ permalink: /teaching/INTG335/
 
 
 ### Papers  
+
+&nbsp;&nbsp;&nbsp;[Paper 1](/teaching/INTG335/papers/intg335-paper1.pdf)  
