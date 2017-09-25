@@ -15,7 +15,7 @@ permalink: /teaching/INTG335/
 &nbsp;&nbsp;&nbsp;[Journal 3](/teaching/INTG335/journals/intg335-journal3.pdf)  
 &nbsp;&nbsp;&nbsp;[Journal 4](/teaching/INTG335/journals/intg335-journal4.pdf)  
 &nbsp;&nbsp;&nbsp;[Journal 5](/teaching/INTG335/journals/intg335-journal5.pdf)  
-
+&nbsp;&nbsp;&nbsp;[Journal 6](/teaching/INTG335/journals/intg335-journal6.pdf)  
 
 ### Papers  
 
