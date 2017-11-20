@@ -26,3 +26,4 @@ permalink: /teaching/INTG335/
 &nbsp;&nbsp;&nbsp;[Paper 1](/teaching/INTG335/papers/intg335-paper1.pdf)  
 &nbsp;&nbsp;&nbsp;[Paper 2](/teaching/INTG335/papers/intg335-paper2.pdf)  
 &nbsp;&nbsp;&nbsp;[Paper 3](/teaching/INTG335/papers/intg335-paper3.pdf)  
+&nbsp;&nbsp;&nbsp;[Paper 4](/teaching/INTG335/papers/intg335-paper4.pdf)  
