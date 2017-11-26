@@ -15,6 +15,7 @@ permalink: /teaching/MATH260/
 &nbsp;&nbsp;&nbsp;[Problem Set IV](/teaching/MATH260/problemsets/math260-pset4.pdf)  
 &nbsp;&nbsp;&nbsp;[Problem Set V](/teaching/MATH260/problemsets/math260-pset5.pdf)  
 &nbsp;&nbsp;&nbsp;[Problem Set VI](/teaching/MATH260/problemsets/math260-pset6.pdf)  
+&nbsp;&nbsp;&nbsp;[Problem Set VII](/teaching/MATH260/problemsets/math260-pset7.pdf)  
 
 
 ### Mathematica Notebooks
