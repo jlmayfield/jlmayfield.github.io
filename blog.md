@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-No blog yet. Maybe soon?
+[Posts by Categories](/categories/)
 
 <ul class="listing">
 {% for post in site.posts %}
