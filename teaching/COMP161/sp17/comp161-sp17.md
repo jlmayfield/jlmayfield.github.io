@@ -5,13 +5,13 @@ permalink: /teaching/COMP161/sp17/
 ---
 
 [Syllabus](/teaching/COMP161/sp17/comp161-syllabus.pdf) |
-[Sources](/teaching/COMP161/sp17/sp17/comp161-sources.pdf)
+[Sources](/teaching/COMP161/sp17/comp161-sources.pdf)
 
 ### Lecture Notes
 
-&nbsp;&nbsp;&nbsp;[00 - Preface](/teaching/COMP161/sp17/sp17/notes/comp161-lectureNotes-00.pdf)  
-&nbsp;&nbsp;&nbsp;[01 - Programming](/teaching/COMP161/sp17/sp17/notes/comp161-lectureNotes-01.pdf)  
-&nbsp;&nbsp;&nbsp;[02 - Shells and Remote Access](/teaching/COMP161/sp17/sp17/notes/comp161-lectureNotes-02.pdf)  
+&nbsp;&nbsp;&nbsp;[00 - Preface](/teaching/COMP161/sp17/notes/comp161-lectureNotes-00.pdf)  
+&nbsp;&nbsp;&nbsp;[01 - Programming](/teaching/COMP161/sp17/notes/comp161-lectureNotes-01.pdf)  
+&nbsp;&nbsp;&nbsp;[02 - Shells and Remote Access](/teaching/COMP161/sp17/notes/comp161-lectureNotes-02.pdf)  
 &nbsp;&nbsp;&nbsp;[03 - Working with the Shell](/teaching/COMP161/sp17/notes/comp161-lectureNotes-03.pdf)  
 &nbsp;&nbsp;&nbsp;[04 - The Structure of a C++ Program](/teaching/COMP161/sp17/notes/comp161-lectureNotes-04.pdf)  
 &nbsp;&nbsp;&nbsp;[05 - The Compiler](/teaching/COMP161/sp17/notes/comp161-lectureNotes-05.pdf)  
