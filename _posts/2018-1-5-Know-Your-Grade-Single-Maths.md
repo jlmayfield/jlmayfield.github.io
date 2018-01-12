@@ -3,7 +3,7 @@ layout: post
 title: Know Your Grade&#58; Single Assignments - The Math
 description: How one assignment factors into your course grade
 date: 2018-01-05
-categories: [Students, Grades, Mathematics]
+categories: [Know Your Grade]
 mathjax: true
 ---
 
@@ -82,4 +82,4 @@ What if we've complete 2 of 8 homework assignments and 1 of 4 exam with homework
 
 $$\frac{g(.15,8,.95)+g(.15,8,.9)+g(.48,4,.85)}{w_a(.15,8)+w_a(.15,8)+w_a(.48,4)}$$.  
 
-There are other was of organizing the grade computation. Ways that ultimately require less total computation to be done. In a later post we'll unpack and reorganize the formula to support a different kind of analysis. Here our goal is to enable an assignment by assignment approach to the calculation of your grade and we've organized the formulas to reflect that. 
+There are other was of organizing the grade computation. Ways that ultimately require less total computation to be done. In a later post we'll unpack and reorganize the formula to support a different kind of analysis. Here our goal is to enable an assignment by assignment approach to the calculation of your grade and we've organized the formulas to reflect that.

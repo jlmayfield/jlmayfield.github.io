@@ -3,7 +3,7 @@ layout: post
 title: Know Your Grade&#58; Single Assignments
 description: How one assignment factors into your course grade
 date: 2018-01-04
-categories: [Students, Grades]
+categories: [Know Your Grade]
 mathjax: true
 ---
 
