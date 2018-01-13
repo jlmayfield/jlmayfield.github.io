@@ -5,7 +5,7 @@ permalink: /teaching/COMP160/
 ---
 
 [Syllabus](/teaching/COMP160/comp160-syllabus.pdf)  
-[How To Design Programs, 2nd Ed.](http://www.ccs.neu.edu/home/matthias/HtDP2e/)  
+[How To Design Programs, 2nd Ed.](http://www.htdp.org)  
 
 
 ### Labs
