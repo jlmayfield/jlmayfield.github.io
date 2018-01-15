@@ -25,15 +25,15 @@ You can answer this question with essentially the same tools you already have in
 
 $$
 \begin{array}{ll}
-.35*.87 = .3045 \\
-.10*.95 = .095 \\
+0.35*0.87 = 0.3045 \\
+0.10*0.95 = 0.095 \\
 \end{array}
 $$.
 
 If you add the 30.45 points earned so far to the 9.5 points earned by the paper you'd have the points earned towards your final grade, 39.95. Because you're interested in your grade right now, we need to divide that sum by the 45 total percentage points covered by the previous work and the paper gives you your grade if you get that A,
 
 $$
-\frac{.3045 + .095}{.45} \approx .8878
+\frac{0.3045 + 0.095}{0.45} \approx 0.8878
 $$
 
 With a bit of rounding, that A paper gets you just shy of a 2 percentage point bump in your current grade, bringing you to an 88.78%.
@@ -55,7 +55,7 @@ $$
 \begin{array}{rcl}
 g_2 &=& \frac{w_0*g_0 + w_1*g_1}{w_0+w_1} \\
 &=& \frac{w_0*g_0}{w_0+w_1} + \frac{w_1*g_1}{w_0+w_1} \\
-&=& \frac{w_0}{w_0+w_1}*g_0 + \frac{w_1}{w_0+w_1}*g_1 \\
+&=& \frac{w_0}{w_0+w_1} * g_0 + \frac{w_1}{w_0+w_1} * g_1 \\
 \end{array}
 $$
 
@@ -65,12 +65,12 @@ In general, the two weights seen here will always sum to 1. If it's not clear wh
 
 #### Examples
 
-Now go back to our earlier example. What was the weight of your current grade? It was $$\frac{.35}{.45} \approx .7778$$. The weight of your paper is then $$\frac{.1}{.45} \approx .2222$$.  The fact that your previous work carries over 3 times the weight of the paper explains why the paper didn't move your grade up all that much despite being a solid A.
+Now go back to our earlier example. What was the weight of your current grade? It was $$\frac{0.35}{0.45} \approx 0.7778$$. The weight of your paper is then $$\frac{0.1}{0.45} \approx 0.2222$$.  The fact that your previous work carries over 3 times the weight of the paper explains why the paper didn't move your grade up all that much despite being a solid A.
 
 Let's say you're short time and don't think this paper will be your best work.  You'd like to know what happens to your grade if you get something like a 70%.  Don't guess, do the arithmetic and know for sure.
 
 $$
-.7778*.87 + .2222*.70 = .676686 + .15554 = .832226
+0.7778*0.87 + 0.2222*0.70 = 0.676686 + 0.15554 = 0.832226
 $$.
 
 If you get that C-, then your grade drops a few percentage points but you're still in the B range with about an 83%. The good news is that the 87% you've banked up still carries more weight than the C- you're expecting to get.
@@ -79,8 +79,8 @@ What if your paper were worth 35% of your final grade and your current grade onl
 
 $$
 \begin{array}{rcl}
-.2222*.87 + .7778*.95 &=&  .932224 \\
-.2222*.87 + .7778*.70 &=&  .737774 \\
+0.2222*0.87 + 0.7778*0.95 &=&  0.932224 \\
+0.2222*0.87 + 0.7778*0.70 &=&  0.737774 \\
 \end{array}
 $$.
 
@@ -91,16 +91,16 @@ Your final grade is destined to be more like the grade with the higher weight. O
 One last example before we go. Let's say you completely opt out of that paper. Remember you're sitting on an 87 with a weight of 35 and the paper has a weight of 10. Let's see what a 0 on the paper does to your grade.
 
 $$
-.7778*.87 + .2222*0 = .676686  
+0.7778*0.87 + 0.2222*0 = 0.676686  
 $$.
 
 After doing nothing for that paper you've dropped from a solid B to a solid D. That's a big shift in your grade. The kinds of smaller shifts we saw earlier happen when you're actually engaged in doing the work and making efforts to do at least passable work.  Even the lowest possible passing grade keeps you in the B- range:
 
 $$
-.7778*.87 + .2222*.6 = .676686  + .13332 = .810006
+0.7778*0.87 + 0.2222*0.6 = 0.676686  + 0.13332 = 0.810006
 $$.  
 
-Doing nothing does a lot to your grade. Don't do nothing. Turn in something for every assignment you're given. Worse the effect doing nothing has on your grade is the fact that you learn nothing from nothing. If you at least attempt the assignment, you have the opportunity to learn. That's why you're in school. You're here to learn, not to get grades. 
+Doing nothing does a lot to your grade. Don't do nothing. Turn in something for every assignment you're given. Worse the effect doing nothing has on your grade is the fact that you learn nothing from nothing. If you at least attempt the assignment, you have the opportunity to learn. That's why you're in school. You're here to learn, not to get grades.
 
 
 ### Recap

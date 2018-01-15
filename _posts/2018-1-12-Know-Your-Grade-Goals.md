@@ -24,13 +24,13 @@ Notice that this problem involves information that is accounted for by our grade
 
 $$
 \begin{array}{rcl}
-.85 &=& \frac{.25}{.25+.15}.81 + \frac{.15}{.25+.15}g_1 \\
-.85 &=& .625 * .81 + .375 * g_1 \\
-.85 &=& .50625 + .375 * g_1 \\
-.85 - .50625 &=& (.50625 + .375 * g_1) - .50625 \\
-.34375 &=& .375 * g_1 \\
-.34375 * \frac{1}{.375} &=& .375 * g_1 * \frac{1}{.375} \\
-.9167 &\approx& g_1
+0.85 &=& \frac{0.25}{0.25+0.15}0.81 + \frac{0.15}{0.25+0.15}g_1 \\
+0.85 &=& 0.625 * 0.81 + 0.375 * g_1 \\
+0.85 &=& 0.50625 + 0.375 * g_1 \\
+0.85 - 0.50625 &=& (0.50625 + 0.375 * g_1) - 0.50625 \\
+0.34375 &=& 0.375 * g_1 \\
+0.34375 * \frac{1}{0.375} &=& 0.375 * g_1 * \frac{1}{0.375} \\
+0.9167 &\approx& g_1
 \end{array}
 $$.
 
@@ -65,8 +65,8 @@ Your current grade is a 76% and carries a weight of 45% of your final grade. The
 
 $$
 \begin{array}{rcl}
-g_1 &=& \frac{.45+.15}{.15}.8 - \frac{.45}{.15}.76 \\
-g_1 &=& 4 * .8 - 3 * .76 \\
+g_1 &=& \frac{0.45+0.15}{0.15}0.8 - \frac{0.45}{0.15}0.76 \\
+g_1 &=& 4 * 0.8 - 3 * 0.76 \\
 g_1 &=& 3.2 - 2.28 \\
 g_1 &=& 0.92
 \end{array}
@@ -76,7 +76,7 @@ If you achieve a 92% on the upcoming exam you'll bump your grade to the 80% cuto
 
 $$
 \begin{array}{rcl}
-g_1 &=& 4 * .85 - 2.28 \\
+g_1 &=& 4 * 0.5 - 2.28 \\
 g_1 &=& 3.2 - 2.28 \\
 g_1 &=& 1.12
 \end{array}
@@ -88,8 +88,8 @@ What if the work you've completed has you sitting at a comfortable 96% and the w
 
 $$
 \begin{array}{rcl}
-g_1 &=& \frac{.65+.1}{.1}.91 - \frac{.65}{.1}.96 \\
-g_1 &=& 7.5 * .91 - 6.5 * .96 \\
+g_1 &=& \frac{0.5+0.}{0.}0.1 - \frac{0.5}{0.}0.6 \\
+g_1 &=& 7.5 * 0.1 - 6.5 * 0.6 \\
 g_1 &=& 6.825 - 6.24 \\
 g_1 &=& 0.585
 \end{array}

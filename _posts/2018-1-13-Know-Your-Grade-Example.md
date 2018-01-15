@@ -26,13 +26,13 @@ $$w_a(w_c,n) = \frac{w_c}{n}$$
 where $$w_c$$ and $$n$$ are the category weight and size, respectively. The homeworks both have the same weight of 3% as seen here,  
 
 $$
-w_a(.30,10) = \frac{.30}{10} = .03
+w_a(0.30,10) = \frac{0.30}{10} = 0.03
 $$.
 
 The paper category has the same weight but half the number of assignments so it's not surprising that the weight of that assignment is double that of a single homework assignment,
 
 $$
-w_a(.30,5) = \frac{.30}{5} = .06
+w_a(0.30,5) = \frac{0.30}{5} = 0.06
 $$.
 
 This brings the total weight of your three completed assignments to 12%, half for the two homeworks and the other half for the paper.
@@ -45,9 +45,9 @@ where $$w_c$$ and $$n$$ are still the category weight and size and $$s$$ is the 
 
 $$
 \begin{array}{rcl}
-g(.3,10,.95) &=& .03 * .95  = .0285\\
-g(.3,10,.88) &=& .03 * .88  = .0264\\
-g(.3,10,.73) &=& .06 * .73  = .0438
+g(0.3,10,0.95) &=& 0.03 * 0.95  = 0.0285\\
+g(0.3,10,0.88) &=& 0.03 * 0.88  = 0.0264\\
+g(0.3,10,0.73) &=& 0.06 * 0.73  = 0.0438
 \end{array}
 $$.  
 
@@ -65,8 +65,8 @@ The grades in question are indexed by the order in which you earned them. This m
 
 $$
 \begin{array}{rcl}
-g_1 &=& \frac{.12+.08}{.08}.9 - \frac{.12}{.08}.8225 \\
-g_1 &=& 2.5 * .9 - 1.5 * .8225 \\
+g_1 &=& \frac{0.12+0.08}{0.08}0.9 - \frac{0.12}{0.08}0.8225 \\
+g_1 &=& 2.5 * 0.9 - 1.5 * 0.8225 \\
 g_1 &=& 2.25 - 1.23375 \\
 g_1 &=& 1.01625
 \end{array}
@@ -76,9 +76,9 @@ So we see that you need just short of 102% to bring your grade in the course up 
 
 $$
 \begin{array}{rcl}
-g_1 &=&2.5 * .88 - 1.23375 \\
+g_1 &=&2.5 * 0.88 - 1.23375 \\
 g_1 &=& 2.2 - 1.23375 \\
-g_1 &=& .96625
+g_1 &=& 0.96625
 \end{array}
 $$.  
 
@@ -94,10 +94,10 @@ All the variables in this formula are the same as before so we can just get to i
 
 $$
 \begin{array}{rcl}
-g_2 &=& \frac{.12}{.2}.8225 + \frac{.08}{.2}.87 \\
-g_2 &=& .6 * .8225 + .4 * .87 \\
-g_2 &=& .4935 + .4 * .348 \\
-g_2 &=& .8415 \\
+g_2 &=& \frac{0.12}{0.2}0.8225 + \frac{0.08}{0.2}0.87 \\
+g_2 &=& 0.6 * 0.8225 + 0.4 * 0.87 \\
+g_2 &=& 0.4935 + 0.4 * 0.348 \\
+g_2 &=& 0.8415 \\
 \end{array}
 $$.  
 
@@ -111,11 +111,11 @@ Pretend that your next assignment accounts for the remaining 80% of your course 
 
 $$
 \begin{array}{rcl}
-g_1 &=& \frac{.2+.8}{.8}.9 - \frac{.2}{.8}.8415 \\
-g_1 &=& 1.25 * .9 - .25 * .8415 \\
-g_1 &=& 1.125 - .210375 \\
-g_1 &=& .914625 \\
+g_1 &=& \frac{0.2+0.8}{0.8}0.9 - \frac{0.2}{0.8}0.8415 \\
+g_1 &=& 1.25 * 0.9 - 0.25 * 0.8415 \\
+g_1 &=& 1.125 - 0.210375 \\
+g_1 &=& 0.914625 \\
 \end{array}
 $$.  
 
-That single assignment would need to be just over a 91% to get your grade up to a 90% for the semester. Of course you have many assignments ahead of you, not just one. Another way of interpreting this result is that *you need to average just above a 91% for the rest of the assignments* in order to finish the semester with a 90%. There's nothing that says you cannot use an average for $$g_1$$ in the same way that you use one $$g_0$$.  It just changes how you interpret the result.  In future posts we'll look at these more longer ranging questions and more ways that you can use weighted average calculations to shed some light on your grades and even you GPA. 
+That single assignment would need to be just over a 91% to get your grade up to a 90% for the semester. Of course you have many assignments ahead of you, not just one. Another way of interpreting this result is that *you need to average just above a 91% for the rest of the assignments* in order to finish the semester with a 90%. There's nothing that says you cannot use an average for $$g_1$$ in the same way that you use one $$g_0$$.  It just changes how you interpret the result.  In future posts we'll look at these more longer ranging questions and more ways that you can use weighted average calculations to shed some light on your grades and even you GPA.
