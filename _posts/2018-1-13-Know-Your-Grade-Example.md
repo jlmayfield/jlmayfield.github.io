@@ -96,7 +96,7 @@ $$
 \begin{array}{rcl}
 g_2 &=& \frac{0.12}{0.2} * 0.8225 + \frac{0.08}{0.2} * 0.87 \\
 g_2 &=& 0.6 * 0.8225 + 0.4 * 0.87 \\
-g_2 &=& 0.4935 + 0.4 * 0.348 \\
+g_2 &=& 0.4935 + 0.348 \\
 g_2 &=& 0.8415 \\
 \end{array}
 $$.  
@@ -118,6 +118,6 @@ g_1 &=& 0.914625 \\
 \end{array}
 $$.  
 
-That single assignment would need to be just over a 91% to get your grade up to a 90% for the semester. Of course you have many assignments ahead of you, not just one. Another way of interpreting this result is that *you need to average just above a 91% for the rest of the assignments* in order to finish the semester with a 90%.
+That single assignment would need to be just over a 91% to get your grade up to a 90% for the semester. That's great, but you have many assignments ahead of you, not just one. Another way of interpreting this result is that *the average score of the remainder of your assignments needs to be just above 91%* in order to finish the semester with a 90%.  
 
 There's nothing that says you cannot use an average for $$g_1$$ in the same way that you use one for $$g_0$$.  It just changes how you interpret the result.  In future posts we'll look at these more longer ranging questions and more ways that you can use weighted average calculations to shed some light on your grades and even you GPA.
