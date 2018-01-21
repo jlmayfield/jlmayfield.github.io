@@ -10,7 +10,9 @@ permalink: /teaching/COMP160/
 
 ### Labs
 
-&nbsp;&nbsp;&nbsp;[Lab 1](/teaching/COMP160/labs/comp160-lab1.pdf)
+&nbsp;&nbsp;&nbsp;[Lab 1](/teaching/COMP160/labs/comp160-lab1.pdf)  
+&nbsp;&nbsp;&nbsp;[Lab 2](/teaching/COMP160/labs/comp160-lab2.pdf)  
+
 
 ### Homework
 
