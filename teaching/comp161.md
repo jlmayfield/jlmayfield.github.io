@@ -17,6 +17,9 @@ permalink: /teaching/COMP161/
 &nbsp;&nbsp;&nbsp;[05 - The Compiler](/teaching/COMP161/notes/comp161-lectureNotes-05.pdf)  
 &nbsp;&nbsp;&nbsp;[06 - Functional Procedures](/teaching/COMP161/notes/comp161-lectureNotes-06.pdf)  
 &nbsp;&nbsp;&nbsp;[07 - main, I/O, and State Mutation Effects ](/teaching/COMP161/notes/comp161-lectureNotes-07.pdf)  
+&nbsp;&nbsp;&nbsp;[08 - Strings](/teaching/COMP161/notes/comp161-lectureNotes-08.pdf)  
+&nbsp;&nbsp;&nbsp;[09 - Procedures for Effect](/teaching/COMP161/notes/comp161-lectureNotes-09.pdf)  
+&nbsp;&nbsp;&nbsp;[10 - Putting it All Together](/teaching/COMP161/notes/comp161-lectureNotes-10.pdf)    
 
 ### Labs
 
