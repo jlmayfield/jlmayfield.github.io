@@ -37,7 +37,7 @@ permalink: /teaching/COMP161/
 
 ### Projects
 
-&nbsp;&nbsp;&nbsp;[Project 1 - Grade Analyzer](/teaching/COMP161/projectss/comp161-proj1c.pdf)  
+&nbsp;&nbsp;&nbsp;[Project 1 - Grade Analyzer](/teaching/COMP161/projects/comp161-proj1c.pdf)  
 
 #### Past Offerings
 
