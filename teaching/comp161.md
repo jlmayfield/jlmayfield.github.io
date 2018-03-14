@@ -20,6 +20,10 @@ permalink: /teaching/COMP161/
 &nbsp;&nbsp;&nbsp;[08 - Strings](/teaching/COMP161/notes/comp161-lectureNotes-08.pdf)  
 &nbsp;&nbsp;&nbsp;[09 - Procedures for Effect](/teaching/COMP161/notes/comp161-lectureNotes-09.pdf)  
 &nbsp;&nbsp;&nbsp;[10 - Putting it All Together](/teaching/COMP161/notes/comp161-lectureNotes-10.pdf)    
+&nbsp;&nbsp;&nbsp;[11 - Iterative and Recursive Procedures for Strings](/teaching/COMP161/notes/comp161-lectureNotes-11.pdf)    
+&nbsp;&nbsp;&nbsp;[12 - UI Loops](/teaching/COMP161/notes/comp161-lectureNotes-12.pdf)    
+&nbsp;&nbsp;&nbsp;[13 - Vectors](/teaching/COMP161/notes/comp161-lectureNotes-13.pdf)  
+
 
 ### Labs
 
@@ -33,6 +37,7 @@ permalink: /teaching/COMP161/
 
 ### Projects
 
+&nbsp;&nbsp;&nbsp;[Project 1 - Grade Analyzer](/teaching/COMP161/projectss/comp161-proj1c.pdf)  
 
 #### Past Offerings
 
