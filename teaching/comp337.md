@@ -18,6 +18,7 @@ The Wireshark labs are all available for download [here](http://www-net.cs.umass
 |   1            |  Getting Started, P18, and P19 |  1/23      |  
 |   2            | HTTP & DNS       |  2/9     |  
 |   3            |  TCP & UDP       |  2/26    |  
+|  4             |    IP            |  3.27    |  
 
 
 ## Problem Sets
