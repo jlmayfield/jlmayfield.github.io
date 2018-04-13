@@ -42,11 +42,14 @@ permalink: /teaching/COMP161/
 &nbsp;&nbsp;&nbsp;[Project 1 Lab](/teaching/COMP161/labs/comp161-proj1c-lab.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 8](/teaching/COMP161/labs/comp161-lab8.pdf)  |  [Starter Code](/teaching/COMP161/labs/c161-lab8-starter.zip)  
 &nbsp;&nbsp;&nbsp;[Lab 9](/teaching/COMP161/labs/comp161-lab9.pdf)  
+&nbsp;&nbsp;&nbsp;[Project 2 Lab](/teaching/COMP161/projects/comp161-proj2.pdf)  |  [Starter Code](/teaching/COMP161/projects/labp2-starter.pdf)
+
 
 
 ### Projects
 
 &nbsp;&nbsp;&nbsp;[Project 1 - Grade Analyzer](/teaching/COMP161/projects/comp161-proj1c.pdf)  
+&nbsp;&nbsp;&nbsp;[Project 2 - Search & Sort Profiler](/teaching/COMP161/projects/comp161-proj2.pdf)  | [SearchSort Library](/teaching/COMP161/projects/searchsort.zip)   
 
 #### Past Offerings
 
