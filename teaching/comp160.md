@@ -41,3 +41,4 @@ Homework is always due at the start of class on the date given in the table belo
 ### Projects
 
 &nbsp;&nbsp;&nbsp;[Project 1 - Virtual Cat](/teaching/COMP160/projects/comp160-project1.pdf)  
+&nbsp;&nbsp;&nbsp;[Project 2 - Dictionary Analysis](/teaching/COMP160/projects/comp160-project2.pdf)  |  [Dictionary File](/teaching/COMP160/projects/words)  
