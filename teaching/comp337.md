@@ -22,7 +22,7 @@ The Wireshark labs are all available for download [here](http://www-net.cs.umass
 |  5             |   IMCP           |  4/18    |  
 |  6             |   Ethernet and choose SSL or 802.11   |  5/9     |  
 
-For your final WireShark assignment you'll need to choose either that SSL lab or the Wireless (802.11) lab to do and present in addition to the Enthernet lab. Either one will require you to delve into material not convered in class. You'll present *both* labs separately on the 9th. That's two presentations. Pay special attention to the presentation for the second lab as you'll be expected to give some basic introduction to the new material. To account for this, you can expect to have 2-4 more minutes of presentation time on the second lab. 
+For your final WireShark assignment you'll need to choose either that SSL lab or the Wireless (802.11) lab to do and present in addition to the Enthernet lab. Either one will require you to delve into material not convered in class. You'll present *both* labs separately on the 9th. That's two presentations. Pay special attention to the presentation for the second lab as you'll be expected to give some basic introduction to the new material. To account for this, you can expect to have 2-4 more minutes of presentation time on the second lab.
 
 ## Problem Sets
 
@@ -46,8 +46,8 @@ Problems listed in parenthesis are optional and/or will be worked during class t
 |     5          | 11,12,13,14,18   |   4/20    |  
 |                | 21               |           |  
 |                |                  |           |  
-|     6          |                  |           |  
-|                |                  |           |  
+|     6          |  1,2,3,5,7,8,10, |   4/30    |  
+|                |  14,15,16,21,22  |           |  
 
 
 
