@@ -35,7 +35,7 @@ Homework is always due at the start of class on the date given in the table belo
 |  | Do Exercies [70](http://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._ex~3acompute-struct1%29%29), [71](http://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._ex~3acompute-struct2%29%29), [72](http://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._struct6%29%29), and [73](http://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._ex~3aupdater1%29%29) |  |   
 | 5 | [131](http://htdp.org/2018-01-06/Book/part_two.html#%28counter._%28exercise._ex~3alist7%29%29),[134](http://htdp.org/2018-01-06/Book/part_two.html#%28counter._%28exercise._contains-flatt03%29%29),[137](http://htdp.org/2018-01-06/Book/part_two.html#%28counter._%28exercise._list0%29%29),[138](http://htdp.org/2018-01-06/Book/part_two.html#%28counter._%28exercise._list-sum1%29%29),[141](http://htdp.org/2018-01-06/Book/part_two.html#%28counter._%28exercise._list-string%29%29) | 4/16 |  
 | 6 | See Project 2 | 4/27  |  
-| 7 | In-Class Worksheet | 4/30 |  
+| 7 | [In-Class Worksheet](/teaching/COMP160/labs/comp160-hwk7.pdf) | 4/30 |  
 
 
 ### Projects
