@@ -7,11 +7,11 @@ permalink: /teaching/COMP160/
 &nbsp;&nbsp;&nbsp;[Syllabus](/teaching/COMP160/comp160-syllabus.pdf)  
 &nbsp;&nbsp;&nbsp;[How To Design Programs, 2nd Ed.](http://www.htdp.org)  
 
-### Labs
+## Labs
 
 &nbsp;&nbsp;&nbsp;[Lab 1](/teaching/COMP160/labs/comp160-lab1.pdf)  
 
-### Homework
+## Homework
 
 Homework is always due at the start of class on the date given in the table below. Exercises can be found in HtDP2e.
 
@@ -23,10 +23,10 @@ Homework is always due at the start of class on the date given in the table belo
 | 4 | | |  
 | 5 | | |  
 
+&nbsp;  
 
+&nbsp;  
 
-
-
-#### Past Offerings
+#### Past Course Offerings
 
 [Spring 2018](/teaching/COMP160/sp18/)
