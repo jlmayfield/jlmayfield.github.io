@@ -7,10 +7,11 @@ permalink: /teaching/COMP310/
 
 &nbsp;&nbsp;&nbsp;[Syllabus](/teaching/COMP310/comp310-syllabus.pdf)  
 
-## Software
+## Software  & Databases
 
 &nbsp;&nbsp;&nbsp;[MySQL Downloads](https://dev.mysql.com/downloads/) (You'll need the Community Server and Workbench)  
-&nbsp;&nbsp;&nbsp;[The Lahman Database](http://www.seanlahman.com/baseball-archive/statistics/)
+&nbsp;&nbsp;&nbsp;[The Lahman Database](http://www.seanlahman.com/baseball-archive/statistics/)  
+&nbsp;&nbsp;&nbsp;[Figure 4-3 : DreamHome Example](/teaching/COMP310/src/fig4.3.sql)
 
 ## Problem Sets
 
@@ -23,3 +24,10 @@ You are expected to begin reading the chapters and working the problem sets prio
 |        |  2.12, 2.15 (mySQL) |  |  
 |   | | |  
 |  2    |    4.1 to 4.9 all | 9/3  |  
+|   | | |  
+|       |  6.2 to 6.6 all |   |
+|  3<sup>*</sup>    |  6.13,6.14,6.17,6.20,6.24, | 9/10  |   
+|       |    6.26, 6.28, 6.30 |     |  
+
+
+\*  For the Exercises from chapter 3 you must first code up a rough version of your solution to exercise 4.9 in the style of the [DreamHome example](/teaching/COMP310/src/fig4.3.sql) from that same chapter .  Your solutions to the exercises should be submitted as a sql script that runs all the requested queries.
