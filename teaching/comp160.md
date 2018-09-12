@@ -15,12 +15,12 @@ permalink: /teaching/COMP160/
 
 ## Homework
 
-Homework is always due at the start of class on the date given in the table below. Exercises can be found in HtDP2e.
+Homework is always due at the start of class on the date given in the table below. Exercises can be found in the text. Some exercises require that you copy definitions and code from the text and interact with them in some way. Do that. Submit a document with the copied code on it and write as comments your response, reaction, or whatever is requested by the exercise in question. 
 
 | Number | Exercises | Due Date |
 |:------:|:---------:|:--------:|
 |    1    |  [1](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._arith-n%29%29),[2](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._arith-s0%29%29),[3](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._arith-s1%29%29),[4](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._arith-s2%29%29),[5](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._arith-i2%29%29),[6](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._arith-i1%29%29),[7](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._arith-b1%29%29),[8](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._arith-b2%29%29  ),[9](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._arith-p1%29%29),[10](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._arith-p2%29%29) |  9/3   |  
-| 2 | | |  
+| 2 | Exercises 21-30 from 2.2-2.4| 9/19 |  
 | 3 | | |  
 | 4 | | |  
 | 5 | | |  
