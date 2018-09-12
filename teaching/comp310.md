@@ -28,6 +28,11 @@ You are expected to begin reading the chapters and working the problem sets prio
 |       |  6.2 to 6.6 all |   |
 |  3<sup>*</sup>    |  6.13,6.14,6.17,6.20,6.24, | 9/10  |   
 |       |    6.26, 6.28, 6.30 |     |  
+|  |   |  
+|       |   7.1,7.2,7.4,7.5,7.9       |     |  
+|  4    |   7.21,7.23,7.10,7.11,7.13,  |  9/21   |
+|       |      7.14,7.17    |    |  
+|   |  |  
 
 
 \*  For the Exercises from chapter 3 you must first code up a rough version of your solution to exercise 4.9 in the style of the [DreamHome example](/teaching/COMP310/src/fig4.3.sql) from that same chapter .  Your solutions to the exercises should be submitted as a sql script that runs all the requested queries.
