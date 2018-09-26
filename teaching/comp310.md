@@ -5,7 +5,7 @@ permalink: /teaching/COMP310/
 ---
 
 
-&nbsp;&nbsp;&nbsp;[Syllabus](/teaching/COMP310/comp310-syllabus.pdf)  
+&nbsp;&nbsp;&nbsp;[Syllabus](/teaching/COMP310/comp310-syllabus.pdf)
 
 ## Software  & Databases
 
@@ -36,3 +36,7 @@ You are expected to begin reading the chapters and working the problem sets prio
 
 
 \*  For the Exercises from chapter 3 you must first code up a rough version of your solution to exercise 4.9 in the style of the [DreamHome example](/teaching/COMP310/src/fig4.3.sql) from that same chapter .  Your solutions to the exercises should be submitted as a sql script that runs all the requested queries.
+
+## Projects
+
+&nbsp;&nbsp;&nbsp;[Project 1 - Baseball Data Visualization](/teaching/COMP310/comp310-project1.pdf) 
