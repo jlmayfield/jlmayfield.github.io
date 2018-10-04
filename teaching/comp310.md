@@ -33,10 +33,14 @@ You are expected to begin reading the chapters and working the problem sets prio
 |  4    |   7.21,7.23,7.10,7.11,7.13,  |  9/21   |
 |       |      7.14,7.17    |    |  
 |   |  |  
+|       |  5.2-5.6, 5.8 (b,d,f),    |     |  
+|  5    |  5.9 (b,d,f), 5.10 (b,d), 5.11 (b,d),    |  10/22   |
+|       |  5.12 (b,d)   |    |  
+|   |  |  
 
 
 \*  For the Exercises from chapter 3 you must first code up a rough version of your solution to exercise 4.9 in the style of the [DreamHome example](/teaching/COMP310/src/fig4.3.sql) from that same chapter .  Your solutions to the exercises should be submitted as a sql script that runs all the requested queries.
 
 ## Projects
 
-&nbsp;&nbsp;&nbsp;[Project 1 - Baseball Data Visualization](/teaching/COMP310/comp310-project1.pdf) 
+&nbsp;&nbsp;&nbsp;[Project 1 - Baseball Data Visualization](/teaching/COMP310/comp310-project1.pdf)
