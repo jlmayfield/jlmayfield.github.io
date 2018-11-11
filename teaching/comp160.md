@@ -17,6 +17,7 @@ permalink: /teaching/COMP160/
 &nbsp;&nbsp;&nbsp;[Lab 6](/teaching/COMP160/labs/comp160-lab6.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 7](/teaching/COMP160/labs/comp160-lab7.pdf)  | [Starter Code](/teaching/COMP160/labs/lab7-starter.rkt)
 &nbsp;&nbsp;&nbsp;[Lab 8](/teaching/COMP160/labs/comp160-lab8.pdf)  
+&nbsp;&nbsp;&nbsp;[Lab 9](/teaching/COMP160/labs/comp160-lab9.pdf)  
 
 ## Homework
 
@@ -28,7 +29,7 @@ Homework is always due at the start of class on the date given in the table belo
 | 2 | Exercises [21](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._ex~3astepper1%29%29) to [30](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._constant1%29%29) from Sections [2.2](https://htdp.org/2018-01-06/Book/part_one.html#%28part._sec~3acomputing%29) to [2.4](https://htdp.org/2018-01-06/Book/part_one.html#%28part._sec~3aglobal%29)| 9/19 |  
 | 3 | Read [Section 4.7](https://htdp.org/2018-01-06/Book/part_one.html#%28part._sec~3aworlds-more%29). Do Exercises [59](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._cond11%29%29) to [62](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._cond12%29%29)  | 10/22 |  
 | 4 | [Exercise 108](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._pedestrian%29%29) | 11/12 |  
-| 5 | | |  
+| 5 | [Read 8.2](https://htdp.org/2018-01-06/Book/part_two.html#%28part._sec~3alists-cons%29). Do [139](https://htdp.org/2018-01-06/Book/part_two.html#%28counter._%28exercise._list-sum2%29%29), [140](https://htdp.org/2018-01-06/Book/part_two.html#%28counter._%28exercise._list-and%29%29), [141](https://htdp.org/2018-01-06/Book/part_two.html#%28counter._%28exercise._list-string%29%29), [142](https://htdp.org/2018-01-06/Book/part_two.html#%28counter._%28exercise._ex~3alist-image%29%29) | 11/20 |  
 
 ## Projects
 
