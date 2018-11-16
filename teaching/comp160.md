@@ -15,7 +15,7 @@ permalink: /teaching/COMP160/
 &nbsp;&nbsp;&nbsp;[Lab 4](/teaching/COMP160/labs/comp160-lab4.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 5](/teaching/COMP160/labs/comp160-lab5.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 6](/teaching/COMP160/labs/comp160-lab6.pdf)  
-&nbsp;&nbsp;&nbsp;[Lab 7](/teaching/COMP160/labs/comp160-lab7.pdf)  | [Starter Code](/teaching/COMP160/labs/lab7-starter.rkt)
+&nbsp;&nbsp;&nbsp;[Lab 7](/teaching/COMP160/labs/comp160-lab7.pdf)  | [Starter Code](/teaching/COMP160/labs/lab7-starter.rkt)  
 &nbsp;&nbsp;&nbsp;[Lab 8](/teaching/COMP160/labs/comp160-lab8.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 9](/teaching/COMP160/labs/comp160-lab9.pdf)  
 
