@@ -18,6 +18,7 @@ permalink: /teaching/COMP160/
 &nbsp;&nbsp;&nbsp;[Lab 7](/teaching/COMP160/labs/comp160-lab7.pdf)  | [Starter Code](/teaching/COMP160/labs/lab7-starter.rkt)  
 &nbsp;&nbsp;&nbsp;[Lab 8](/teaching/COMP160/labs/comp160-lab8.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 9](/teaching/COMP160/labs/comp160-lab9.pdf)  
+&nbsp;&nbsp;&nbsp;[Lab 10](/teaching/COMP160/labs/comp160-lab10.pdf)  
 
 ## Homework
 
