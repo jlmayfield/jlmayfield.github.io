@@ -47,4 +47,5 @@ You are expected to begin reading the chapters and working the problem sets prio
 
 ## Projects
 
-&nbsp;&nbsp;&nbsp;[Project 1 - Baseball Data Visualization](/teaching/COMP310/comp310-project1.pdf)
+&nbsp;&nbsp;&nbsp;[Project 1 - Baseball Data Visualization](/teaching/COMP310/comp310-project1.pdf)  
+&nbsp;&nbsp;&nbsp;[Project 2 - Database Design & Proposal](/teaching/COMP310/comp310-project2.pdf)  
