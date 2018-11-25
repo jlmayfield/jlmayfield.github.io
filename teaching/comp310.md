@@ -42,6 +42,11 @@ You are expected to begin reading the chapters and working the problem sets prio
 |  7 | 12.1-12.9, 12.10 (all), 12.12 (all) | 11/7 |  
 | | | |
 |  8 | 14.1-14.3,14.8,14.10-14.12,14.15-14.18 (all) | 11/20 |  
+| | | |
+| 9 | 16.5,16.10,16.11,16.16 | 11/30 |
+| | | |
+| 10 | 17.2,17.3,17.4,17.5,17.8,17.10 | 12/5 |
+| | | |
 
 \*  For the Exercises from chapter 3 you must first code up a rough version of your solution to exercise 4.9 in the style of the [DreamHome example](/teaching/COMP310/src/fig4.3.sql) from that same chapter .  Your solutions to the exercises should be submitted as a sql script that runs all the requested queries.
 
