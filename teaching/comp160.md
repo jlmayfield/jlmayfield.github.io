@@ -13,8 +13,8 @@ permalink: /teaching/COMP160/
 &nbsp;&nbsp;&nbsp;[Practice Problems for Exam 1](/teaching/COMP160/labs/comp160-wk2-prac.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 2](/teaching/COMP160/labs/comp160-lab2.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 3](/teaching/COMP160/labs/comp160-lab3.pdf)  
-<!---
 &nbsp;&nbsp;&nbsp;[Lab 4](/teaching/COMP160/labs/comp160-lab4.pdf)  
+<!---
 &nbsp;&nbsp;&nbsp;[Lab 5](/teaching/COMP160/labs/comp160-lab5.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 6](/teaching/COMP160/labs/comp160-lab6.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 7](/teaching/COMP160/labs/comp160-lab7.pdf)  | [Starter Code](/teaching/COMP160/labs/lab7-starter.rkt)  
