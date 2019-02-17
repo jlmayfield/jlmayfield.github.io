@@ -42,8 +42,9 @@ Homework is always due at the start of class on the date given in the table belo
 
 ## Projects
 
-<!---
 &nbsp;&nbsp;&nbsp;[Project 1](/teaching/COMP160/projects/comp160-project1-b.pdf)  
+
+<!---
 &nbsp;&nbsp;&nbsp;[Project 2](/teaching/COMP160/projects/comp160-project2-fa18.pdf)  
 
 --->
