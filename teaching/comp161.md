@@ -38,6 +38,11 @@ permalink: /teaching/COMP161/
 &nbsp;&nbsp;&nbsp;[Lab 8 & Homework 8](/teaching/COMP161/labs/comp161-lab8.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 9](/teaching/COMP161/labs/comp161-lab9.pdf)  
 
+
+### Projects
+
+&nbsp;&nbsp;&nbsp;[Project 1 - Tic-Tac-Toe](/teaching/COMP161/projects/comp161-proj1d.pdf)  
+
 #### Past Offerings
 
 [Spring 2018](/teaching/COMP161/sp18/)  
