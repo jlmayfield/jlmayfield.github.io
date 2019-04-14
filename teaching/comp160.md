@@ -19,10 +19,8 @@ permalink: /teaching/COMP160/
 &nbsp;&nbsp;&nbsp;[Lab 7](/teaching/COMP160/labs/comp160-lab7.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 8](/teaching/COMP160/labs/comp160-lab8.pdf)  
 &nbsp;&nbsp;&nbsp;[Lab 9](/teaching/COMP160/labs/comp160-lab9.pdf)  
+&nbsp;&nbsp;&nbsp;Lab 10 - See Project 2
 
-<!---
-&nbsp;&nbsp;&nbsp;[Lab 10](/teaching/COMP160/labs/comp160-lab10.pdf)  
---->
 ## Homework
 
 
@@ -41,11 +39,8 @@ Homework is always due at the start of class on the date given in the table belo
 ## Projects
 
 &nbsp;&nbsp;&nbsp;[Project 1](/teaching/COMP160/projects/comp160-project1-b.pdf)  
+&nbsp;&nbsp;&nbsp;[Project 2](/teaching/COMP160/projects/comp160-project2-sp19.pdf)  
 
-<!---
-&nbsp;&nbsp;&nbsp;[Project 2](/teaching/COMP160/projects/comp160-project2-fa18.pdf)  
-
---->
 &nbsp;  
 
 &nbsp;  

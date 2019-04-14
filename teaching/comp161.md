@@ -25,6 +25,8 @@ permalink: /teaching/COMP161/
 &nbsp;&nbsp;&nbsp;[13 - Vectors](/teaching/COMP161/sp18/notes/comp161-lectureNotes-13.pdf)  
 &nbsp;&nbsp;&nbsp;[14 - Search and Sort](/teaching/COMP161/sp18/notes/comp161-lectureNotes-14.pdf)  
 &nbsp;&nbsp;&nbsp;[18 - Randomized Procedures](/teaching/COMP161/sp18/notes/comp161-lectureNotes-18.pdf)  
+&nbsp;&nbsp;&nbsp;[Python Documentation & Tutorial](https://docs.python.org/3/)  
+
 
 ### Labs
 
@@ -43,6 +45,7 @@ permalink: /teaching/COMP161/
 ### Projects
 
 &nbsp;&nbsp;&nbsp;[Project 1 - Tic-Tac-Toe](/teaching/COMP161/projects/comp161-proj1d.pdf)  
+&nbsp;&nbsp;&nbsp;[Project 1 - Tic-Tac-Toe - Python Edition](/teaching/COMP161/projects/comp161-proj2d-py.pdf)  
 
 #### Past Offerings
 
