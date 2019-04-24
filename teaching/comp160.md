@@ -32,7 +32,7 @@ Homework is always due at the start of class on the date given in the table belo
 | 2 | Exercises [21](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._ex~3astepper1%29%29) to [30](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._constant1%29%29) from Sections [2.2](https://htdp.org/2018-01-06/Book/part_one.html#%28part._sec~3acomputing%29) to [2.4](https://htdp.org/2018-01-06/Book/part_one.html#%28part._sec~3aglobal%29)| 2/6 |  
 | 3 | Exercises [70](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._ex~3acompute-struct1%29%29),[71](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._ex~3acompute-struct2%29%29),[72](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._struct6%29%29),[73](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._ex~3aupdater1%29%29),[74](https://htdp.org/2018-01-06/Book/part_one.html#%28counter._%28exercise._ex~3arun-mouse-program%29%29) | 3/18 |  
 | 4 | Read Chapter 8 and the start of 9. Exercises [131](https://htdp.org/2019-02-24/part_two.html#%28counter._%28exercise._ex~3alist7%29%29),[137](https://htdp.org/2019-02-24/part_two.html#%28counter._%28exercise._list0%29%29), [138](https://htdp.org/2019-02-24/part_two.html#%28counter._%28exercise._list0%29%29) [139](https://htdp.org/2018-01-06/Book/part_two.html#%28counter._%28exercise._list-sum2%29%29), [140](https://htdp.org/2018-01-06/Book/part_two.html#%28counter._%28exercise._list-and%29%29), [141](https://htdp.org/2018-01-06/Book/part_two.html#%28counter._%28exercise._list-string%29%29), [142](https://htdp.org/2018-01-06/Book/part_two.html#%28counter._%28exercise._ex~3alist-image%29%29) | 4/10 |  
-| 5 | | |  
+
 
 &nbsp;  
 
