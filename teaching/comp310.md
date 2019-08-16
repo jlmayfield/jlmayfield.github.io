@@ -1,9 +1,8 @@
 ---
 layout: page
-title: COMP 310 - Database Theory and Design 
+title: COMP 310 - Database Theory and Design
 permalink: /teaching/COMP310/
 ---
-
 
 #### Past Course Offerings
 

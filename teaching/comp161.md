@@ -4,11 +4,11 @@ title: COMP 161 - Introduction to Programming
 permalink: /teaching/COMP161/
 ---
 
-Until the curriculum change for Fall of 2019, COMP161 acted as a transitional course.
+Until a curriculum change in Fall 2019, COMP161 acted as a transitional course.
 It took students from the functional style of [COMP160](/teaching/COMP160/) to the
-more imperative, object-oriented style of [COMP220](/teaching/COMP220/). In it's
+more imperative, object-oriented style of COMP220. In it's
 final form, students were also introduced to Python in preparation for the new
-Python-based introductory sequence. 
+Python-based introductory sequence.
 
 #### Past Offerings
 
