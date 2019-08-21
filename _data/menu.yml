@@ -1,7 +1,7 @@
 - title: "Teaching"
   href: "/teaching/"
   subcategories:
-    - subtitle: "COMP151"
+    - subtitle: "COMP 151"
       subhref: "/teaching/COMP151"
     - subtitle: "COMP 310"
       subhref: "/teaching/COMP310/"
