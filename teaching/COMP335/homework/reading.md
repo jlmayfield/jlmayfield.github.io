@@ -7,21 +7,23 @@ permalink: /teaching/COMP335/homework/Reading/
 The calendar below lists the sections of the text that you are expected to have read and ready to discuss for each day of the semester. It also includes expected due dates for reading notes and for each quiz. ***This calendar is likely to change and shift as the semester progresses so check it regularly.***
 
 
-&nbsp;&nbsp;&nbsp;**Last Updated 8/16**
+&nbsp;&nbsp;&nbsp;**Last Updated 9/1**
 
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday |
 |:----: | :----: | :----: | :----: | :----:  | :----: |
 |Dates | | | | |
-|8/19 - 8/23  | | | | | 1 (all) |
+|8/19 - 8/23  | | | | |  |
 | | | | | |
-|8/26 - 8/30  | Ch 2, pg 7-18| Ch 2, pg 18-end | *Ch 1 & 2 notes due*. C@W #1 |  | *Ch 1 & 2 Quiz*. Ch 3 all.|
+|8/26 - 8/30  | Github Work | Github Work | Github Work |  | Github Work |
 | | | | | |
-|9/2 - 9/6  | *Ch 3 notes due* Ch 4, pg 39-44 | *Chap 3 Quiz*. C@W #2 | Ch 4, pg 44-end | | *Ch 4 Notes Due*. Ch 18 all. |
+|9/2 - 9/6  | Norvig Interview Due | Chap 1 & 2 | Chap 2 | | *Ch 1 & 2 Notes Due*. |
 | | | | | |
-|9/9 - 9/13  | *Ch 18 notes due*.  | *Ch 18 quiz*. C@W #3. | | |  |
+|9/9 - 9/13  | Chap 3 (all) | *Git, Github, Chap 1 & 2 Quiz* | *Chap 3 Notes Due*. Ch 4, pg 39-44 | | Ch 4, pg 44-end |
 | | | | | |
-|9/16 - 9/20  | Ch. 5 all.  | *Ch 5 Notes Due*. AOSA #1 | Ch 6 all | | *Ch 6 Notes Due*. AOSA #2. |
+|9/9 - 9/13  | *Chap 3 Quiz* *C@W 2* | *Ch 4 notes due*.  | Chap 18 (all) | | *Chap 4 Quiz* *C@W #3* |  
+| | | | | |
+|9/16 - 9/20  | *Chap 18 Notes Due* Ch. 5 all.  | *Ch 5 Notes Due*. AOSA #1 | Ch 6 all | | *Ch 6 Notes Due*. AOSA #2. |
 | | | | | |
 |9/23 - 9/27  | *Ch 5 & 6 Quiz*. | | | | |
 | | | | | |

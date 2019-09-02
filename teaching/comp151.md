@@ -41,7 +41,7 @@ that material will be covered with the aid of [Socrative](https://socrative.com/
 | Assignment | Due Date |
 | :----: | :-----: |
 | [Lab 1](/teaching/COMP151/labs/lab1) | 8/26,8/27|
-| Lab 2 | 9/2,9/3|
+| [Lab 2](/teaching/COMP151/labs/lab2) | 9/2,9/3|
 | Lab 3 | |
 | Lab 4 | |
 | Lab 5 | |
