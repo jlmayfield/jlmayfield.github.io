@@ -27,7 +27,7 @@ that material will be covered with the aid of [Socrative](https://socrative.com/
 | :----: | :-----: |
 | [Homework 1](/teaching/COMP151/homework/homework1) | 8/26 |
 | [Homework 2](/teaching/COMP151/homework/homework2) | 9/2 |
-| Homework 3 | |
+| [Homework 3](/teaching/COMP151/homework/homework3) | 9/13 |
 | Homework 4 | |
 | Homework 5 | |
 | Homework 6 | |
@@ -42,7 +42,7 @@ that material will be covered with the aid of [Socrative](https://socrative.com/
 | :----: | :-----: |
 | [Lab 1](/teaching/COMP151/labs/lab1) | 8/26,8/27|
 | [Lab 2](/teaching/COMP151/labs/lab2) | 9/2,9/3|
-| Lab 3 | |
+| [Lab 3](/teaching/COMP151/labs/lab3) | 9/9,9/10 |
 | Lab 4 | |
 | Lab 5 | |
 | Lab 6 | |
