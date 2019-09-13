@@ -21,7 +21,7 @@ The calendar below lists the sections of the text that you are expected to have 
 | | | | | |
 |9/9 - 9/13  |4.5 - 4.8 | | | | 5.1 |
 | | | | | |
-|9/16 - 9/20  | 5.2 | | EXAM 2 | | 5.3 |
+|9/16 - 9/20  | 5.2 | | 5.3 | | EXAM 2 |
 | | | | | |
 |9/23 - 9/27  | 5.4 - 5.5 | | 6.1 | | 6.2 |
 | | | | | |
