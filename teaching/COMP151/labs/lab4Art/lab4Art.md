@@ -17,3 +17,5 @@ At the end of [lab 4](/teaching/COMP151/labs/lab4) we made creative art projects
 <img src="./lab4Art/Art7.jpg" alt="Project 7" caption="Project 7" width="400"/> <img src="./lab4Art/Art8.jpg" alt="Project 8" caption="Project 8" width="400"/>
 
 <img src="./lab4Art/Art9.jpg" alt="Project 9" caption="Project 9" width="400"/> <img src="./lab4Art/Art10.jpg" alt="Project 10" caption="Project 10" width="400"/>
+
+<img src="./lab4Art/CoolPipers.jpg" alt="Teacher" caption="Teacher's" />
