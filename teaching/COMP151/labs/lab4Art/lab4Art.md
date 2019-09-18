@@ -6,9 +6,10 @@ permalink: /teaching/COMP151/labs/lab4Art
 
 At the end of [lab 4](/teaching/COMP151/labs/lab4) we made creative art projects using the image manipulation techniques we've used so far.  So without further ado...
 
-<img src="./lab4Art/Orig.jpg" alt="Original" caption="Original" width="500" /> <img src="./lab4Art/CoolPipers.jpg" alt="Teacher" caption="Teacher" width="500" />
+#### Original Image and Teacher's Contribution
+<img src="./lab4Art/Orig.jpg" alt="Original" caption="Original" width="400" /> <img src="./lab4Art/CoolPipers.jpg" alt="Teacher" caption="Teacher" width="400" />
 
-
+#### Student Art Work
 <img src="./lab4Art/Art1.jpg" alt="Project 1" caption="Project 1" width="400"/> <img src="./lab4Art/Art2.jpg" alt="Project 2" caption="Project 2" width="400"/>
 
 <img src="./lab4Art/Art3.jpg" alt="Project 3" caption="Project 3" width="400"/> <img src="./lab4Art/Art4.jpg" alt="Project 4" caption="Project 4" width="400"/>
