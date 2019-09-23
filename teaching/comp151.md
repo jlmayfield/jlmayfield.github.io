@@ -45,7 +45,7 @@ that material will be covered with the aid of [Socrative](https://socrative.com/
 | [Lab 3](/teaching/COMP151/labs/lab3) | 9/9,9/10 |
 | [Lab 4](/teaching/COMP151/labs/lab4)  | 9/16,9/17 |
 | [Lab 4 Starter Image](/teaching/COMP151/labs/Lab4Starter.jpg) | [FINISHED ART!!!](/teaching/COMP151/labs/lab4Art) |
-| Lab 5 | |
+| [Lab 5](/teaching/COMP151/labs/lab5) | 9/23,9/24 |
 | Lab 6 | |
 | Lab 7 | |
 | Lab 8 | |
