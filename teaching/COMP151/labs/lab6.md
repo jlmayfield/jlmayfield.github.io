@@ -18,7 +18,10 @@ I have four cats. I used to have five. Did I mention I'm alergic to cats? Like a
 * Design one or more functions to set the background to a single color suitable for the chromakey, background substitution technique. Try to keep as much of the box and the blanket in the box as possible while getting rid of the floor and the remainder of the background. **Bragging rights will go to the group that does the best job cropping the box-o-cat.**
 * Design one or more functions that use the chromakey technique to replace the background with one **or more** backgrounds of your choosing.  Get creative and virtually send my old grumpy cat on an amazing journey. Consider layering backgrounds horizontally or vertically. Don't shy away from using color-modification techniques on the backgrounds as well to really ramp things up. Have fun with it!
 * Setup your final program in the same fashion that you see in my version of the lab 4 art project. This means having a single **main** function that takes zero inputs and that loads the image and calls all the necessary sub-functions to complete your final product, i.e. it coordinates and does everything.   
+<<<<<<< HEAD
 * Print your code and submit it in person. Email a copy of the code and your final image to the instructor. 
+=======
+>>>>>>> origin/master
 * **Optional:**  If you want you can modify the colors of the cat box image before, after, or during the cropping. Additionally, you can modify the color of the finished image.  Don't feel constrained by the colors as the appear in the original images.
 
 
