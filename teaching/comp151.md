@@ -29,7 +29,7 @@ that material will be covered with the aid of [Socrative](https://socrative.com/
 | [Homework 2](/teaching/COMP151/homework/homework2) | 9/2 |
 | [Homework 3](/teaching/COMP151/homework/homework3) | 9/13 |
 | [Homework 4](/teaching/COMP151/homework/homework4) | 9/23 |
-| Homework 5 | |
+| [Homework 5](/teaching/COMP151/homework/homework5) | 10/18 |
 | Homework 6 | |
 | Homework 7 | |
 | Homework 8 | |
@@ -38,7 +38,7 @@ that material will be covered with the aid of [Socrative](https://socrative.com/
 
 ### Labs
 
-| Assignment | Due Date |
+| Assignment | Dates |
 | :----: | :-----: |
 | [Lab 1](/teaching/COMP151/labs/lab1) | 8/26,8/27|
 | [Lab 2](/teaching/COMP151/labs/lab2) | 9/2,9/3|
@@ -48,6 +48,7 @@ that material will be covered with the aid of [Socrative](https://socrative.com/
 | [Lab 5](/teaching/COMP151/labs/lab5) | 9/23,9/24 |
 | [Lab 6](/teaching/COMP151/labs/lab6) | 9/30,10/1 |
 | [Lab 6 Starter Image](/teaching/COMP151/labs/Lab6-CatInABox-scaled.jpg) | [FINISHED ART!!!](/teaching/COMP151/labs/lab6Art) |
+| [Project 1 Prep Lab](/teaching/COMP151/labs/project1prep) | 10/14,10/15 |
 | Lab 7 | |
 | Lab 8 | |
 | Lab 9 | |
