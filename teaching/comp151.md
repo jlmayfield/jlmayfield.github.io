@@ -58,9 +58,9 @@ that material will be covered with the aid of [Socrative](https://socrative.com/
 
 ### Projects
 
-| Assignment | Due Date |
+| Assignment | Due Date | Files |
 | :----: | :-----: |
-| Project 1 | |
-| Project 2 | |
+| [Project 1](/teaching/COMP151/projects/project1) | 11/1 | (Required Images)[/teaching/COMP151/projects/project1images.zip]  | 
+| Project 2 | | |
 
 &nbsp;  
