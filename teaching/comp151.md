@@ -30,7 +30,7 @@ that material will be covered with the aid of [Socrative](https://socrative.com/
 | [Homework 3](/teaching/COMP151/homework/homework3) | 9/13 |
 | [Homework 4](/teaching/COMP151/homework/homework4) | 9/23 |
 | [Homework 5](/teaching/COMP151/homework/homework5) | 10/18 |
-| Homework 6 | |
+| [Homework 6](/teaching/COMP151/homework/homework6) | 11/11 |
 | Homework 7 | |
 | Homework 8 | |
 
