@@ -49,7 +49,7 @@ that material will be covered with the aid of [Socrative](https://socrative.com/
 | [Lab 6](/teaching/COMP151/labs/lab6) | 9/30,10/1 |
 | [Lab 6 Starter Image](/teaching/COMP151/labs/Lab6-CatInABox-scaled.jpg) | [FINISHED ART!!!](/teaching/COMP151/labs/lab6Art) |
 | [Project 1 Prep Lab](/teaching/COMP151/labs/project1prep) | 10/14,10/15 |
-| Lab 7 | |
+| [Lab 7](/teaching/COMP151/labs/lab7) | 11/4,11/5 |
 | Lab 8 | |
 | Lab 9 | |
 | Lab 10 | |
@@ -60,7 +60,7 @@ that material will be covered with the aid of [Socrative](https://socrative.com/
 
 | Assignment | Due Date | Files |
 | :----: | :-----: |
-| [Project 1](/teaching/COMP151/projects/project1) | 11/1 | [Required Images](/teaching/COMP151/projects/project1images.zip)  | 
+| [Project 1](/teaching/COMP151/projects/project1) | 11/1 | [Required Images](/teaching/COMP151/projects/project1images.zip)  |
 | Project 2 | | |
 
 &nbsp;  
