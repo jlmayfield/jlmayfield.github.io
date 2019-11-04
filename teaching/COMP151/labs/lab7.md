@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP151 - Lab 7
-permalink: /teaching/COMP151/labs/lab6
+permalink: /teaching/COMP151/labs/lab7
 ---
 
 And now for something completely different.  We're switching gears and looking at tasks from the sound domain. What you'll learn is that the basic programming tools that allowed us to manipulate images also allow us to manipulate sound. The key differences in our sound programs will come from the ways in which sound encoding differs from image encoding.  We're dealing with samples instead of pixels. For lab this week you'll start familiarizing yourself with sound encoding and the ways in which JES and Jython let us interact with sound.
@@ -13,7 +13,7 @@ And now for something completely different.  We're switching gears and looking a
 
 ### To Do
 
-You have two tasks for lab: explore the basic Jython/JES tools for working with sound data and create your own sound using the LittleBits kit. There are a limited number of kits so some of you will begin with the programming task and some of you will begin with the kits.  You should have a python document to print and turn in at the end of lab. 
+You have two tasks for lab: explore the basic Jython/JES tools for working with sound data and create your own sound using the LittleBits kit. There are a limited number of kits so some of you will begin with the programming task and some of you will begin with the kits.  You should have a python document to print and turn in at the end of lab.
 
 #### Sound in JES
 
