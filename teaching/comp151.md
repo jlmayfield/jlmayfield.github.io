@@ -50,7 +50,7 @@ that material will be covered with the aid of [Socrative](https://socrative.com/
 | [Lab 6 Starter Image](/teaching/COMP151/labs/Lab6-CatInABox-scaled.jpg) | [FINISHED ART!!!](/teaching/COMP151/labs/lab6Art) |
 | [Project 1 Prep Lab](/teaching/COMP151/labs/project1prep) | 10/14,10/15 |
 | [Lab 7](/teaching/COMP151/labs/lab7) | 11/4,11/5 |
-| Lab 8 | |
+| [Lab 8](/teaching/COMP151/labs/lab8) | 11/11,11/12 |
 | Lab 9 | |
 | Lab 10 | |
 
