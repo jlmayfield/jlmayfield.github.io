@@ -51,7 +51,8 @@ that material will be covered with the aid of [Socrative](https://socrative.com/
 | [Project 1 Prep Lab](/teaching/COMP151/labs/project1prep) | 10/14,10/15 |
 | [Lab 7](/teaching/COMP151/labs/lab7) | 11/4,11/5 |
 | [Lab 8](/teaching/COMP151/labs/lab8) | 11/11,11/12 |
-| Lab 9 | |
+| [Project 2 Prep Lab](/teaching/COMP151/labs/project2prep) | 11/18,11/19 |
+| [Wave Generator Starter Code](/teaching/COMP151/labs/waveGen.py)   |    |
 | Lab 10 | |
 
 &nbsp;  
