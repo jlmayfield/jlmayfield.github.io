@@ -4,7 +4,7 @@ title: COMP151 - Project 2 - Let's Make Music Everyday!
 permalink: /teaching/COMP151/projects/project2
 ---
 
-**Reader be warned: This document is still being edited for clarity. The details are finished but if you're reading this you're likely to see some edits if you return in a day or two.** 
+**Reader be warned: This document is still being edited for clarity. The details are finished but if you're reading this you're likely to see some edits if you return in a day or two.**
 
 For your final project you'll program a bit of music taking inspiration from early video game systems and the Little Bits synthesizer kit. Below you'll find descriptions of each version of the project, details about key ideas in computer music, and finally the details about grades and due dates.
 
@@ -26,13 +26,11 @@ A complete version 0 program will, when run, pop up the explore window showing y
 
 #### Version 0.5
 
-In this version you'll create a voice and modify the program to play the note pattern with that voice. A voice is just a basic wave that we've modified in some way in order to produce a new and different waveform. For musical voices we will want to design a function that works in the same way as a wave generator: you provide frequency, amplitude, and duration in order to get a wave with more or less those characteristics.  
-
-What we're really doing is the programming equivalent of putting together a little bits synthesizer to create some kind of synth instrument. Our basic wave generators are the oscillators. For this version you'll begin to develop other bits to modify and combine those waves.
+In this version you'll create a voice and modify the program to play the note pattern from version 0 using that voice. A voice is just a basic wave that we've modified in some way in order to produce a new and different waveform. For musical voices we will want to design a function that works in the same way as a wave generator: you provide frequency, amplitude, and duration in order to get a wave with more or less those characteristics.  What you're doing is the programming equivalent of putting together a little bits synthesizer to create some kind of synth instrument. The basic wave generators from lab at as the oscillators. They give you a wave. In this version of the program you'll you'll begin to develop and deploy other bits to modify and combine those waves.
 
 
-* Design a function called *mixer* that works as described in the documentation below.
-* Use *mixer* as the basis for a function called *voice1* that produces a mixture of two waves. Try things like combining different wave-forms of the same frequency or adding little bits of a different frequencies to the main
+* Design a function called *mixer* that works as described in the effects section below..
+* Use *mixer* as the basis for a function called *voice1* that produces a mixture of two waves. Try things like combining different wave-forms of the same frequency or mixing in small amounts of a different frequencies to the main
  frequency. You can even try mixing noise in with a note to see what happens. Have fun with it. Play around. Find some dope sounds.
 * Modify your program so that it plays the same music but does so with the output of *voice1* rather than a basic waveform.
 
@@ -41,21 +39,20 @@ What we're really doing is the programming equivalent of putting together a litt
 New version. New sound effect. A new voice.
 
 * Write a function called *envelope* that implements the envelope effect described in the effects section below.
-* Design a second voice function called *voice2*. Between *voice1* and *voice2* you must use *mixer* and *envelope* at least once each. You may use them more if you'd like.
-* Modify your program so that *voice2* is used to produce an A2 on every other beat for 8 beats. That's the first, third, fifth, and seventh beat. The 8 beat sequence produced by *voice1* should stay the same excepting for any extra effects added to the sound produced by voice1. Finally, mix the two 8 beat parts to produce 8 beats of music with two parts, one played by *voice1* and one by *voice2*.
+* Design a second voice function called *voice2*. Between *voice1* and *voice2* you must use *mixer* and *envelope* at least once each. That's once in total not once per voice. You may use them more if you'd like.
+* Modify your program so that *voice2* is used to produce an A2 on every other beat for 8 beats. That's the first, third, fifth, and seventh beat. The 8 beat sequence produced by *voice1* should stay the same excepting for any extra effects added to the sound produced by voice1. Finally, use mixer to combine the two 8 beat song parts two produce a two part song.
 
 #### Version 1.0
 
 A new voice.
 
-* Write a function called *delay* that implements the delay effect described in the effects section below.
-* Design a third function called *voice3*. Like before, you can do whatever you want with voice3 but must utilize delay, mixer, and envelope at least once each in your program. Once in total, not once per voice.
+* Design a third function called *voice3*. Like before, you can do whatever you want with voice3 but must utilize mixer and envelope at least once each in your voices. Again, once in total, not once per voice.
 * Modify your program to add a part for *voice3*. Do whatever you want. It can be a drum-like rhythm part or more notes. The only requirement is that it includes at least 4 distinct moments of sound, i.e. four drum hits, four notes, etc. Mix the third part in with the existing two using *mixer*.
 * Make it so your program saves this sound to a .wav file on the hard drive.
 
 #### Version 2.0
 
-Now let's do something a bit more than 8 beats. You have two options here. The first is to take the three part song that I'll give you and program that song with your voices. The other option is to program a song of your choosing that contains at least three voices and is at least 32 beats long.
+Now let's do something a bit more than 8 beats. You have two options here. The first is to take the three part song that I'll give you and program that song with your voices. The other option is to program a song of your choosing that contains at least three voices and is at least 32 beats long.  Your composition can be purely rhythmic if you'd like. In this case you'll probably need to design some more voices. In either case, feel free to be creative so long as you meet the requirements of utilizing at least 3 distinct voices and going on for at least 32 beats.
 
 
 ### Resources on Music and Audio Synthesis
@@ -92,9 +89,9 @@ You'll be implementing program versions of little bit synth kit components. Belo
 
 ##### Mixer
 
-The mixer takes two audio signals and combines them in amounts based on how you set the input knobs. We can think of this as a function that takes two sound objects and two numbers between 0 and 1 and returns a mixture of those sounds based on the values of the numbers. We can think of the numbers as volume settings. If you use the number 1, then you're asking for 100% of the original sound. Using 0 then means using none of the original sound. In this way we can not only control the proportion of each sound in the result but the overall volume as well.
+The mixer takes two audio signals and combines them in amounts based on how you set the input knobs. We can think of this as a function that takes two sound objects and two numbers between 0 and 1 and returns a mixture of those sounds based on the values of the numbers. We can think of the numbers as volume settings. If you use the number 1, then you're asking for 100% of the original sound. Using 0 then means using none of the original sound. In this way we can not only control the proportion of each sound in the result but the overall volume as well. Finally, this mixer should have no problem mixing sounds of differing lengths. The result should be as long as the longest sound. If your first sound is two seconds and the second is one second, then the result is two seconds where the first second is a mix of the two sounds and the last second is just the last second of the first sound. 
 
-Let's imagine some examples.  Let's say you have two sounds *s1* and *s2*.  Then doing something like *mixer(s1,1,s2,1)* would mix them together in equal parts and at their original volume. On the other hand doing *mixer(s1,.5,s2,.5)* cuts the volume by half on each sound but then mixes them together.  By keeping the numbers the same we can keep the mix balanced but cut back the volume to avoid clipping that is likely to occur if the original amplitude of *s1* and *s1* was already pretty high.
+Let's consider some examples.  Let's say you have two sounds *s1* and *s2*.  Then doing something like *mixer(s1,1,s2,1)* would mix them together in equal parts and at their original volume. On the other hand doing *mixer(s1,.5,s2,.5)* cuts the volume by half on each sound but then mixes them together.  By keeping the numbers the same we can keep the mix balanced but cut back the volume to avoid clipping that is likely to occur if the original amplitude of *s1* and *s1* was already pretty high.
 
 If instead we did *mixer(s1,1,s2,.5)* then we'd mix the full volume of s1 with s2 at half volume. This lets us keep s1 as a dominate wave and use s2 to spice it up a bit. This kind of mixing is also important if we want to mix more than two sounds in equal proportions. Let's say we also have sound *s3* and would like to mix it equally with *s1* and *s2*. We can first do  *temp = *mixer(s1,0.5,s2,0.5)* to get an equal mix of *s1* and *s2*. If we then did *mixer(temp,0.5,s3,0.5)* we'd end up with too much temp because we've effectively cut *s1* and *s2* in half again. What we need to do is *mixer(temp,0.667,s3,0.333)* to account for the fact that two thirds of the components are mixed in *temp* and only one third in *s3*. A similar kind of scaling would need to occur to mix in a fourth signal.
 
