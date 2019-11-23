@@ -52,8 +52,7 @@ A new voice.
 
 #### Version 2.0
 
-Now let's do something a bit more than 8 beats. You have two options here. The first is to take the three part song that I'll give you and program that song with your voices. The other option is to program a song of your choosing that contains at least three voices and is at least 32 beats long.  Your composition can be purely rhythmic if you'd like. In this case you'll probably need to design some more voices. In either case, feel free to be creative so long as you meet the requirements of utilizing at least 3 distinct voices and going on for at least 32 beats.
-
+Now let's do something a bit more than 8 beats. You have two options here. The first is to program this  [three part song](/teaching/COMP151/projects/project2songs). The other option, which is also discussed at the above link, is to program a song of your choosing that contains at least three voices and is at least 32 beats long.  If you want to do something other than the given song and you're not sure if it meets the requirements, just ask. 
 
 ### Resources on Music and Audio Synthesis
 
@@ -89,7 +88,7 @@ You'll be implementing program versions of little bit synth kit components. Belo
 
 ##### Mixer
 
-The mixer takes two audio signals and combines them in amounts based on how you set the input knobs. We can think of this as a function that takes two sound objects and two numbers between 0 and 1 and returns a mixture of those sounds based on the values of the numbers. We can think of the numbers as volume settings. If you use the number 1, then you're asking for 100% of the original sound. Using 0 then means using none of the original sound. In this way we can not only control the proportion of each sound in the result but the overall volume as well. Finally, this mixer should have no problem mixing sounds of differing lengths. The result should be as long as the longest sound. If your first sound is two seconds and the second is one second, then the result is two seconds where the first second is a mix of the two sounds and the last second is just the last second of the first sound. 
+The mixer takes two audio signals and combines them in amounts based on how you set the input knobs. We can think of this as a function that takes two sound objects and two numbers between 0 and 1 and returns a mixture of those sounds based on the values of the numbers. We can think of the numbers as volume settings. If you use the number 1, then you're asking for 100% of the original sound. Using 0 then means using none of the original sound. In this way we can not only control the proportion of each sound in the result but the overall volume as well. Finally, this mixer should have no problem mixing sounds of differing lengths. The result should be as long as the longest sound. If your first sound is two seconds and the second is one second, then the result is two seconds where the first second is a mix of the two sounds and the last second is just the last second of the first sound.
 
 Let's consider some examples.  Let's say you have two sounds *s1* and *s2*.  Then doing something like *mixer(s1,1,s2,1)* would mix them together in equal parts and at their original volume. On the other hand doing *mixer(s1,.5,s2,.5)* cuts the volume by half on each sound but then mixes them together.  By keeping the numbers the same we can keep the mix balanced but cut back the volume to avoid clipping that is likely to occur if the original amplitude of *s1* and *s1* was already pretty high.
 
