@@ -4,9 +4,7 @@ title: COMP151 - Project 2 - Let's Make Music Everyday!
 permalink: /teaching/COMP151/projects/project2
 ---
 
-**Reader be warned: This document is still being edited for clarity. The details are finished but if you're reading this you're likely to see some edits if you return in a day or two.**
-
-For your final project you'll program a bit of music taking inspiration from early video game systems and the Little Bits synthesizer kit. Below you'll find descriptions of each version of the project, details about key ideas in computer music, and finally the details about grades and due dates.
+For your final project you'll program a bit of music taking some inspiration from early video game systems and the Little Bits synthesizer kit. Below you'll find descriptions of each version of the project, details about key ideas in computer music, and finally the details about grades and due dates.
 
 
 ### Project Versioning
@@ -18,7 +16,7 @@ Larger pieces of software are developed in increments, or versions.  Each versio
 The first version of the program has two main goals: setup proper program structure and carryout at at least one of the desired music production tasks. It's really just meant to get you started on the right foot without having to wade into too many of the program details. The finished product should:
 
 * Have a well defined main function that coordinates the following functionality:
-    * Create 8 beats of music at 200 bpm using the following note sequence: A3, C4, E4, G4, A4, G4, E4, C4. Each note should last for half a beat and occur at the beginning of each beat. You can choose whichever wave form and amplitude you'd like.  
+    * Create 8 beats of music at 200 bpm using the following 8 note sequence: A3, C4, E4, G4, A4, G4, E4, C4. Each note should last for half a beat and occur at the beginning of each beat. You can choose whichever wave form and amplitude you'd like. Feel free to mix and match if you want.   
     * Open the result to explore/play the music.
 
 
@@ -26,43 +24,42 @@ A complete version 0 program will, when run, pop up the explore window showing y
 
 #### Version 0.5
 
-In this version you'll create a voice and modify the program to play the note pattern from version 0 using that voice. A voice is just a basic wave that we've modified in some way in order to produce a new and different waveform. For musical voices we will want to design a function that works in the same way as a wave generator: you provide frequency, amplitude, and duration in order to get a wave with more or less those characteristics.  What you're doing is the programming equivalent of putting together a little bits synthesizer to create some kind of synth instrument. The basic wave generators from lab at as the oscillators. They give you a wave. In this version of the program you'll you'll begin to develop and deploy other bits to modify and combine those waves.
+In this version you'll create a *voice* and modify the result of version 0 to play the same note pattern using that voice. A voice is just a basic wave that is modified in some way in order to produce a new and different waveform. For musical voices we will want to design a function that works in the same way as a wave generator: you provide frequency, amplitude, and duration and it returns a wave with more or less those characteristics.  These voice functions act as the programming equivalent of putting together a little bits synthesizer to create some kind of synth instrument. The basic wave generators from lab act as the oscillators. They give you a wave. In this version of the program you'll you'll begin to develop and deploy other functions to modify and combine those waves.
 
 
-* Design a function called *mixer* that works as described in the effects section below..
-* Use *mixer* as the basis for a function called *voice1* that produces a mixture of two waves. Try things like combining different wave-forms of the same frequency or mixing in small amounts of a different frequencies to the main
- frequency. You can even try mixing noise in with a note to see what happens. Have fun with it. Play around. Find some dope sounds.
+* Design a function called *mixer* that works as described in the effects section below.
+* Use *mixer* as the basis for a function called *voice1* that produces a mixture of at least two waves. Try things like combining different wave-forms of the same frequency or mixing in small amounts of a different frequencies to the main frequency. You can even try mixing noise in with a note to see what happens. Have fun with it. Play around. Find some dope sounds.
 * Modify your program so that it plays the same music but does so with the output of *voice1* rather than a basic waveform.
 
 #### Version 0.75
 
-New version. New sound effect. A new voice.
+New version. New sound effect. A new voice.  
 
 * Write a function called *envelope* that implements the envelope effect described in the effects section below.
 * Design a second voice function called *voice2*. Between *voice1* and *voice2* you must use *mixer* and *envelope* at least once each. That's once in total not once per voice. You may use them more if you'd like.
-* Modify your program so that *voice2* is used to produce an A2 on every other beat for 8 beats. That's the first, third, fifth, and seventh beat. The 8 beat sequence produced by *voice1* should stay the same excepting for any extra effects added to the sound produced by voice1. Finally, use mixer to combine the two 8 beat song parts two produce a two part song.
+* Modify your program so that *voice2* is used to produce an A2 on every other beat for 8 beats. That's the first, third, fifth, and seventh beat. The 8 beat sequence produced by *voice1* should stay the same excepting for any extra effects added to the sound produced by voice1. Finally, use mixer to combine the two 8 beat song parts to produce a two part song.
 
 #### Version 1.0
 
-A new voice.
+Add one more voice.
 
-* Design a third function called *voice3*. Like before, you can do whatever you want with voice3 but must utilize mixer and envelope at least once each in your voices. Again, once in total, not once per voice.
-* Modify your program to add a part for *voice3*. Do whatever you want. It can be a drum-like rhythm part or more notes. The only requirement is that it includes at least 4 distinct moments of sound, i.e. four drum hits, four notes, etc. Mix the third part in with the existing two using *mixer*.
+* Design a third function called *voice3*. This third voice can be whatever you want it to be. If you want a more rhythmic, drum-like voice, then feel free to leave out the frequency input and design something that works like the white noise generator.
+* Modify your program to add a part for *voice3*. Do whatever you want. The only requirement is that it includes at least 4 distinct moments of sound, i.e. four drum hits, four notes, etc. Mix the third part in with the existing two using *mixer*.
 * Make it so your program saves this sound to a .wav file on the hard drive.
 
 #### Version 2.0
 
-Now let's do something a bit more than 8 beats. You have two options here. The first is to program this  [three part song](/teaching/COMP151/projects/project2songs). The other option, which is also discussed at the above link, is to program a song of your choosing that contains at least three voices and is at least 32 beats long.  If you want to do something other than the given song and you're not sure if it meets the requirements, just ask. 
+Now let's do something a bit more than 8 beats. You have two options and they are both discussed in detail [here](/teaching/COMP151/projects/project2songs). This first option is to program a specific song. The second options is to do a different song that meets a few basic constraints. If you want to do something other than the given song and you're not sure if it meets the requirements, just ask.
 
 ### Resources on Music and Audio Synthesis
 
 #### From Notes to Frequencies
 
-Western music, and the music you'll be programming, is based on a clear 12 note pattern that repeats itself over and over at higher and higher pitches. This effectively produces a standard set of notes from which all music is written.  You can find their names and the wave frequencies that go with them here: [Note Names to Wave Frequency](https://pages.mtu.edu/~suits/notefreqs.html).  At the top of the chart is C0, a very low note. The 12 note pattern starting at C0 continues down the chart to B0 and then begins the pattern again at C1.  We tend to like notes around C4 and place this note in the middle of a piano or keyboard. For this reason it's called *middle C*.    
+Western music, and the music you'll be programming, is based on a clear 12 note pattern that repeats itself over and over at higher and higher pitches. This repetition produces a standard set of notes from which all music is written.  You can find their names and the wave frequencies that go with them here: [Note Names to Wave Frequency](https://pages.mtu.edu/~suits/notefreqs.html).  At the top of the chart is C0, a very low note. The 12 note pattern starting at C0 continues down the chart to B0 and then begins the pattern again at C1.  We tend to like notes around C4 and place this note in the middle of a piano or keyboard. For this reason it's called *middle C*.    
 
 #### Scales, Intervals, and Resonant Tones
 
-The difference between C0 and C1, or any note and the next higher numbered form of that note, is called an *octave*. The numbers you see on note names are their octave numbers. From a frequency perspective, moving up an octave means to double the frequency. For example, notice A0 is 27.5, A1 is 55.0, A2 is 110.0, A3 is 220.0, and so on. We can also figure out the difference, as a multiple, between each of the 12 notes in a pattern.  
+The difference between C0 and C1, or any note and the next higher numbered form of that note, is called an *octave*. The numbers you see on note names are their octave numbers. From a frequency perspective, moving up an octave means to double the frequency. For example, notice A0 is 27.5, A1 is 55.0, A2 is 110.0, A3 is 220.0, and so on. There is also a set of fixed multiples between a note and the other 11 notes within the octave. Here you see an octave starting on C.
 
 | Note | Frequency (Ratio) | Frequency (Decimal) |
 | :---: | :---: |:---: |
@@ -80,28 +77,28 @@ The difference between C0 and C1, or any note and the next higher numbered form 
 |B| (243/128)f | 1.898f |
 |C| 2f | 2f |
 
-This pattern is the basis for what is called the *chromatic scale*. It actually doesn't matter where you start. If you start at a G and call its frequency f, then the 12 note sequence up to the next G follows this same pattern as moving from C to C. Where this becomes useful is in mixing in related notes to the dominant tone of a voice. Let's say your voice is meant to produce some note with frequency *f* (maybe 440). You might like to mix in just a little bit the fourth or fifth above that note. These notes tend to be very resonant with your dominant frequency and work well in combination with that note. This is the equivalent of F and G on the chart above. You can just take your dominant frequency *f* and multiply by (4/3) or (3/2) to get the right note for you mix.
+While the chart above starts on C, it actually doesn't matter where you start. If you start at a G and call its frequency f, then the 12 note sequence up to the next G follows this same pattern of multiples as moving from C to C.
+
+Where this becomes useful is in mixing in related notes to a target dominant tone of a voice. Let's say your voice is meant to produce some note with frequency *f* (maybe 440). You might mix in just a little bit the fourth (5 steps up) or fifth above that note (6 steps up). You just take your dominant frequency *f* and multiply by (4/3) and/or (3/2) to get the right note for you mix. These notes tend to be very resonant with your dominant frequency and work well in combination with that note. On our C-based chart this is the equivalent of mixing F and G with C.
 
 #### Sound Effects
 
-You'll be implementing program versions of little bit synth kit components. Below you'll find descriptions of each component as a function acting on an with sound data.
+You'll be implementing program versions of little bit synth kit components. Below you'll find descriptions of each component as a function acting on and with sound data.
 
 ##### Mixer
 
 The mixer takes two audio signals and combines them in amounts based on how you set the input knobs. We can think of this as a function that takes two sound objects and two numbers between 0 and 1 and returns a mixture of those sounds based on the values of the numbers. We can think of the numbers as volume settings. If you use the number 1, then you're asking for 100% of the original sound. Using 0 then means using none of the original sound. In this way we can not only control the proportion of each sound in the result but the overall volume as well. Finally, this mixer should have no problem mixing sounds of differing lengths. The result should be as long as the longest sound. If your first sound is two seconds and the second is one second, then the result is two seconds where the first second is a mix of the two sounds and the last second is just the last second of the first sound.
 
-Let's consider some examples.  Let's say you have two sounds *s1* and *s2*.  Then doing something like *mixer(s1,1,s2,1)* would mix them together in equal parts and at their original volume. On the other hand doing *mixer(s1,.5,s2,.5)* cuts the volume by half on each sound but then mixes them together.  By keeping the numbers the same we can keep the mix balanced but cut back the volume to avoid clipping that is likely to occur if the original amplitude of *s1* and *s1* was already pretty high.
+Let's explore some examples.  Suppose you have two sounds: *s1* and *s2*.  Doing something like *mixer(s1,1,s2,1)* would mix them together in equal parts and at 100% of their original volume. On the other hand doing *mixer(s1,.5,s2,.5)* cuts the volume by half on each sound but then mixes them together.  By keeping the numbers the same we can keep the mix balanced but cut back the volume to avoid clipping that is likely to occur if the original amplitude of *s1* and *s1* was already pretty high.
 
-If instead we did *mixer(s1,1,s2,.5)* then we'd mix the full volume of s1 with s2 at half volume. This lets us keep s1 as a dominate wave and use s2 to spice it up a bit. This kind of mixing is also important if we want to mix more than two sounds in equal proportions. Let's say we also have sound *s3* and would like to mix it equally with *s1* and *s2*. We can first do  *temp = *mixer(s1,0.5,s2,0.5)* to get an equal mix of *s1* and *s2*. If we then did *mixer(temp,0.5,s3,0.5)* we'd end up with too much temp because we've effectively cut *s1* and *s2* in half again. What we need to do is *mixer(temp,0.667,s3,0.333)* to account for the fact that two thirds of the components are mixed in *temp* and only one third in *s3*. A similar kind of scaling would need to occur to mix in a fourth signal.
+If instead we did *mixer(s1,1,s2,.5)* then we'd mix the full volume of s1 with s2 at half volume. This lets us keep s1 as a dominant wave and use s2 to spice it up, or color it, a bit. This kind of mixing is also important if we want to mix more than two sounds in equal proportions. Let's say we also have sound *s3* and would like to mix it equally with *s1* and *s2*. We can first do  *temp = *mixer(s1,0.5,s2,0.5)* to get an equal mix of *s1* and *s2*. If we then did *mixer(temp,0.5,s3,0.5)* we'd end up with too much of the temp sound because we've effectively cut *s1* and *s2* in half again. What we need to do is *mixer(temp,0.667,s3,0.333)* to account for the fact that two thirds of the components are mixed in *temp* and only one third in *s3*. A similar kind of scaling would need to occur to mix in a fourth signal in equal proportion to three equally mixed signals.  For this project you're welcome to find sounds and mixes that you like through trial and error and now worry about the overall proportions. If, however, you find that you have too much or too little of a sound in a mix containing more than two sounds, then keep this discussion in mind.
 
-
-For this project you're welcome to find sounds you like through trial and error and now worry about the overall proportions. If you find that you have too much or too little of a sound in a mix containing more than two sounds, then keep this discussion in mind.
 
 #### Envelope
 
-Natural sounds do not typically start at one volume and stay at the volume for as long as you'd like them to, but this is the kind of sound our wave generators and voices produce. Natural sounds typically have a volume *envelope* where the volume grows to a peak and then shrinks to nothing. The growth phase is called the *attack*. The shrinking phase is called the *decay*. Basic envelope effects let you set the length of attack and decay.
+Natural sounds do not typically start at one amplitude and stay at that amplitude for as long as you'd like them to. This is, however, the kind of sound our wave generators produce. A naturally occurring sound typically has a volume *envelope* where the volume grows to a peak and then shrinks back to nothing. The growth phase is called the *attack*. The shrinking phase is called the *decay*. A basic envelope effects lets you set the length of attack and decay.
 
-Our *envelope* function should take a sound, an attack length in seconds, and a decay length in seconds. It should then increase the amplitude from 0% to 100% for the attack phase and 100% back to 0% for the decay phase. The catch is that the input sound does not need to be as long as the sum of the attack and decay time. Imagine banging a gong. It has a short attack and a long decay. If you hit it once it and leave it alone you'll hear a loud tone that slowly decays to nothing. If you hit it again before it stops ringing, then you are effectively stopping the old envelope mid decay and starting a new envelope. Our *envelope* function should support this kind of musical sound by computing as much of the envelope as fits the given sound. Suppose your envelope has an attack of 0.25 seconds and a decay of 1 second. If the given sound is 0.5 seconds, then you get all of the attack phase and only 0.25 seconds of decay. If the given sound is 2 seconds you get the full envelope including 0.75 seconds of silence created at the end of the sound.
+Your *envelope* function should take a sound object, an attack length in seconds, and a decay length in seconds. It should then increase the amplitude of the sound from 0% to 100% for the duration of the attack phase and then decrease from 100% back to 0% for the duration of the decay phase. The catch here is that the input sound does not need to be as long as the sum of the attack and decay time. Imagine banging a gong. It has a short attack and a long decay. If you hit it once it and leave it alone you'll hear a loud tone that slowly decays to nothing. If you hit it again before it stops ringing, then you are effectively stopping the old envelope mid decay and starting a new envelope. Your *envelope* function should support this kind of musical sound by computing as much of the envelope as fits the given sound. Suppose your envelope has an attack of 0.25 seconds and a decay of 1 second. If the given sound is 0.5 seconds, then you get all of the attack phase and only 0.25 seconds of decay. If the given sound is 2 seconds you get the full envelope including 0.75 seconds of silence created at the end of the sound.
 
 ### Grades and Dates
 
