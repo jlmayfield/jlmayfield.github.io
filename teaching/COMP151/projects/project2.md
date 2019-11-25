@@ -20,7 +20,7 @@ The first version of the program has two main goals: setup proper program struct
     * Open the result to explore/play the music.
 
 
-A complete version 0 program will, when run, pop up the explore window showing you the wave. There should be a clear visual difference between each note due to the difference in frequencies. In some of the resources below you'll find a link and some discussion about note names and the frequency of specific notes.
+A complete version 0 program will, when run, pop up the explore window showing you the wave. There should be a clear visual difference between each note due to the difference in frequencies. In some of the resources below you'll find a link and some discussion about note names and the frequency of specific notes. You can hear what this note pattern sounds like as part of the complete audio for version [0.75 on soundcloud](https://soundcloud.com/logan-mayfield-716821850/sets/comp151-project-2)
 
 #### Version 0.5
 
@@ -38,6 +38,7 @@ New version. New sound effect. A new voice.
 * Write a function called *envelope* that implements the envelope effect described in the effects section below.
 * Design a second voice function called *voice2*. Between *voice1* and *voice2* you must use *mixer* and *envelope* at least once each. That's once in total not once per voice. You may use them more if you'd like.
 * Modify your program so that *voice2* is used to produce an A2 on every other beat for 8 beats. That's the first, third, fifth, and seventh beat. The 8 beat sequence produced by *voice1* should stay the same excepting for any extra effects added to the sound produced by voice1. Finally, use mixer to combine the two 8 beat song parts to produce a two part song.
+
 
 #### Version 1.0
 
