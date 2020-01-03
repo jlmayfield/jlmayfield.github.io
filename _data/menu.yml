@@ -3,6 +3,10 @@
   subcategories:
     - subtitle: "COMP 151"
       subhref: "/teaching/COMP151"
+    - subtitle: "COMP 152"
+      subhref: "/teaching/COMP152"
+    - subtitle: "COMP 240"
+      subhref: "/teaching/COMP240"
     - subtitle: "COMP 310"
       subhref: "/teaching/COMP310/"
     - subtitle: "COMP 335"
