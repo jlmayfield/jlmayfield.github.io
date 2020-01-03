@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP151 - Project 2 - Let's Make Music Everyday!
-permalink: /teaching/COMP151/projects/project2
+permalink: /teaching/COMP151/fa19/projects/project2
 ---
 
 For your final project you'll program a bit of music taking some inspiration from early video game systems and the Little Bits synthesizer kit. Below you'll find descriptions of each version of the project, details about key ideas in computer music, and finally the details about grades and due dates.
@@ -50,7 +50,7 @@ Add one more voice.
 
 #### Version 2.0
 
-Now let's do something a bit more than 8 beats. You have two options and they are both discussed in detail [here](/teaching/COMP151/projects/project2songs). This first option is to program a specific song. The second options is to do a different song that meets a few basic constraints. If you want to do something other than the given song and you're not sure if it meets the requirements, just ask.
+Now let's do something a bit more than 8 beats. You have two options and they are both discussed in detail [here](/teaching/COMP151/fa19/projects/project2songs). This first option is to program a specific song. The second options is to do a different song that meets a few basic constraints. If you want to do something other than the given song and you're not sure if it meets the requirements, just ask.
 
 ### Resources on Music and Audio Synthesis
 

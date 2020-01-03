@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP151 - Lab 7
-permalink: /teaching/COMP151/labs/lab7
+permalink: /teaching/COMP151/fa19/labs/lab7
 ---
 
 And now for something completely different.  We're switching gears and looking at tasks from the sound domain. What you'll learn is that the basic programming tools that allowed us to manipulate images also allow us to manipulate sound. The key differences in our sound programs will come from the ways in which sound encoding differs from image encoding.  We're dealing with samples instead of pixels. For lab this week you'll start familiarizing yourself with sound encoding and the ways in which JES and Jython let us interact with sound.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP151 - Homework 1
-permalink: /teaching/COMP151/homework/homework1
+permalink: /teaching/COMP151/fa19/homework/homework1
 ---
 
 <h3 align="center">

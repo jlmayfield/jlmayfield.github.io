@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP151 - Project 2 Prep Lab
-permalink: /teaching/COMP151/labs/project2prep
+permalink: /teaching/COMP151/fa19/labs/project2prep
 ---
 
 This lab is all about gearing up for your second project by starting to put together the basic pieces of synthesized music. You've been given a file that contains functions for generating five types of sound waves: silence, sine, white noise, square, and triangle. Each function lets you specify duration in seconds. The sine, square, and triangle functions also let you set amplitude and frequency. The white noise function let's you specify amplitude and duration. In short, you can use them to generate notes and sounds for a given time duration. From there can begin to build up full voices and songs by combining and blending them with other sounds. In this lab you'll learn to use these wave forms, add another wave form, the sawtooth wave, to the library, and start building musical and rhythmic phrases.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP151 - Project 2 - 32 Beats in 3 Parts
-permalink: /teaching/COMP151/projects/project2songs
+permalink: /teaching/COMP151/fa19/projects/project2songs
 ---
 
 For your final project you have to program a three part, 32 beat song. Below you'll find the details for a three part arrangement of the chorus of *The Monmouth College Hymn* along with some general advice if you want to come up with something original.

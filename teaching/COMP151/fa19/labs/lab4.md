@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP151 - Lab 4
-permalink: /teaching/COMP151/labs/lab4
+permalink: /teaching/COMP151/fa19/labs/lab4
 ---
 
 For your fourth lab you'll work on using *if statements* to conditionally change an image.  Recall that in section 5.1 we learn how to select pixels if: they're in a specific region, they're close to another color, or their channel values are within a specific range.  Continue to look for opportunities for code reuse and hierarchical decomposition. As always, don't forget that at the end of each chapter contains a *Programming Summary* section that provides a quick dictionary of all of the important function and encoding names introduced thus far. When you run into problems don't forget to check the *Common Bugs* and *Debugging Tips* scattered throughout the chapters as well.

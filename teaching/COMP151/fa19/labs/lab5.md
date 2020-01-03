@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP151 - Lab 5
-permalink: /teaching/COMP151/labs/lab5
+permalink: /teaching/COMP151/fa19/labs/lab5
 ---
 
 For your fifth lab we'll do a little review along with exploring some new ideas. The emphasis is stepping through pixels based on their location within an image. As always, don't forget that at the end of each chapter contains a *Programming Summary* section that provides a quick dictionary of all of the important function and encoding names introduced thus far. When you run into problems don't forget to check the *Common Bugs* and *Debugging Tips* scattered throughout the chapters as well.

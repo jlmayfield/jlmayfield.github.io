@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP151 - Lab 1
-permalink: /teaching/COMP151/labs/lab1
+permalink: /teaching/COMP151/fa19/labs/lab1
 ---
 
 For your first lab you'll be working on a series of small problems in order to get comfortable with JES and Python. Don't forget that at the end of chapter 2 there is quick *Programming Summary* section that provides a quick dictionary of all of the important functions and type names introduced in the chapter. When you run into problems don't forget to check the *Common Bugs* and *Debugging Tips* scattered throughout the chapter as well.

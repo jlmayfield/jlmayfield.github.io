@@ -1,10 +1,10 @@
 ---
 layout: page
 title: COMP151 - Lab 8
-permalink: /teaching/COMP151/labs/lab8
+permalink: /teaching/COMP151/fa19/labs/lab8
 ---
 
-You'll be working problems from chapter 8 today. 
+You'll be working problems from chapter 8 today.
 
 * Don't forget that at the end of each chapter contains a *Programming Summary* section that provides a quick dictionary of all of the important function and encoding names introduced thus far. When you run into problems don't forget to check the *Common Bugs* and *Debugging Tips* scattered throughout the chapters as well. If you're stuck on an error try looking at these items.
 * As always switch the *driver* (person typing the code) and *navigator* (person watching, helping spot typos, etc.) on every new problem **or** every half hour, whichever comes first.

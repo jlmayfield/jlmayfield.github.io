@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP151 - Project 1 - Video Game Stars
-permalink: /teaching/COMP151/projects/project1
+permalink: /teaching/COMP151/fa19/projects/project1
 ---
 
 

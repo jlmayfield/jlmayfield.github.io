@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP151 - Lab 3
-permalink: /teaching/COMP151/labs/lab3
+permalink: /teaching/COMP151/fa19/labs/lab3
 ---
 
 For your third lab you'll continue to work on basic color manipulation. Most of the problems you're assigned benefit from the kind **hierarchical decomposition** described in section 4.4. *Be on the look out for these opportunities and design your code accordingly.*  As always, don't forget that at the end of chapters 2 and 4 there are a *Programming Summary* sections that provides a quick dictionary of all of the important function and encoding names introduced thus far. When you run into problems don't forget to check the *Common Bugs* and *Debugging Tips* scattered throughout the chapters as well.

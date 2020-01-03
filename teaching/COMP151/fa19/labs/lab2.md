@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP151 - Lab 2
-permalink: /teaching/COMP151/labs/lab2/
+permalink: /teaching/COMP151/fa19/labs/lab2/
 ---
 
 For your second lab you'll be working on the basics of image manipulation a la Sections 4.2 and 4.3. Don't forget that at the end of chapters 2 and 4 there are a *Programming Summary* sections that provides a quick dictionary of all of the important function and encoding names introduced thus far. When you run into problems don't forget to check the *Common Bugs* and *Debugging Tips* scattered throughout the chapters as well.

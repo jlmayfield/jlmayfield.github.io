@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP151 - Reading Assignments
-permalink: /teaching/COMP151/homework/Reading
+permalink: /teaching/COMP151/fa19/homework/Reading
 ---
 
 The calendar below lists the sections of the text that you are expected to have read and ready to discuss for each day of the semester. It also includes expected dates for each exam. ***This calendar is likely to change and shift as the semester progresses so check it regularly.***
