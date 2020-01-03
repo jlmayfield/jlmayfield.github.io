@@ -31,8 +31,7 @@ that material will be covered with the aid of [Socrative](https://socrative.com/
 | [Homework 4](/teaching/COMP151/fa19/homework/homework4) | 9/23 |
 | [Homework 5](/teaching/COMP151/fa19/homework/homework5) | 10/18 |
 | [Homework 6](/teaching/COMP151/fa19/homework/homework6) | 11/11 |
-| Homework 7 | |
-| Homework 8 | |
+
 
 &nbsp;   
 
@@ -53,7 +52,7 @@ that material will be covered with the aid of [Socrative](https://socrative.com/
 | [Lab 8](/teaching/COMP151/fa19/labs/lab8) | 11/11,11/12 |
 | [Project 2 Prep Lab](/teaching/COMP151/fa19/labs/project2prep) | 11/18,11/19 |
 | [Wave Generator Starter Code](/teaching/COMP151/fa19/labs/waveGen.py)   |    |
-| Lab 10 | |
+
 
 &nbsp;  
 
