@@ -6,7 +6,7 @@ permalink: /teaching/COMP337/
 
 &nbsp;&nbsp;&nbsp;[Syllabus](/teaching/COMP337/comp337-syllabus.pdf)  
 
-&nbsp;&nbsp;&nbsp;[Reading and Review Question Calendar]()
+&nbsp;&nbsp;&nbsp;[Reading and Review Question Calendar](/teaching/COMP337/reading/)
 
 ## Wireshark Assignments
 
@@ -14,7 +14,7 @@ The Wireshark labs are all available for download [here](http://www-net.cs.umass
 
 | Number         | Labs/Problems     | Due Date |
 |:--------------:|:-----------------:|:--------:|
-|   1            |  Getting Started, P18, and P19 |  1/21      |  
+|   1            |  Getting Started, P18, and P19 |  1/22      |  
 
 ## Problem Sets
 
