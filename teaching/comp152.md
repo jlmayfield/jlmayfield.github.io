@@ -15,4 +15,4 @@ permalink: /teaching/COMP152/
 ### Homework Assignments
 
 
-### Projects 
+### Projects
