@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP337 - Reading and Review Question Assignments
-permalink: /teaching/COMP337/reading
+permalink: /teaching/COMP337/reading/
 ---
 
 The calendar below lists the sections of the text that you are expected to have read and the review questions you are expected to have covered for each day of the semester. The subject of the review questions will be covered in reading quizzes on the days they are listed below. This calendar also includes expected dates for each exam. ***This calendar is likely to change and shift as the semester progresses so check it regularly.***
