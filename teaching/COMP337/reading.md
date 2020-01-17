@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMP337 - Reading and Review Question Assignments
+title: COMP337 - Reading and Review Questions
 permalink: /teaching/COMP337/reading/
 ---
 
