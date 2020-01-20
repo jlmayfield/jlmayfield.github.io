@@ -23,7 +23,7 @@ Problems listed in parenthesis are optional and/or will be worked during class t
 | Number/Chapter | Problems          | Due Date |
 |:--------------:|:-----------------:|:--------:|
 |                | 2,3,6,10,12,14,   |          |
-|     1          | 15,17,20,22,25,26 |   1/24   |
+|     1          | 15,17,20,22,25,26 |   1/29   |
 |                | (8,9,16)          |          |
 
 
