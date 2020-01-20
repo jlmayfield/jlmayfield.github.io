@@ -11,8 +11,10 @@ permalink: /teaching/COMP152/
 
 ### Lab Assignments
 
+[Go here for Labs](/teaching/COMP152/labs/)
 
 ### Homework Assignments
 
+[Go here for Homework](/teaching/COMP152/homework/)
 
 ### Projects
