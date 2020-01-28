@@ -8,7 +8,7 @@ permalink: /teaching/COMP240/
 
 ### General Resources
 
-&nbsp;&nbsp;&nbsp;[Projects 101](/teaching/COMP240/resources/projects101)
+&nbsp;&nbsp;&nbsp;[Projects 101](/teaching/COMP240/resources/projects101)  
 &nbsp;&nbsp;&nbsp;[My Git Cheat Sheet](/blog/2020/01/YAGCS)
 
 ### Projects
