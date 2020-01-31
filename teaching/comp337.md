@@ -14,7 +14,8 @@ The Wireshark labs are all available for download [here](http://www-net.cs.umass
 
 | Number         | Labs/Problems     | Due Date |
 |:--------------:|:-----------------:|:--------:|
-|   1            |  Getting Started, P18, and P19 |  1/22      |  
+|   1            |  Getting Started, P18, and P19 |  1/22      |
+|   2            | HTTP & DNS       |  2/7     |  
 
 ## Problem Sets
 
@@ -25,6 +26,9 @@ Problems listed in parenthesis are optional and/or will be worked during class t
 |                | 2,3,6,10,12,14,   |          |
 |     1          | 15,17,20,22,25,26 |   1/29   |
 |                | (8,9,16)          |          |
+|                | 1,3,4,5,7,10,13   |          |
+|     2          | 15,16,18,19,22,   |   2/10   |
+|                | 26                |          |
 
 
 
