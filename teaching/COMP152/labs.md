@@ -8,10 +8,11 @@ Below is a master list of the lab assignments. Labs are to be done in pairs. Eve
 
 Be certain that everyone's name is on the top of the document and submit the source code at the end of lab or when you complete the assigned problems.
 
-&nbsp;&nbsp;&nbsp;**Last Updated 1/20**
+&nbsp;&nbsp;&nbsp;**Last Updated 2/4**
 
 
 | Date | | Problems |
 |:----: | :----: | :----: |
 |1/22  | | R-1.3,C-1.21,24,25 |
-| | | | | |
+|1/29 | | See Repl.it Classroom |
+|2/5 | | [Runner Class](/teaching/COMP152/labs/lab3) |
