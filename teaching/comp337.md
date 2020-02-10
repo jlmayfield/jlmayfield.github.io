@@ -30,7 +30,9 @@ Problems listed in parenthesis are optional and/or will be worked during class t
 |     2          | 15,16,18,19,22,   |   2/10   |
 |                | 26                |          |
 
+## Socket Programming
 
+&nbsp;&nbsp;&nbsp;[Applications](/teaching/COMP337/sockets/socketc2)
 
 ### Past Offerings
 
