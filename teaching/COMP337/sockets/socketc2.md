@@ -4,7 +4,7 @@ title: COMP337 - Chapter 2 Socket Assignments
 permalink: /teaching/COMP337/sockets/socketc2/
 ---
 
-For chapter two you'll be doing some programming assignments in lieu of an exam.
+For chapter two you'll be doing some programming assignments in lieu of an exam.  Each of the assignments involves the use of the python [socket module](https://docs.python.org/3/library/socket.html). Spending some time with that documentation would be wise. I suggest you begin by finding documentation on the methods used in the book and work from there as needed.  
 
 ### Lab 1 - Web Server
 
