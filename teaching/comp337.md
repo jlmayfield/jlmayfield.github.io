@@ -32,7 +32,7 @@ Problems listed in parenthesis are optional and/or will be worked during class t
 
 ## Socket Programming
 
-&nbsp;&nbsp;&nbsp;[Applications](/teaching/COMP337/sockets/socketc2)
+&nbsp;&nbsp;&nbsp;[Applications](/teaching/COMP337/sockets/socketc2/)
 
 ### Past Offerings
 

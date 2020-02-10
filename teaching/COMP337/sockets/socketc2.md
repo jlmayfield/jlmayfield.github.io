@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP337 - Chapter 2 Socket Assignments
-permalink: /teaching/COMP337/sockets/socket2c
+permalink: /teaching/COMP337/sockets/socket2c/
 ---
 
 For chapter two you'll be doing some programming assignments in lieu of an exam.
