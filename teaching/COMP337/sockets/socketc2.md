@@ -31,4 +31,4 @@ You'll want to run your servers for this lab on the departmental server.
 
 **DUE WEDNESDAY 2/19**
 
-Now that you've cut your teeth on some client-server applications lets build a [RESTful API](https://restfulapi.net/).  These kinds of APIs are at the heart of a lot of the modern web. They let developers layer on top of other web-applications in much the same way that they do with libraries and modules for native applications. You're API is a straight forward [dice rolling API](/teaching/COMP337/sockets/diceweb).
+Now that you've cut your teeth on some client-server applications lets build a [RESTful API](https://restfulapi.net/).  These kinds of APIs are at the heart of a lot of the modern web. They let developers layer on top of other web-applications in much the same way that they do with libraries and modules for native applications. You're API is a straight forward [dice rolling API](/teaching/COMP337/sockets/diceweb/).

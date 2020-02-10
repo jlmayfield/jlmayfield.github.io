@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP337 - Web Application Assignment - Dice API
-permalink: /teaching/COMP337/sockets/diceweb
+permalink: /teaching/COMP337/sockets/diceweb/
 ---
 
 # Dice Rolling as a Service
