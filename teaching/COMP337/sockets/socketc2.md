@@ -20,7 +20,7 @@ The first set of programs consists of a bare bones server along with two simple 
 
 **DUE MONDAY 2/17**
 
-The second set of programs is about building your own protocol for a well known application: ping. We'll tackle the real ping protocol later, but for now you'll try to get at the same information via a this roll-your-own protocol. The lack of an established protocol means you cannot find or use some preexisting library and must stay within sockets.  Be sure to checkout the UDP client template discussed in section 2.8 and use that as a starter for your client.
+The second set of programs is about building your own protocol for a well known application: ping. We'll tackle the real ping protocol later, but for now you'll try to get at the same information via a this roll-your-own protocol. The lack of an established protocol means you cannot find or use some preexisting library and must stay within sockets.  Be sure to checkout the UDP client template discussed in section 2.7 and use that as a starter for your client.
 
 * Complete the lab as written
 * Do both optional exercises
