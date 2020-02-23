@@ -15,4 +15,4 @@ Below is a master list of the homework assignments. Homework should be an indivi
 | | | |
 |2/7 | | R-2.4 to R-2.8, R-2.16 |
 | | | |
-|2/28 | | [Hwk3 - Problem Set](/teaching/COMP151/homework/homework3) |
+|2/28 | | [Hwk3 - Problem Set](/teaching/COMP152/homework/homework3) |
