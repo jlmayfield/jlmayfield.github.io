@@ -16,6 +16,8 @@ The Wireshark labs are all available for download [here](http://www-net.cs.umass
 |:--------------:|:-----------------:|:--------:|
 |   1            |  Getting Started, P18, and P19 |  1/22      |
 |   2            | HTTP & DNS       |  2/7     |  
+|  3             | TCP & UDP | 3/2 |  
+
 
 ## Problem Sets
 
@@ -29,6 +31,11 @@ Problems listed in parenthesis are optional and/or will be worked during class t
 |                | 1,3,4,5,7,10,13   |          |
 |     2          | 15,16,18,19,22,   |   2/10   |
 |                | 26                |          |
+|                | 1,2,3,(4,5),6,7,(8,9)  | |
+|   3            | 11,12,15,17,22,24  | 3/2 |
+|                | 29,40  |  |  
+
+
 
 ## Socket Programming
 

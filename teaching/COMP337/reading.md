@@ -7,7 +7,7 @@ permalink: /teaching/COMP337/reading/
 The calendar below lists the sections of the text that you are expected to have read and the review questions you are expected to have covered for each day of the semester. The subject of the review questions will be covered in reading quizzes on the days they are listed below. This calendar also includes expected dates for each exam. ***This calendar is likely to change and shift as the semester progresses so check it regularly.***
 
 
-&nbsp;&nbsp;&nbsp;**Last Updated 2/17**
+&nbsp;&nbsp;&nbsp;**Last Updated 2/23**
 
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday |
@@ -25,9 +25,9 @@ The calendar below lists the sections of the text that you are expected to have 
 | | | | | |
 |2/17 - 2/21  | |3.1-2. R1,R2 | 3.2.  R1,R2.| |3.3. R3,R6,R7,R8. |
 | | | | | |
-|2/24 - 2/28  |  | |  | | |
+|2/24 - 2/28  | 3.4. R9, R10, R11. | | 3.5 R14  | | 3.6-7. R17, R18. |
 | | | | | |
-|3/2 - 3/5  |  | | EXAM 3  | | Break  |
+|3/2 - 3/5  | *PSet 3 Due.* *Wireshark 3 Due*  | | EXAM 3  | | Break  |
 | | | | | |
 |3/9 - 3/13  | Break | Break | Break | Break | Break |
 | | | | | |
