@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMP151 - Lab 4
+title: COMP152 - Lab 4
 permalink: /teaching/COMP152/labs/lab4
 ---
 
@@ -17,4 +17,4 @@ On page 143 of the text is code fragment 3.10. It contains five python function 
 Record your answers to the following with good old fashioned paper and pencil. For each function listed in fragment 3.10:
 2. Choose a small (size 3-5 probably) input and count how many basic python operations are needed to complete the function for that input. Be sure to indicate the exact input used to generate your count.  Briefly indicate which parts of the code you did not count, what is *not* an operation and what things we get for free (the goal is to make clear what is and is not counted).
 3. Characterize the worst-case and best-cast input. Offer concrete examples of these case for an input of size 10.
-4. Write a *work* function, in mathematical notation not code, for each python function. This function takes as its input the size of the input (*n*) and computes the total number of operations for the *worst case* input of that size. Which of the seven functions listed in chapter three best classifies each of your functions? 
+4. Write a *work* function, in mathematical notation not code, for each python function. This function takes as its input the size of the input (*n*) and computes the total number of operations for the *worst case* input of that size. Which of the seven functions listed in chapter three best classifies each of your functions?

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMP151 - Homework 3
+title: COMP152 - Homework 3
 permalink: /teaching/COMP152/homework/homework3
 mathjax: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMP151 - Lab 5
+title: COMP152 - Lab 5
 permalink: /teaching/COMP152/labs/lab5
 ---
 

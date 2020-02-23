@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMP151 - Lab 3
+title: COMP152 - Lab 3
 permalink: /teaching/COMP152/labs/lab3
 ---
 
@@ -41,4 +41,4 @@ You've been given a head start on this code. Go copy and take a look at [this re
 
 This part is optional but if you have time you should work on it as it will really get you ready for things to come while testing your understanding of material from both chapter 1 and 2.
 
-9. Write a function called *countAgeRange* that counts the number of Runners from a list of Runners that fall within a given age range. This function is not part of the Runner class. Definite it at the same indentation level as Runner. Approach it the same way as the class methods. First write a stub, then write tests, then tackle the code. 
+9. Write a function called *countAgeRange* that counts the number of Runners from a list of Runners that fall within a given age range. This function is not part of the Runner class. Definite it at the same indentation level as Runner. Approach it the same way as the class methods. First write a stub, then write tests, then tackle the code.
