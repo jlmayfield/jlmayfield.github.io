@@ -15,30 +15,22 @@ mathjax: true
   2. How many times do you need to divide 379 by 2 to get a value less than 1?
   3. If starting at 1, how many times would you need to double up to get to a value that is bigger than 1011?
   4. If starting at 1, how many times would you need to double up to get to a value that is bigger than 92?
-  5. Fill in the following table (don't use a calculator):
-
-| $$n$$ | $$\lfloor \log_2{n} \rfloor$$ | $$\lceil \log_2{n} \rceil$$ |
-| :--- | :---- | :--- |
-| 25 | | |
-| 195 | | |
-| 15300 | | |
-| 95127 | | |
-
+  5. List the nearest integers (smaller and bigger) to the following: lg(25), lg(195), lg(15300), and lg(95127). Don't use a calculator and remember that lg is logarithm in base 2. 
 3. What is the time complex of the following code fragments? For each fragment the variable *alist* is list data.  
   1.
   ```python
   for el in alist:
-     ...
+      ...
   ```
   2.
   ```python
   for i in range(len(alist)):
-     el = alist[i]
-     ...
+      el = alist[i]
+      ...
   ```
   3.
   ```python
   for i in range(0,len(alist)):
-     for j in range(i,len(alist)):
+      for j in range(i,len(alist)):
         ...
   ```
