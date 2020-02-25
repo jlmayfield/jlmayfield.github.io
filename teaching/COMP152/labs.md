@@ -18,3 +18,4 @@ Be certain that everyone's name is on the top of the document and submit the sou
 |2/5 | | [Runner Class](/teaching/COMP152/labs/lab3) |
 |2/12 | | [Code Analysis](/teaching/COMP152/labs/lab4) |
 |2/19 | | [Algorithms](/teaching/COMP152/labs/lab5) |  
+|2/26 | | [Algorithms](/teaching/COMP152/labs/lab6) |  
