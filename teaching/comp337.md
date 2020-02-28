@@ -8,6 +8,8 @@ permalink: /teaching/COMP337/
 
 &nbsp;&nbsp;&nbsp;[Reading and Review Question Calendar](/teaching/COMP337/reading/)
 
+&nbsp;&nbsp;&nbsp;[Interactive Animations from Text](https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198702.cw/index.html)
+
 ## Wireshark Assignments
 
 The Wireshark labs are all available for download [here](http://www-net.cs.umass.edu/wireshark-labs/).  Be prepared to present and discuss your results in front of the class on the day the assignment is due.
