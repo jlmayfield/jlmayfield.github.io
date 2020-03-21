@@ -4,6 +4,9 @@ title: COMP240 - Computer Applications - Spring 2020
 permalink: /teaching/COMP240/
 ---
 
+## This course is now being delivered remotely due to the pandemic. Students should access course materials via Google Classroom. Check your email for information on accessing that site.
+
+
 &nbsp;&nbsp;&nbsp;[Syllabus](/teaching/COMP240/comp240-syllabus.pdf)
 
 ### General Resources

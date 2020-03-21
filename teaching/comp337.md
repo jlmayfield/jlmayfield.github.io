@@ -4,6 +4,9 @@ title: COMP 337 - Computer Communications - Spring 2020
 permalink: /teaching/COMP337/
 ---
 
+## This course is now being delivered remotely due to the pandemic. Students should access course materials via Google Classroom. Check your email for information on accessing that site.
+
+
 &nbsp;&nbsp;&nbsp;[Syllabus](/teaching/COMP337/comp337-syllabus.pdf)  
 
 &nbsp;&nbsp;&nbsp;[Reading and Review Question Calendar](/teaching/COMP337/reading/)
