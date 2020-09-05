@@ -97,6 +97,8 @@ The usual graphics are below. We have three weeks of positive test rates, daily 
 As I said earlier, our [recovery region](https://www.dph.illinois.gov/regionmetrics?regionID=2) continues to see a steady increase in the positive test rate. The state reported a rate of 7.4% for 9/1. If it goes about 8% and stays there for three or more days we might be facing more strict social distancing mandates from the state.
 
 The national trend has been an overall decline in new cases. The region I'm tracking continues to buck this trend. New cases are up compared to last week. We continue to see the usual suspects reporting new cases but this week also brought with it a spike in McLean County as a result of residential students at Illinois State University in Bloomington-Normal.
+
+The usual graphics are below. You can see a three week spread of new cases per day, a map showing the new cases per 100,000 for the last week, and an animation showing the daily change in the seven day, rolling average of new cases per 100,000. 
 <div>
         
         
