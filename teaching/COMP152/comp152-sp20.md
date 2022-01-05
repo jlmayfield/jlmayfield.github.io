@@ -9,7 +9,7 @@ permalink: /teaching/COMP152/sp20/
 
 &nbsp;&nbsp;&nbsp;[Syllabus](/teaching/COMP152/sp20/comp152-syllabus.pdf)
 
-&nbsp;&nbsp;&nbsp;[Reading Calendar](/teaching/sp20/COMP152/reading/)
+&nbsp;&nbsp;&nbsp;[Reading Calendar](/teaching/COMP152/sp20/reading/)
 
 
 ### Lab Assignments
