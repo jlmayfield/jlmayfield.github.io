@@ -1,16 +1,16 @@
 ---
 layout: page
 title: COMP152 - Lab 3
-permalink: /teaching/COMP152/labs/lab3
+permalink: /teaching/COMP152/sp20/labs/lab3
 ---
 
 For this lab you'll begin to construct a python class to represent a runner's result for a half marathon race and then use Python's [unit tests](https://docs.python.org/3.7/library/unittest.html) to formally test the methods and functions you implement.
 
 ### A Runner
 
-The class you'll define is called *Runner*. An instance of this class represents an individual's result's for a half marathon race (that's 13.1 miles or just a hair over 21km). Race results are often posted on websites and can be downloaded and analyzed by anyone. A class like *Runner* would be useful in this context.  If you want a real world example of this kind of data you can checkout sites like [itsracetime.com](itsracetime.com). I ran a half marathon last year and used that exact site to get data about my race and [do some analysis of my results and the race overall results](/blog/2019/04/LPHM).  
+The class you'll define is called *Runner*. An instance of this class represents an individual's result's for a half marathon race (that's 13.1 miles or just a hair over 21km). Race results are often posted on websites and can be downloaded and analyzed by anyone. A class like *Runner* would be useful in this context.  If you want a real world example of this kind of data you can checkout sites like [itsracetime.com](itsracetime.com). I ran a half marathon last year and used that exact site to get data about my race and [do some analysis of my results and the race overall results](/blog/2019/04/LPHM).
 
-Individual racer's results include biographical data, time data, and rank data. Runners get grouped by their age and sex and ranks are recorded for their group as well as the overall field of runners. In additional to final time, races typically record and report splits, or times at specific points in the race.  Your class needs support fields for name, home town, age, sex, group place, overall place, final time, and split times. The table belows lists field names (minus the leading underscore), types, and an concrete examples of field data based off the race I did last year.  
+Individual racer's results include biographical data, time data, and rank data. Runners get grouped by their age and sex and ranks are recorded for their group as well as the overall field of runners. In additional to final time, races typically record and report splits, or times at specific points in the race.  Your class needs support fields for name, home town, age, sex, group place, overall place, final time, and split times. The table belows lists field names (minus the leading underscore), types, and an concrete examples of field data based off the race I did last year.
 
 | Field Name | | Type of Field | | Example |
 | :--- | | :---- | |:---- |

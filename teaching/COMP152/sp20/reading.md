@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP152 - Reading Expectations
-permalink: /teaching/COMP152/reading/
+permalink: /teaching/COMP152/sp20/reading/
 ---
 
 The calendar below lists the sections of the text that you are expected to have read for each day.  Classes will typically start with a short multiple choice and true/false Socrative quiz that pulls from this material. Overall participation and success on these quizzes will factor into your participation grade. This calendar also includes expected dates for each exam. ***This calendar is likely to change and shift as the semester progresses so check it regularly.***
