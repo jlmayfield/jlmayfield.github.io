@@ -16,7 +16,7 @@ permalink: /teaching/COMP240/
 | Project Number | Project Main Site | Notes |
 | --- | --- | --- |
 | 0 | [Getting Git](/teaching/COMP240/projects/getgit) | |
-| |  | First checkpoint 11/18 | 
+| |  | First checkpoint 11/18 |
 
 #### Past Offerings
 

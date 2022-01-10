@@ -8,7 +8,7 @@ This project isn't a project. It's a crash course in the software and services t
 
 ### Getting Started (Due: 11/13)
 
-Step one in getting your feet wet is to take baby steps towards understanding what VCS, git, and github are, what they do, and the essential tasks carried out with them.
+Step one in getting your feet wet is to take baby steps towards understanding what are VCS, git, and github as well as how they are used by development teams.
 
 | Task | Objective | What to Turn In |
 | --- | --- | --- |
@@ -47,4 +47,4 @@ At this point you should have an account on Github and that account should be ad
   3. What Operating System do you use?
   4. Prior to this class, have you used git or github?
   5. What do you think you can bring to a group project?
-  6. What part of working with a group is hardest for you? 
+  6. What part of working with a group is hardest for you?
