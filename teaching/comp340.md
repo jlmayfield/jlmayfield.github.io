@@ -5,3 +5,9 @@ permalink: /teaching/COMP340/
 ---
 
 &nbsp;&nbsp;&nbsp;[Syllabus](comp340-syllabus.pdf)
+
+### Assignments
+
+[Homework Sets](/teaching/COMP340/homework/)
+
+[Programs](/teaching/COMP340/programs/)
