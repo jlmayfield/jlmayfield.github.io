@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP152 - Lab 4
-permalink: /teaching/COMP152/labs/lab4
+permalink: /teaching/COMP152/sp20/labs/lab4
 ---
 
 We'll begin our foray into algorithm analysis by doing some analysis of the concrete instantiation of algorithms: code.

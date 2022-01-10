@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP240 - Projects 101
-permalink: /teaching/COMP240/sp20/resources/projects101
+permalink: /teaching/COMP240/resources/projects101
 ---
 
 This course is all group software development projects. To manage and carry out the project you and your team will be working in an [agile](https://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto) fashion.  Each project will require that you learn how to work with new programming tools and ideas. Having a well established practice for how to approach and structure your project work will help you navigate the the challenges of dealing with new tools and dealing with new programming problems.
@@ -23,14 +23,14 @@ Features should be broken down into small, discrete *tasks* which are prioritize
 The details of your tasks and the time spent working on them should all be recorded in a shared spreadsheet that looks something like this
 
 | Feature | Task | Developers | Estimated Time | Elapsed Time | Velocity |
-| :--: | :--: | :--: | :--: | :--: | :--: |
+| :--: | :--: | :--: | :--: | :--: | :--: |  
 | | | | | | |
 
 
 As you set your goals you begin by filling in the features, tasks, assigned developers, and time estimates. Elapsed time should be updated after every time a pair sits down to work on a given task and when the task is finally completed.  When the task is complete the finally velocity is calculated and reported.
 
 
-By setting your own feature goals and tasks you are effectively assigning yourselves homework. For this to work well there needs to be an agreement about the time commitment needed for the project. This is referred to as the *duty cycle*. Pairs need to coordinate their work and the group should also agree on a working schedule that looks more like a job and less like a typical class duty cycle. The syllabus states that you should be spending and average of 6 to 7 hours a week, outside of class, on your project.  If you find that three hours of class time plus six to eight hours outside of class are not enough to meet your goals, then reconsider goals and tasks rather than overwork yourselves. It's more important that you work mindfully and purposefully towards realistic and achievable goals. The final form of each project is flexible so long as you can demonstrate consistent progress with a reasonable duty cycle.
+By setting your own feature goals and tasks you are effectively assigning yourselves homework. For this to work well there needs to be an agreement about the time commitment needed for the project. This is referred to as the *duty cycle*. Pairs need to coordinate their work and the group should also agree on a working schedule that looks more like a job and less like a typical class duty cycle. The syllabus states that you should be spending and average of 6 to 7 hours a week, outside of class, on your project.  If you find that three hours of class time plus six to eight hours outside of class are not enough to meet your goals, then reconsider goals and tasks rather than overwork yourselves. It's more important that you work mindfully and purposefully towards realistic and achievable goals. The final form of each project is flexible so long as you can demonstrate consistent progress with a reasonable duty cycle.   
 
 ### Make It Work Better
 
@@ -38,4 +38,4 @@ It is important that the team spend time figuring out how to work more efficient
 
 Code reviews will be as simple as having each pair walk the other pair through their code on a weekly basis. If someone sees some room for improvement or a possible bug, then the group should consider taking time to bug fix or *refactor* the code before implementing the next feature. Refactoring is a process in which the code is restructured and improved without changing the overall behavior. It's about cleaning up how it does what it does and leaving what it does alone.
 
-Process reviews are a matter of talking about how you all managed the programming work. How was your velocity? Could your features and tasks be smaller or perhaps a bit larger?  Are there some tasks you might add that would aid in managing, sharing, and testing the code? In general, what worked and didn't work? It should be important to you as an individual and a group that you're not just getting things done but doing thing well and growing as a developer.
+Process reviews are a matter of talking about how you all managed the programming work. How was your velocity? Could your features and tasks be smaller or perhaps a bit larger?  Are there some tasks you might add that would aid in managing, sharing, and testing the code? In general, what worked and didn't work? It should be important to you as an individual and a group that you're not just getting things done but doing thing well and growing as a developer.  
