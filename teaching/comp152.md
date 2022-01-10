@@ -6,9 +6,11 @@ permalink: /teaching/COMP152/
 
 &nbsp;&nbsp;&nbsp;[Syllabus](/teaching/COMP152/comp152-syllabus.pdf)
 
-[Lab Assignments](/teaching/COMP152/labs/)
+### Assignments
 
 [Homework Assignments](/teaching/COMP152/homework/)
+
+[Lab Assignments](/teaching/COMP152/labs/)
 
 [Projects](/teaching/COMP152/projects/)
 
