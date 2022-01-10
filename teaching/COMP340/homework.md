@@ -11,6 +11,7 @@ without understanding. You should never be copying solutions from someone else.
 
 &nbsp;&nbsp;&nbsp;**Last Updated: 1/10**
 
-| Due Date | | Problems |
-|:----: | :----: | :----: |
-|1/24 | | Coming Soon |
+| Section/Assignment | | Problems | | Due Date |
+|:----: | :----: | :----: | :----: | :----: |
+| Basics (ch 1)| | 1-1,1-2,1-3,1-5,1-10,1-13,1-16,1-22  | |  1/24   |
+| Basics (ch 2)| | Coming Soon  | |  1/24   |

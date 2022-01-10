@@ -13,6 +13,6 @@ without understanding. You should never be copying solutions from someone else.
 
 &nbsp;&nbsp;&nbsp;**Last Updated: 1/10**
 
-| Due Date | | Problems | | Presentation Details |
-|:----: | :----: | :----: | :----: | :----: |
-|1/28 | | Coming Soon | | Coming Soon |
+| Section/Assignment | | Options | | Due Date | | Presentation? |
+|:----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| Basics (ch 1-2)| | 1-2,1-3,2-1,2-2  | |  1/28  | | Yes |
