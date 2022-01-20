@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMP240 - Getting Git & Github
+title: COMP240 - Battlecode 2022
 permalink: /teaching/COMP240/projects/battlecode/
 ---
 
