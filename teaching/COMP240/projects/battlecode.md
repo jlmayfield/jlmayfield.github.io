@@ -45,14 +45,14 @@ At MIT, Battlecode is run as course. It begins with a series of lectures designe
 
 Below is the calendar for daily goals and activities as well as important due dates. Checkpoint requirements can be found after the calendar.
 
-| Date | Goal or Task |
-| :-----: | :------: |
-| 1/20 | Form teams. Setup communications plan. Setup team repo. Explore game rules. Look at Code. Set Goals for Checkpoint 1|
-| 1/25 | Group time in class. |
-| 1/26 | **Submit a PR for Checkpoint 1** |
-| 1/27 | **Checkpoint Presentation 1** |
+| Date | | Goal or Task |
+| :-----: | :------: | :---: |
+| 1/20 | | Form teams. Setup communications plan. Setup team repo. <br> Explore game rules. Look at Code. Set Goals for Checkpoint 1|
+| 1/25 | | Group time in class. |
+| 1/26 | | **Submit a PR for Checkpoint 1** |
+| 1/27 | | **Checkpoint Presentation 1** |
 
-#### Checkpoint & Presentation 1
+### Checkpoint & Presentation 1
 
 For your first checkpoint you must present one or more new bots. These bots should represent incremental changes to the example bot. They need not do anything earth shattering but should do something new or different. Your team has a couple options for how to proceed: work together to implement one or more bots or work individually on bots. *You should seriously consider following along with and implementing one or more changes discussed in the MIT lectures.* Regardless of how you choose to work, you must work towards and demonstrate shared knowledge and understanding of your changes. *This means planning for and taking the time to discuss changes such that every team member has a working knowledge of all the changes.*
 
