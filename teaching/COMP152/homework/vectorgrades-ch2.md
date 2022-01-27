@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP152 - Homework - Chapter 2 - Vectorized Grade Calculator
-permalink: /teaching/COMP151/homework/vectorgrades
+permalink: /teaching/COMP152/homework/vectorgrades/
 mathjax: true
 ---
 
