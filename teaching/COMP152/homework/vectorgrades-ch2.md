@@ -22,7 +22,9 @@ Your overall homework, exam, lab, and project grade for this course is calculate
 
 Assume you've completed three homework assignments with the following scores: 45/50, 35/35, and 65/80. To compute your current overall homework grade you would need to average these three scores as follows:
 
-$$ \frac{ \frac{45}{50} + \frac{35}{35} + \frac{65}{80}}{3} = \frac{.9+1+.8125}{3} \approx .9042 $$
+$$
+\frac{ \frac{45}{50} + \frac{35}{35} + \frac{65}{80}}{3} = \frac{.9+1+.8125}{3} \approx .9042
+$$
 
 As you can see, your current homework grade would be about 90%, or an A-. That kind calculation should be  relatively familiar to you, it's a standard average calculation. If it's not, then that's OK too because either way we're going to turn it on its head and re-envision it as a vector mathematics problem.
 
