@@ -15,3 +15,4 @@ without understanding. You should never be copying code from someone else.
 | Due Date | | Problems |
 |:----: | :----: | :----: |
 |1/18 (2pm)  | | R-1.3,6,7,8,9,10,11.C-1.21 |
+| 2/9 | | [Vector Grade Calculations](/teaching/COMP151/homework/vectorgrades/) |
