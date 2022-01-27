@@ -51,6 +51,9 @@ Below is the calendar for daily goals and activities as well as important due da
 | 1/25 | | Group time in class. |
 | 1/26 | | **Submit a PR for Checkpoint 1** |
 | 1/27 | | **Checkpoint Presentation 1** |
+| 2/3  | | **Checkpoint Presentation 2**
+| 2/10  | | **Final Checkpoint** |
+
 
 ### Checkpoint & Presentation 1
 
@@ -61,3 +64,15 @@ Presentation day (1/27) will proceed as follows:
 2. Group Presentations consisting of: ( a ) *What's New & Why:* A brief, non-technical presentation of the bot and your goal for the bot, ( b ) *How You Did It* A short technical presentation of key code changes, ( c ) *Team Practices* A break down of how your team functioned, what went well, and what improvements you might make to your team collaborative practices, and ( d ) *What's next* What do you have in mind for your next checkpoint?
 
 Group presentations should consist of a short slide presentation. Every member of the group must talk.
+
+### Checkpoint & Presentation 2
+
+The second checkpoint basically mirrors the first.  Your team should present one or more new bots and give the same style of presentation described above.
+
+### Final Presentation
+
+For the last presentation you should present a single, final bot. The presentation will also be a bit more all encompassing as it should reflect back on the sum total of your team's work and not just the work completed since the last checkpoint. Here's what you need to talk about
+1. *Overall bot Strategy* At a high-level, what is your bot trying to do? What strategies and tactics did you set out to implement?
+2. *Technical Presentation* Highlight parts of the code that are critical to implementing your overall strategy and core tactics and discuss how they do what they do.
+3. *Team Practices* Discuss how your team worked together as well as how and why your practices may have evolved from the start of the project. This discussion should include team strengths and team weaknesses, neither of these should be pinned to a specific team member.
+4. *Next Time* You'll have a new team on your next project. Discuss what practices you plan to bring to that team and what kinds of pitfalls you might have encountered on this project that you'll do your best to steer the next team away from.
