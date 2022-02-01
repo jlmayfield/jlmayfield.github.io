@@ -10,9 +10,11 @@ problem, whichever comes first, pairs should switch who is driving and who is na
 Recall that the driver is typing code and generally doing to programming while the navigator
 is looking for bugs and offering thoughts on overall design.
 
-&nbsp;&nbsp;&nbsp;**Last Updated 1/9**
+&nbsp;&nbsp;&nbsp;**Last Updated 2/1**
 
 
 | Date | | Problems |
 |:----: | :----: | :----: |
-|1/18  | | R-1.12,C-1.22,24,25,27 |
+| 1/18  | | R-1.12,C-1.22,24,25,27 |
+| 1/25 | |  Flower Class (see replit) |
+| 2/1  | | Restaurant Tip Class (see replit) |
