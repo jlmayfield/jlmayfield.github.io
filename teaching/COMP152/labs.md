@@ -18,3 +18,5 @@ is looking for bugs and offering thoughts on overall design.
 | 1/18  | | R-1.12,C-1.22,24,25,27 |
 | 1/25 | |  Flower Class (see replit) |
 | 2/1  | | Restaurant Tip Class (see replit) |
+| 2/8  | | Profiling and Experimental Analysis (see replit) |
+| 2/15  | | [Lab 5: big-Oh Analysis](/teaching/COMP152/labs/lab5)  |
