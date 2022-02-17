@@ -18,6 +18,7 @@ permalink: /teaching/COMP240/
 | 0 | [Getting Git](/teaching/COMP240/projects/getgit) | |
 | |  | First checkpoint 11/18 |
 | 1 | [BattleCode](/teaching/COMP240/projects/battlecode/) | See Project Page for Due Dates|
+| 2 | [Covid Data Exploration and Visualization](/teaching/COMP240/projects/coviddata/)
 
 #### Past Offerings
 
