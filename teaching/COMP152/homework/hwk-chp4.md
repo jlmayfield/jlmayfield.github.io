@@ -60,7 +60,7 @@ How is this a generalization of `ispalindrome(S)`?  If you were to make the func
 
 This generalized signature for `ispalindrome` lets us avoid slicing by changing the range instead of slicing the string. In the original `ispalindrome` our recursive call was `ispalindrome(S[1:-1])`. This recursive call worked with everything but first and last letter of `S`.  We can get the same effect by incrementing and decrementing `start` and `stop` and making the following recursive call `ispalindrome(S,start+1,stop-1)`. No slice needed.
 
-We now turn our attention to the rest of `ispalindrome`. The original function worked with the first and last letter of `S`, or `S[0]` and `S[-1]` respectively. In our general problem we want the first and last of the region bounded by `start` and `stop`. That would be `S[start]` and `S[stop-1]` respectively.  Finally, the non-recursive case occurred when the string was empty or contained a single letter, i.e. `len(S) <= 1`. Now that we are not actively slicing the string, this will never happen. We need to instead check to see if the region is empty or contains just one item. In general, the region between `start` and `stop` has `stop-start+1` numbers in it. So, we can check if `(stop-start+1) <= 1`. Alternatively, we can observe that when `start >= stop`, then the region is empty. So a region of 1 or fewer items occurs when `start >= (stop +1)`.  Let's put this all together and finish `ispalindrome(S,start,stop)`.
+We now turn our attention to the rest of `ispalindrome`. The original function worked with the first and last letter of `S`, or `S[0]` and `S[-1]` respectively. In our general problem we want the first and last of the region bounded by `start` and `stop`. That would be `S[start]` and `S[stop-1]` respectively.  Finally, the non-recursive case occurred when the string was empty or contained a single letter, i.e. `len(S) <= 1`. Now that we are not actively slicing the string, this will never happen. We need to instead check to see if the region is empty or contains just one item. In general, the range  between `start` and `stop` has `stop-start` numbers in it. So, we can check if `(stop-start) <= 1`. Alternatively, we can observe that when `start >= stop`, then the region is empty. So a region of 1 or fewer items occurs when `start >= (stop-1)`.  Let's put this all together and finish `ispalindrome(S,start,stop)`.
 
 ```python
 def ispalindrome(S,start,stop):
@@ -72,7 +72,7 @@ def ispalindrome(S,start,stop):
   stop   number index right after the end of the checked region.
   Return  True if S[start:stop] is a palindrome, False otherwise
   """
-  if (stop-start+1) <= 1:
+  if (stop-start) <= 1:
     return True
   elif S[start] != S[stop-1]:
     return False
@@ -94,7 +94,7 @@ def ispalindrome(S,start=0,stop=None):
   """
   if stop == None:
     stop = len(S)
-  if (stop-start+1) <= 1:
+  if (stop-start) <= 1:
     return True
   elif S[start] != S[stop-1]:
     return False
