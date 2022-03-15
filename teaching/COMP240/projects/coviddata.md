@@ -29,6 +29,8 @@ stage along with some pointers for carrying out the tasks involved in that stage
 | 2/24 | Stage 1-2 |
 | 3/1  | Stage 2-3 |
 | 3/3  | Stage 3-4 |
+| 3/17  | Stage 4 |
+| 3/24  | Stage 5 |
 
 ## The Data
 
@@ -112,6 +114,35 @@ At this point you might notice a general pattern to the pipeline: (1) get data (
 
 ### Stage 4 - Trends and Smoothing
 
-The number of new cases in a single day is subject to variability that is more about when testing is available than it is about the overall spread of the virus. If you want to smooth out this variability and get a better look at the overall trend, then you turn to [windowing operations](https://pandas.pydata.org/pandas-docs/stable/user_guide/window.html) and the 7-day and 14-day average in particular. Once again, this data is good to have for every county. Use the same general strategy you used in stage 3 to get 7 and 14 day averages and add them to your data frame.
+The number of new cases in a single day is subject to variability that is more about when testing is available than it is about the overall spread of the virus. If you want to smooth out this variability and get a better look at the overall trend, then you turn to [windowing operations](https://pandas.pydata.org/pandas-docs/stable/user_guide/window.html) and the 7-day and 14-day average in particular. Once again, this data is good to have for every county. Use the same general strategy you used in stage 3 to get 7 and 14 day averages and add them to your data frame. At this point we can start to combine visuals by adding a [line chart](https://plotly.com/python/line-charts/) of the 7 and/or 14 day average to your bar chart of the daily new case numbers.
 
-At this point we can start to combine visuals by adding a [line chart](https://plotly.com/python/line-charts/) of the 7 and/or 14 day average to your bar chart of the daily new case numbers.
+With stage 4 complete you should have chosen an *area of interest* that includes multiple counties and be able to produce the following set of graphics:
+
+1. Total Cases for each county in your area of interest, each state involved in your area of interest, and the whole United States.
+2. New cases per day with 7 and 14 day average trend lines for each county in your area of interest, each state involved in your area of interest, and the whole United States.
+
+Each of these graphics should have a clear title and a well labeled x and y axis. New case graphics should also have a legend that allows the view to determine what the bars and lines represent. Because these graphics are very similar and differ mostly in the source of data, you are encouraged to write functions to produce the graphic for a given data set, then use that one function to produce the graphics for each part of your area of interest.
+
+### Stage 5 - Cases per 100,000
+
+To compare data from two different counties with different sized populations we must first *normalize* the values.  A simple example of normalization comes from assignment and course grading.  Let's say you have one exam with a total of 50 possible points and another with 70. On the first exam you get 45 points and on the second you get 50.  On which exam did you do better? To determine this we calculate the score as percentage of the total or on a 0 to 1 scale by dividing points earned by possible points.  On the first exam you had a score of 0.9 but on the second you had a score of roughly .714.  The first exam was better despite the fact that fewer points were earned.
+
+The COVID data providies a similar challange.  How should we compare 100 cases in a county of 20,000 people to 200 cases in a population of 200,000?  The answer is to normalize the data by first computing the per-capita rate by dividing cases by population. In general this gives you a small number less than one. This number would take some practice to interpret, and rather than report it directly, we rescale the case count to a standard population size by multiplying the per capita rate by the desired population size. This results in a number that we can interpret as, *"number of cases you'd expect to see in a population of 100000 with the same case rate as our target area"*. The rescaled size used throughout the pandemic is 100,000 people.
+
+We now have a formula for normalizing case and death statistics on a per 100000 people basis. Where $cases$ is the case count (or death count) for a given area (county or state) and $population$ is the population of that area.
+
+$$
+\frac{cases}{population}\times100000
+$$
+
+Using this formula we can now compare data across state and county lines. By applying it to cumulative totals we can see which area had seen more of an effect from COVID by a given date, relative to their population size. By applying it to daily numbers we can see the same on a day to day basis. You should now:
+1. Compute new and total cases per 100,000 for each county in your area of interest. Add this to your data frame.
+2. Graph these new stats using [plotly subplots](https://plotly.com/python/subplots/) with shared X and Y axis values. Be sure to put subtitles on each individual plot so that the viewer knows which plot belongs to which county.
+
+### Stage 6 - Maps
+
+*Coming Soon*: Visualizing cases per 100,000 data on a [Choropleth Map](https://plotly.com/python/choropleth-maps/) for state and county totals.
+
+### Stage 7 - Animations
+
+*Coming Later*: Adding [Animations](https://plotly.com/python/animations/) to the maps to show new cases per day, week, or month. 
