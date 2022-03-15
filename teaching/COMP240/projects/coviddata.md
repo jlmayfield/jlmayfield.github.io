@@ -2,6 +2,7 @@
 layout: page
 title: COMP240 - Exploratory Data Analysis and Visualization of Covid-19 Data
 permalink: /teaching/COMP240/projects/coviddata/
+mathjax: true
 ---
 
 Your second project is one of data science. You'll be using python
@@ -145,4 +146,4 @@ Using this formula we can now compare data across state and county lines. By app
 
 ### Stage 7 - Animations
 
-*Coming Later*: Adding [Animations](https://plotly.com/python/animations/) to the maps to show new cases per day, week, or month. 
+*Coming Later*: Adding [Animations](https://plotly.com/python/animations/) to the maps to show new cases per day, week, or month.
