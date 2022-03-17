@@ -6,4 +6,4 @@ permalink: /teaching/COMP152/projects/
 
 &nbsp;&nbsp;&nbsp;[Course Home](/teaching/COMP152/)
 
-### Coming Soon-ish
+[Project 1: Old-School Cryptography](/teaching/COMP152/projects/monocipher)
