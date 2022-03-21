@@ -17,3 +17,4 @@ without understanding. You should never be copying solutions from someone else.
 |:----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | Basics (ch 1-2)| | 1-2,1-3,2-1,2-2  | |  1/28  | | Yes |
 | Building Blocks (ch 3-4) | | 3-1 or 4-4  | | 3/2  | | Yes   |
+| Divide and Conquer (ch 5) | | 5-2 | | 4/1  | | No (1 page or less writeup + code) | 
