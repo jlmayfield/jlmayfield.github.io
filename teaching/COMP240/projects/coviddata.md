@@ -32,6 +32,8 @@ stage along with some pointers for carrying out the tasks involved in that stage
 | 3/3  | Stage 3-4 |
 | 3/17  | Stage 4 |
 | 3/24  | Stage 5 |
+| 3/24  | Stage 5 |
+| 3/31  | Stages 6-6.5 |
 
 ## The Data
 
@@ -142,7 +144,20 @@ Using this formula we can now compare data across state and county lines. By app
 
 ### Stage 6 - Maps
 
-*Coming Soon*: Visualizing cases per 100,000 data on a [Choropleth Map](https://plotly.com/python/choropleth-maps/) for state and county totals.
+So far we've been visualizing cases and deaths over time.  If we want to examine data for multiple locations, then we largely had to produce one graphic for each location. Even then, location was a second-class element to the graphic.  We, the reader, had to know where one county or state sits relative to another. Their relative locations were not baked into the graphic in a way that lets us pull a hypothesis or conclusion about the data from the graphic itself.  Maps fix that. Location is a first-class element in a map.
+
+Plotly has robust support for map-based graphics and in-particular the [Choropleth Map](https://plotly.com/python/choropleth-maps/). Such graphs let you represent data by coloring in a geographical region on a map.  What we give up when creating such graphics is the ability to show data over time. The x and y axes are both effectively used for latitude and longitude. We then use color for something like case or death counts. Displaying different statistics for different time periods requires multiple graphics or animations.  For now, we'll mostly worry about static, fixed time period graphics.  Here's what I'm looking for:
+
+1. A Choropleth of Total Cases per 100,000 by a given day (you pick the day) for several counties and  another for several states.
+2. Group new cases per 100,000 by week for your choose states and again for counties.  Then choose a four week period and produce a new cases choropleth (one for states and one for counties) for each week in that period.
+
+### Stage 6.5 - Visualizing Peaks around the County
+
+Let's use our data exploration and visualization skills to explore a focused question, namely: "Which counties were seeing the most cases during the peak of the Omicron Surge?"  Here's what you need to do:
+
+1. Look at new cases per week for the whole US and find the week with the highest number of new cases during the most recent, Omicron-driven surge. This is most likely the peak for the whole pandemic, so you can start by looking for the max week for new cases for the whole US dataset.
+2. Now that we have a target week, we need to find the county in each state with the highest number of new cases for that week.  To keep comparisons fair, *we should do the following analysis on a cases per 100000 people basis*. This means we'll see highest cases relative to population.  To get at this data you have two options: you can compute weekly values for every county for the entirety of the pandemic, then select the target week, or you could slice out the daily numbers for the week and do a quick sum.  The later approach will be much, much faster, but the former might open doors for follow up research questions. Start with the quick option (slice and sum), but know that we'll be exploring the computationally intense option later. Once you have the weekly totals for every county in the country, you need to find the maximum for each of the 50 states.
+3. Now that you have the cases per 100000 people for the 50 counties with the highest numbers at the historical peak of the pandemic, you can graph those data as a county-level choropleth.  Try to adapt the daily benchmark numbers found [here](https://globalepidemics.org/key-metrics-for-covid-suppression/) to a weekly basis and use that to set the [colorscale](https://plotly.com/python/colorscales/) for your graphic.
 
 ### Stage 7 - Animations
 
