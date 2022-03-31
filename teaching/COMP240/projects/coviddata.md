@@ -34,6 +34,7 @@ stage along with some pointers for carrying out the tasks involved in that stage
 | 3/24  | Stage 5 |
 | 3/24  | Stage 5 |
 | 3/31  | Stages 6-6.5 |
+| 4/7   | Stage 7. Project Finish |
 
 ## The Data
 
@@ -151,7 +152,7 @@ Plotly has robust support for map-based graphics and in-particular the [Chorople
 1. A Choropleth of Total Cases per 100,000 by a given day (you pick the day) for several counties and  another for several states.
 2. Group new cases per 100,000 by week for your choose states and again for counties.  Then choose a four week period and produce a new cases choropleth (one for states and one for counties) for each week in that period.
 
-### Stage 6.5 - Visualizing Peaks around the County
+### Stage 6.5 - Visualizing Peaks around the Country
 
 Let's use our data exploration and visualization skills to explore a focused question, namely: "Which counties were seeing the most cases during the peak of the Omicron Surge?"  Here's what you need to do:
 
@@ -161,4 +162,22 @@ Let's use our data exploration and visualization skills to explore a focused que
 
 ### Stage 7 - Animations
 
-*Coming Later*: Adding [Animations](https://plotly.com/python/animations/) to the maps to show new cases per day, week, or month.
+Your final goal is to recapture the time dimension in your choropleth by creating [animations](https://plotly.com/python/animations/). Plotly express gives you read access to easy animations and you should explore that until it no longer gives you the flexibility you need. Here are the animations you should be targeting:
+
+1. Weekly (or bi-weekly, or monthly) cases per 100000 in your target counties for the entire length of the pandemic.
+2. Weekly (or bi-weekly, or monthly) cases per 100000 in your target states for the entire length of the pandemic.
+3. Weekly (or bi-weekly, or monthly) cases per 100000 for the county with the hightest reported value in each state.  This is effectively the animated version of what you did in 6.5.
+4. Weekly (or bi-weekly, or monthly) cases per 100000 for the top 5-10 counties in each state.  This is our grand goal.
+
+Objectives (3) and (4) will be the most challenging as you'll need to do some real data wrangling to get the potentially different set of counties needed for each animation frame.
+
+### Finishing Up
+
+After completing all the stages of this project, you should have a pretty impressive set of data visualizations that includes:
+
+* Total Case and Death graphs for multiple counties, states, and for the whole US.
+* New Cases per day (actual numbers and per 100000 people) for multiple counties, states, and the whole US. Included on these should be 7 and/or 14 day average trend lines.
+* Static maps displaying cases per 100000 in different counties and states.
+* Multiple animations displaying the case statistics overtime and on the map.
+
+Plotly is designed with the web in mind. An easy way to share and display our work is to put it on the web! This step is optional, but *I highly encourage you all to pursue it*. First you'll need to export your visuals [to HTML](https://plotly.com/python/interactive-html-export/).  You can then host those on a simple webpage using [github pages](https://pages.github.com/). 
