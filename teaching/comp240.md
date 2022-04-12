@@ -19,6 +19,7 @@ permalink: /teaching/COMP240/
 | |  | First checkpoint 11/18 |
 | 1 | [BattleCode](/teaching/COMP240/projects/battlecode/) | See Project Page for Due Dates|
 | 2 | [Covid Data Exploration and Visualization](/teaching/COMP240/projects/coviddata/)
+| 3 | [Conway's Game of Life](/teaching/COMP240/projects/webgol/) | |
 
 #### Past Offerings
 
