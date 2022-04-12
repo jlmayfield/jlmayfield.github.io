@@ -11,11 +11,11 @@ permalink: /teaching/COMP240/projects/webgol/
 | 4/19 | Stage 0 |
 | 4/26 | Checkpoint 1 |
 | 5/3  | Checkpoint 2 |
-| 5/7 (3pm) | Final Checkpoint | 
+| 5/7 (3pm) | Final Checkpoint |
 
 # The Goal
 
-Your goal is to implement a web-browser version of [Conway's Game of Life](https://playgameoflife.com/) utilizing a Model, View, Controller design using vanilla HTML5, CSS, Javascript.  Your group can and should get creative with the project, but the end result must have the following features:
+Your goal is to implement a web-based version of [Conway's Game of Life](https://playgameoflife.com/) utilizing a Model, View, Controller design with vanilla HTML5, CSS, and Javascript.  Your group can and should get creative with the project, but the end result must have the following features:
 
 1. Users click a button to start and stop the game.
 2. There is a button that lets users carry out a a single evolution of the population.
@@ -35,8 +35,10 @@ Our game is a simple app that does not require a *back end*. That means that the
 The lack of back end databases and servers makes our development environment pretty straight forward. We need at *text editor* to write and edit our HTML, CSS, and Javascript code. We need the ability to run a *small web server* on our local machine in order to serve up our pages. Finally, we need the ability to run and debug our site.  At this point you have all these things on your computer already.
 
 1. Text-Editor (Atom, Sublime Text, Notepad++, VS Code, etc. )
-2. Local Server - Python can launch simple http servers
-3. Running and Debugging Environment - aka A Web-Browser - (Chrome + Debugger (Ctrl-Shift-J))
+2. Local Server - Python can launch simple http servers - `python3 -m http.server`
+3. Running and Debugging Environment - aka A Web-Browser - (Chrome + Debugger (`ctrl-shift-j`))
+
+When working on your project you'll work out the code in your editor, fire up a simply python web server in your site's root directory, then visit the site using your browser. While on the site you can run the debugger to view printed log output or check on Javascript errors in the browser.
 
 ## Web-Development Resources
 
@@ -72,19 +74,19 @@ Remember, a huge part of the process is about getting better at identifying feat
 Like previous project presentations, you'll need to present project progress as well as your progress developing effective team-programming practices.  We can now frame this in terms of sprints and features. Checkpoint presentations should cover the following 5 items:
 
 1. What was your target feature set for the current sprint?
-2. How did the team plan to tackle the feature set?
+2. How did the team plan to tackle the feature set? How did that plan contributed to shared-ownership of the project?
 3. What features actually got done?
-4. What worked for this sprint. What didn't work. If your estimates fell short, why? If your estimates were too long, why?
+4. Evaluate your goal setting. What worked for this sprint? What didn't work? If your estimates fell short, why? If your estimates were too long, why?
 5. What's your plan for the next sprint and how is it informed by lessons learned by previous sprints.
 
-The real goal for your presentation is to get constructive feedback on your feature sets and team-programming practices. If you got more done than you thought, then your estimation of the difficulty of your features was overly conservative. If you didn't get all your features done, then you're being overly optimistic. The goal is to understand what you're currently capable of and construct a feature set for your sprint that is realistically within reach.
+The real goal for your presentation should be to get constructive feedback on your feature sets and team-programming practices. If you got more done than you thought, then your estimation of the difficulty of your features was overly conservative. If you didn't get all your features done, then you're being overly optimistic. The goal is to understand what you're currently capable of and construct a feature set for your sprint that is realistically within reach.
 
 ### Getting Started: Stage 0
 
-We need to initialize our sprint-based process. Get your group repo setup on github and get it going with some kind of simple hello world like application. It doesn't need to have the full MVC structure to start, but should have the main html landing page and ideally includes a bit of CSS and Javascript. The goal of this initial site is to prove that you each have a working local development environment and that you're each able pull down your site from the group repository.
+Like any iterative process, we need to initialize our sprint-based development cycle. This means getting your group repo setup on github and kick-starting the project with some kind of simple hello world like application. It doesn't need to have the full MVC structure to start, but should have the main html landing page and ideally includes a bit of CSS and Javascript. In short, you want a basic web-app that you can begin to refine. The goal of this initial site is to prove that you each have a working local development environment and that you're each able pull down your site from the group repository.
 
-Once you have a shared repository setup and every team member has a working development environment it's time to start working sprints. Come up with a idea for getting started, a set of initial features, and get at it.  From there you can refine your program and your ability to identify feature sets that are appropriate for week-long sprints. Do not shy away from being extra-conservative as you're working you way through new languages and tools.
+Once you have a shared repository setup and every team member has a working development environment it's time to start working sprints. Come up with a idea for getting started, a set of initial features, and get at it.  From there you can refine your program and your ability to identify feature sets that are appropriate for week-long sprints. Do not shy away from being extra-conservative as you're working you way through new languages and tools. Start small and accelerate progress once you have your footing.
 
-### Stage 1 to n
+### Stages 1 to n
 
-After your initial stage 0 checkpoint, you're in full-on sprint mode and presentations should conform to the sprint checkpoint items listed above. Use checkpoints as a well to get advice and feedback on your target feature set for your next checkpoint. You goal shouldn't be to get done so much as it is to get better at choosing appropriate feature sets for each sprint.
+After your initial stage 0 checkpoint, you're in full-on sprint mode and presentations should conform to the sprint checkpoint items listed above. Use checkpoints as a way to get advice and feedback on your target feature set for your next checkpoint. Throughout the whole project, you should be just as concerned with getting better at designing good sprints as you are with designing better programs. 
