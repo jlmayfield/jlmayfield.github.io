@@ -11,3 +11,5 @@ permalink: /teaching/COMP340/
 [Homework Sets](/teaching/COMP340/homework/)
 
 [Programs](/teaching/COMP340/programs/)
+
+[Algorithmic Problem Project](/teaching/COMP340/project)
