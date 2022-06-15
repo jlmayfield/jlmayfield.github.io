@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP240 - Exploratory Data Analysis and Visualization of Covid-19 Data
-permalink: /teaching/COMP240/projects/coviddata/
+permalink: /teaching/COMP240/sp22/projects/coviddata/
 mathjax: true
 ---
 
@@ -180,4 +180,4 @@ After completing all the stages of this project, you should have a pretty impres
 * Static maps displaying cases per 100000 in different counties and states.
 * Multiple animations displaying the case statistics overtime and on the map.
 
-Plotly is designed with the web in mind. An easy way to share and display our work is to put it on the web! This step is optional, but *I highly encourage you all to pursue it*. First you'll need to export your visuals [to HTML](https://plotly.com/python/interactive-html-export/).  You can then host those on a simple webpage using [github pages](https://pages.github.com/). 
+Plotly is designed with the web in mind. An easy way to share and display our work is to put it on the web! This step is optional, but *I highly encourage you all to pursue it*. First you'll need to export your visuals [to HTML](https://plotly.com/python/interactive-html-export/).  You can then host those on a simple webpage using [github pages](https://pages.github.com/).

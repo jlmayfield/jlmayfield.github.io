@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP340 - Literature Review Project
-permalink: /teaching/COMP340/project
+permalink: /teaching/COMP340/sp22/project
 mathjax: true
 ---
 

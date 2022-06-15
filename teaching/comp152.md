@@ -1,19 +1,10 @@
 ---
 layout: page
-title: COMP152 - Data Structures and Algorithms - Spring 2022
+title: COMP152 - Data Structures and Algorithms
 permalink: /teaching/COMP152/
 ---
-
-&nbsp;&nbsp;&nbsp;[Syllabus](/teaching/COMP152/comp152-syllabus.pdf)
-
-### Assignments
-
-[Homework Assignments](/teaching/COMP152/homework/)
-
-[Lab Assignments](/teaching/COMP152/labs/)
-
-[Projects](/teaching/COMP152/projects/)
 
 #### Past Offerings
 
 [Spring 2020](/teaching/COMP152/sp20/)
+[Spring 2022](/teaching/COMP152/sp22/)

@@ -1,15 +1,9 @@
 ---
 layout: page
-title: COMP 340 - Analysis of Algorithms - Spring 2022
+title: COMP 340 - Analysis of Algorithms
 permalink: /teaching/COMP340/
 ---
 
-&nbsp;&nbsp;&nbsp;[Syllabus](comp340-syllabus.pdf)
+#### Past Offerings
 
-### Assignments
-
-[Homework Sets](/teaching/COMP340/homework/)
-
-[Programs](/teaching/COMP340/programs/)
-
-[Algorithmic Problem Project](/teaching/COMP340/project)
+[Spring 2022](/teaching/COMP340/sp22/)

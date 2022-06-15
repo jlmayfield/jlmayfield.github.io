@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP152 - Homework Assignments
-permalink: /teaching/COMP152/homework/
+permalink: /teaching/COMP152/sp22/homework/
 ---
 
 Below is a master list of the homework assignments. Assignments will be posted
@@ -15,6 +15,6 @@ without understanding. You should never be copying code from someone else.
 | Due Date | | Problems |
 |:----: | :----: | :----: |
 |1/18 (2pm)  | | R-1.3,6,7,8,9,10,11.C-1.21 |
-| 2/9 | | [Vector Grade Calculations](/teaching/COMP152/homework/vectorgrades/) |
+| 2/9 | | [Vector Grade Calculations](/teaching/COMP152/sp22/homework/vectorgrades/) |
 | 2/28 | | Chapter 3: R-3.2, R-3.3, R-3.7, R-3.8, R-3.29, R-3.30, R-3.31, R-3.32, R-3.33 |
-| 3/1 (4pm) | | [No-Slice Recursion](/teaching/COMP151/homework/homework4) |
+| 3/1 (4pm) | | [No-Slice Recursion](/teaching/COMP152/sp22/homework/homework4) |

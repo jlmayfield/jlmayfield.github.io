@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP340 - Programming Challenges
-permalink: /teaching/COMP340/programs/
+permalink: /teaching/COMP340/sp22/programs/
 ---
 
 Below is the master list of the programming/interview challenge problems. Unless it indicates
@@ -17,4 +17,4 @@ without understanding. You should never be copying solutions from someone else.
 |:----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | Basics (ch 1-2)| | 1-2,1-3,2-1,2-2  | |  1/28  | | Yes |
 | Building Blocks (ch 3-4) | | 3-1 or 4-4  | | 3/2  | | Yes   |
-| Divide and Conquer (ch 5) | | 5-2 | | 4/1  | | No (1 page or less writeup + code) | 
+| Divide and Conquer (ch 5) | | 5-2 | | 4/1  | | No (1 page or less writeup + code) |

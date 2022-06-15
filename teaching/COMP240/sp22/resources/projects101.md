@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP240 - Projects 101
-permalink: /teaching/COMP240/sp20/resources/projects101
+permalink: /teaching/COMP240/sp22/resources/projects101
 ---
 
 This course is all group software development projects. To manage and carry out the project you and your team will be working in an [agile](https://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto) fashion.  Each project will require that you learn how to work with new programming tools and ideas. Having a well established practice for how to approach and structure your project work will help you navigate the the challenges of dealing with new tools and dealing with new programming problems.

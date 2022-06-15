@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP151 - Lab 5
-permalink: /teaching/COMP152/labs/lab5/
+permalink: /teaching/COMP152/sp22/labs/lab5/
 mathjax: true
 ---
 

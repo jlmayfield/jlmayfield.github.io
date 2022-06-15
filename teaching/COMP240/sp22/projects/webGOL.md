@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP240 - Conway's Game of Life in the Browser
-permalink: /teaching/COMP240/projects/webgol/
+permalink: /teaching/COMP240/sp22/projects/webgol/
 ---
 
 # Due Dates
@@ -89,4 +89,4 @@ Once you have a shared repository setup and every team member has a working deve
 
 ### Stages 1 to n
 
-After your initial stage 0 checkpoint, you're in full-on sprint mode and presentations should conform to the sprint checkpoint items listed above. Use checkpoints as a way to get advice and feedback on your target feature set for your next checkpoint. Throughout the whole project, you should be just as concerned with getting better at designing good sprints as you are with designing better programs. 
+After your initial stage 0 checkpoint, you're in full-on sprint mode and presentations should conform to the sprint checkpoint items listed above. Use checkpoints as a way to get advice and feedback on your target feature set for your next checkpoint. Throughout the whole project, you should be just as concerned with getting better at designing good sprints as you are with designing better programs.
