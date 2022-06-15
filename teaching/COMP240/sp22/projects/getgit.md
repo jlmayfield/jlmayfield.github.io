@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP240 - Getting Git & Github
-permalink: /teaching/COMP240/projects/getgit
+permalink: /teaching/COMP240/sp22/projects/getgit
 ---
 
 This project isn't a project. It's a crash course in the software and services that will drive all your collaborative efforts in this class.

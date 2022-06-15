@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP340 - Homework Problem Sets
-permalink: /teaching/COMP340/homework/
+permalink: /teaching/COMP340/sp22/homework/
 ---
 
 Below is the master list of the homework assignments. Work should be submitted
@@ -17,4 +17,4 @@ without understanding. You should never be copying solutions from someone else. 
 | Basics (ch 2) | | 2-1,2-3,2-5,2-7,2-10,2-14,2-16,<br>2-21,2-23,2-29,2-38,2-41,2-44,2-46  | |  2/4 |
 | Building Blocks (ch 3) | | 3-3, 3-4, 3-6, 3-9, 3-12, 3-15, 3-25, 3-27 | | 3/2 |
 | Building Blocks (ch 4) | | 4-1, 4-4, 4-9, 4-14, 4-17, 4-21, 4-29, 4-33, 4-42  | | 3/18 |
-| Divide & Conquer (ch 5) | | 5-2, 5-6, 5-6. 5-7, 5-8, 5-11, 5-14 | | 3/30  | 
+| Divide & Conquer (ch 5) | | 5-2, 5-6, 5-6. 5-7, 5-8, 5-11, 5-14 | | 3/30  |

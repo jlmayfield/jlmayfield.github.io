@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMP151 - Introduction to Programming
+title: COMP151 - Introduction to Programming - Fall 2022
 permalink: /teaching/COMP151/
 ---
 

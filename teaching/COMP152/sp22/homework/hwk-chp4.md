@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP151 - Homework 4 - No-Slice Recursion
-permalink: /teaching/COMP151/homework/homework4
+permalink: /teaching/COMP152/sp22/homework/homework4
 mathjax: true
 ---
 

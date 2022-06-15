@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP152 - Project 1 - Monoalphabetic Substitution Ciphers
-permalink: /teaching/COMP152/projects/monocipher
+permalink: /teaching/COMP152/sp22/projects/monocipher
 mathjax: true
 ---
 

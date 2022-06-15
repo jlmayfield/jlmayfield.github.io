@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP152 - Project 2 - Job Scheduler
-permalink: /teaching/COMP152/projects/scheduler
+permalink: /teaching/COMP152/sp22/projects/scheduler
 mathjax: true
 ---
 
@@ -196,4 +196,4 @@ The last version of our program extends our report to include a more nuanced loo
 
 You already have one or more functions that give you the desired statistics, you just need to use them with log entries for specific priority groups. This is an *excellent* time to use your old friend the dictionary. Imagine a dictionary where keys are the priority values and the value associated with those keys is the list of all the wait times. With such a dictionary you could generate the desired report with relative ease.
 
-How you choose to complete this version is up to you, but you should consider some of the design ideas used already when deciding how best to proceed. 
+How you choose to complete this version is up to you, but you should consider some of the design ideas used already when deciding how best to proceed.

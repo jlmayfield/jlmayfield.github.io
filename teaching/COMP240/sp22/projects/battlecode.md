@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP240 - Battlecode 2022
-permalink: /teaching/COMP240/projects/battlecode/
+permalink: /teaching/COMP240/sp22/projects/battlecode/
 ---
 
 For our first project we'll be taking a crack at [Battlecode](https://battlecode.org/), specifically the [2022 Variation](https://play.battlecode.org/home). Battlecode is an annual programming tournament hosted by MIT. Teams program software bots to compete 1-on-1 against other teams. Each year a new game is developed. We'll be doing our own little tournament locally.
