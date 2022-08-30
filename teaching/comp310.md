@@ -12,8 +12,8 @@ permalink: /teaching/COMP310/
 
 |Week \# | Date | Reading Due | Prep. for Class | Other Assignments Due | Notes |
 | ---: | :--- | :---: | :---: | :---: | :---: |
-| **1** | Th. 8/25 | | | |
-| **2** | Tu. 8/30 | Ch 1. Ch 2.1 | 1.1, 1.4, 2.1 | | |
+| ~~**1**~~ | ~~Th. 8/25~~ | | | |
+| **2** | ~~Tu. 8/30~~ | ~~Ch 1. Ch 2.1~~ | ~~1.1, 1.4, 2.1~~ | | |
 | | Th. 9/1 | Ch 2.2 -- Ch 2.4 | 2.8, 2.12 | Self Eval. \#1 | |
 | **3** | Tu. 9/6  | Ch 4. | | |  |
 | | Th. 9/8  | Ch 6.1 -- Ch 6.3.1 | | Hwk 1 | |

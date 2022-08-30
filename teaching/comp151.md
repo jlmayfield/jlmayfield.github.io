@@ -12,9 +12,9 @@ permalink: /teaching/COMP151/
 
 |Week \# | Date | Reading Due | Other Assignments Due | Notes |
 | --: | :-- | :---: | :---: | :--: |
-| **1** | W. 8/24 | | |
-| | F. 8/26 | Reading 1 | | |
-| **2** | M. 8/29 | Reading 2 | Lab 1 | |
+| ~~**1**~~ | ~~W. 8/24~~ | | |
+| | ~~F. 8/26~~ | ~~Reading 1~~ | | |
+| **2** | ~~M. 8/29~~ | ~~Reading 2~~ | ~~Lab 1~~ | |
 | | W. 8/31 | Reading 3 | Self-Eval Letter 1 | |
 | | F. 9/2  | Reading 4 | | |
 | **3** | M. 9/5  | |  Homework 1 | *No Class or Lab. <br>This course only!* |
