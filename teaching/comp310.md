@@ -22,7 +22,9 @@ permalink: /teaching/COMP310/
 
 | Assignment | Problems |
 | :---: | :--- |
-| Hwk 1 |  |
+| Hwk 1 |  1.2 (as concept map), 1.4, 1.6 (as concept map), 1.14 |
+|       |  2.2, 2.3, 2.8, 2.9, 2.12 |
+| Hwk 2 |   |
 
 
 &nbsp;
