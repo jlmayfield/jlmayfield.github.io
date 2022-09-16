@@ -20,12 +20,12 @@ permalink: /teaching/COMP151/
 | **3** | ~~M. 9/5~~  | |  ~~Homework 1~~ | ~~*No Class or Lab. <br>This course only!*~~ |
 | | ~~W. 9/7~~  |  | | |
 | | ~~F. 9/9~~  |  | | |
-| **4** | M. 9/12  | Reading 5 | Lab 2 | |
-| | W. 9/14  |  | Homework 2 | |
-| | F. 9/16  | Reading 6 | Exam 1 (Ch 2 (Hwk1/Lab1)) | |
-| **5** | M. 9/19  | | Lab 3 |  |
+| **4** | ~~M. 9/12~~  | ~~Reading 5~~ | ~~Lab 2~~ | |
+| | ~~W. 9/14~~  |  | ~~Homework 2~~ | |
+| | F. 9/16  | | Exam 1 (Ch 2 (Hwk1/Lab1)) | |
+| **5** | M. 9/19  | Reading 6 | Homework 3. Lab 3 |  |
 | | W. 9/21  | | | |
-| | F. 9/23  |  |  | |
+| | F. 9/23  |  | | |
 | **6** | M. 9/26  | | Lab 4 |  |
 | | W. 9/28  | | | |
 | | F. 9/30  |  |  | **No Class Today**|
