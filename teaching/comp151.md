@@ -24,9 +24,9 @@ permalink: /teaching/COMP151/
 | | ~~W. 9/14~~  |  | ~~Homework 2~~ | |
 | | F. 9/16  | | Exam 1 (Ch 2 (Hwk1/Lab1)) | |
 | **5** | M. 9/19  | Reading 6 | Homework 3. Lab 3 |  |
-| | W. 9/21  | | | |
-| | F. 9/23  |  | | |
-| **6** | M. 9/26  | | Lab 4 |  |
+| | W. 9/21  | None | | |
+| | F. 9/23  | None | | |
+| **6** | M. 9/26  | Reading 7 | Lab 4 |  |
 | | W. 9/28  | | | |
 | | F. 9/30  |  |  | **No Class Today**|
 

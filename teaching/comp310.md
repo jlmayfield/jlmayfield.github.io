@@ -20,8 +20,8 @@ permalink: /teaching/COMP310/
 | **4** | Tu. 9/13  | Ch 6.1 -- Ch 6.3.1 | | |  |
 | | Th. 9/15  | Ch 6.3.2 -- ch. 6.3.6 | | Hwk 2 | |
 | **5** | Tu. 9/20  | Finish Ch. 6 | | |  |
-| | Th. 9/22  | | | Exam 1 (ch 4/hwk 2). Hwk 3 | |
-| **6** | Tu. 9/27  | | | |  |
+| | Th. 9/22  | | | | |
+| **6** | Tu. 9/27  | Chapter 7. | | Hwk 3. Exam 1 (ch 4/hwk 2). |  |
 | | Th. 9/29  | | | | **No Class Today** |
 
 ## Homework Problems
@@ -31,7 +31,7 @@ permalink: /teaching/COMP310/
 | Hwk 1 |  1.2 (as concept map), 1.4, 1.6 (as concept map), 1.14 |
 |       |  2.2, 2.3, 2.8, 2.9, 2.12 |
 | Hwk 2 |  4.1 -- 4.9 |
-| Hwk 3 |             |
+| Hwk 3 |  DIY SQL Queries in the style of chap. 6 but using the Baseball DB   |
 
 
 &nbsp;
