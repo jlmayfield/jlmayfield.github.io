@@ -17,12 +17,17 @@ permalink: /teaching/COMP310/
 | | ~~Th. 9/1~~ | ~~Ch 2.2 -- Ch 2.4~~ | ~~2.8, 2.12~~ | ~~Self Eval. \#1~~ | |
 | ~~**3**~~ | ~~Tu. 9/6~~  | ~~Ch 4.~~ | | |  |
 | | ~~Th. 9/8~~  |  | | ~~Hwk 1~~ | |
-| **4** | Tu. 9/13  | Ch 6.1 -- Ch 6.3.1 | | |  |
-| | Th. 9/15  | Ch 6.3.2 -- ch. 6.3.6 | | Hwk 2 | |
-| **5** | Tu. 9/20  | Finish Ch. 6 | | |  |
+| ~~**4**~~ | ~~Tu. 9/13~~  | ~~Ch 6.1 -- Ch 6.3.1~~ | | |  |
+| | ~~Th. 9/15~~  | ~~Ch 6.3.2 -- ch. 6.3.6~~ | | ~~Hwk 2~~ | |
+| **5** | ~~Tu. 9/20~~  | ~~Finish Ch. 6~~ | | |  |
 | | Th. 9/22  | | | | |
-| **6** | Tu. 9/27  | Chapter 7. | | Hwk 3. Exam 1 (ch 4/hwk 2). |  |
+| **6** | Tu. 9/27  | Ch 7.1 -- ch 7.3. | | Hwk 3. Exam 1 (ch 4/hwk 2). |  |
 | | Th. 9/29  | | | | **No Class Today** |
+| **7** | Tu. 10/4  | Ch 7.4 | | | *Working Hwk4* |
+| | Th. 10/6  | | | | *Working Hwk4* |
+| **8** | Tu. 10/11  | | | Hwk 4 | |
+| | Th. 10/13  | | | | **Fall Break** |
+
 
 ## Homework Problems
 
@@ -32,6 +37,7 @@ permalink: /teaching/COMP310/
 |       |  2.2, 2.3, 2.8, 2.9, 2.12 |
 | Hwk 2 |  4.1 -- 4.9 |
 | Hwk 3 |  DIY SQL Queries in the style of chap. 6 but using the Baseball DB   |
+| Hwk 4 | 7.23, 6.7--6.28 |
 
 
 &nbsp;
