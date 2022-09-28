@@ -23,17 +23,17 @@ permalink: /teaching/COMP151/
 | ~~**4**~~ | ~~M. 9/12~~  | ~~Reading 5~~ | ~~Lab 2~~ | |
 | | ~~W. 9/14~~  |  | ~~Homework 2~~ | |
 | | ~~F. 9/16~~  | | ~~Exam 1 (Ch 2 (Hwk1/Lab1))~~ | |
-| **5** | ~~M. 9/19~~  | ~~Reading 6~~ | ~~Homework 3. Lab 3~~ |  |
+| ~~**5**~~ | ~~M. 9/19~~  | ~~Reading 6~~ | ~~Homework 3. Lab 3~~ |  |
 | | ~~W. 9/21~~  | ~~None~~ | | |
-| | F. 9/23  | None | | |
-| **6** | M. 9/26  | Reading 7 | Lab 4 |  |
+| | ~~F. 9/23~~  | ~~None~~ | | |
+| **6** | ~~M. 9/26~~  | ~~Reading 7~~ | ~~Lab 4~~ |  |
 | | W. 9/28  | | | |
-| | F. 9/30  | | Homework 4  | **No Class Today**|
-| **7** | M. 10/3 |  |  | Lab 5 |
-| | W. 10/5 | | | |
+| | F. 9/30  | | Homework 4. | **No Class Today**|
+| **7** | M. 10/3 | Reading 8.  | Homework 5. Lab 5 | |
+| | W. 10/5 | Reading 9. | | |
 | | F. 10/7  |  |   |  |
-| **8** | M. 10/10  |  | | Lab 6  |
-| | W. 10/12  | | | |
+| **8** | M. 10/10  |  | **Exam During Lab Time**  | |
+| | W. 10/12  | | **Self-Eval. Letter** | |
 | | F. 10/14  |  |  | **Fall Break**|
 
 
