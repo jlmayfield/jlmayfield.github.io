@@ -8,7 +8,7 @@ permalink: /teaching/COMP151/
 
 &nbsp;&nbsp;&nbsp;[Course Competencies](/teaching/COMP151/COMP151-Competencies.pdf)
 
-&nbsp;&nbsp;&nbsp;[Self-Evaluation Letter Prompt](/teaching/COMP151/evalletterS.pdf)
+&nbsp;&nbsp;&nbsp;[Self-Evaluation Letter Prompt](/teaching/COMP151/evalletter.pdf)
 
 
 ## Calendar
