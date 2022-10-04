@@ -8,6 +8,9 @@ permalink: /teaching/COMP310/
 
 &nbsp;&nbsp;&nbsp;[Course Competencies](/teaching/COMP310/COMP310-Competencies.pdf)
 
+&nbsp;&nbsp;&nbsp;[Self-Evaluation Letter Prompt](/teaching/COMP310/evalletter.pdf)
+
+
 ## Calendar
 
 |Week \# | Date | Reading Due | Prep. for Class | Other Assignments Due | Notes |
