@@ -36,8 +36,8 @@ permalink: /teaching/COMP151/
 | | W. 10/5 | Reading 9. | | |
 | | F. 10/7  |  |   |  |
 | **8** | M. 10/10  |  | **Exam During Lab Time**  | |
-| | W. 10/12  | | **Self-Eval. Letter** | |
-| | F. 10/14  |  |  | **Fall Break**|
+| | W. 10/12  | | **Self-Eval. Letter** | **Fall Break. NO CLASS.** |
+| | F. 10/14  |  |  | **Fall Break. NO CLASS.**|
 
 
 
