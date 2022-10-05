@@ -35,7 +35,7 @@ permalink: /teaching/COMP151/
 | **7** | M. 10/3 | Reading 8.  | Homework 5. Lab 5 | |
 | | W. 10/5 | Reading 9. | | |
 | | F. 10/7  |  |   |  |
-| **8** | M. 10/10  |  | **Exam During Lab Time**  | |
+| **8** | M. 10/10  |  | **Exam (Covers Through Reading 7/Hwk 4/Lab 4) During Lab Time**  | |
 | | W. 10/12  | | **Self-Eval. Letter** | **Fall Break. NO CLASS.** |
 | | F. 10/14  |  |  | **Fall Break. NO CLASS.**|
 
