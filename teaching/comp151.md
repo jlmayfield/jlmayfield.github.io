@@ -29,15 +29,24 @@ permalink: /teaching/COMP151/
 | ~~**5**~~ | ~~M. 9/19~~  | ~~Reading 6~~ | ~~Homework 3. Lab 3~~ |  |
 | | ~~W. 9/21~~  | ~~None~~ | | |
 | | ~~F. 9/23~~  | ~~None~~ | | |
-| **6** | ~~M. 9/26~~  | ~~Reading 7~~ | ~~Lab 4~~ |  |
-| | W. 9/28  | | | |
-| | F. 9/30  | | Homework 4. | **No Class Today**|
-| **7** | M. 10/3 | Reading 8.  | Homework 5. Lab 5 | |
-| | W. 10/5 | Reading 9. | | |
-| | F. 10/7  |  |   |  |
-| **8** | M. 10/10  |  | **Exam (Covers Through Reading 7/Hwk 4/Lab 4) During Lab Time**  | |
-| | W. 10/12  | | **Self-Eval. Letter** | **Fall Break. NO CLASS.** |
-| | F. 10/14  |  |  | **Fall Break. NO CLASS.**|
+| ~~**6**~~ | ~~M. 9/26~~  | ~~Reading 7~~ | ~~Lab 4~~ |  |
+| | ~~W. 9/28~~  | | | |
+| | ~~F. 9/30~~  | | ~~Homework 4.~~ | ~~**No Class Today**~~|
+| ~~**7**~~ | ~~M. 10/3~~ | ~~Reading 8.~~  | ~~Homework 5. Lab 5~~ | |
+| | ~~W. 10/5~~ | ~~Reading 9.~~ | | |
+| | ~~F. 10/7~~  |  |   |  |
+| ~~**8**~~ | ~~M. 10/10~~  |  | ~~**Exam (Covers Through Reading 7/Hwk 4/Lab 4) During Lab Time**~~  | |
+| | ~~W. 10/12~~  | | ~~**Self-Eval. Letter**~~ | ~~**Fall Break. NO CLASS.**~~ |
+| | ~~F. 10/14~~  |  |  | ~~**Fall Break. NO CLASS.**~~ |
+| **9** | ~~M. 10/17~~ |  | ~~Lab 6~~ | |
+| | ~~W. 10/19~~ | ~~Reading 10.~~ | | |
+| | F. 10/21  |  |   | *Project 1 Intro.* |
+| **10** | M. 10/24 | Reading 11.  | Homework 6. Project 1 Lab. | |
+| | W. 10/26 | Reading 12 | | |
+| | F. 10/28  |  |   |  |
+| **11** | M. 10/31 |  | Project 1 Lab. | |
+| | W. 11/2 | | | |
+| | F. 11/4 | | **Project 1**  |  |
 
 
 

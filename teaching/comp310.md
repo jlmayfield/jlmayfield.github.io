@@ -22,14 +22,20 @@ permalink: /teaching/COMP310/
 | | ~~Th. 9/8~~  |  | | ~~Hwk 1~~ | |
 | ~~**4**~~ | ~~Tu. 9/13~~  | ~~Ch 6.1 -- Ch 6.3.1~~ | | |  |
 | | ~~Th. 9/15~~  | ~~Ch 6.3.2 -- ch. 6.3.6~~ | | ~~Hwk 2~~ | |
-| **5** | ~~Tu. 9/20~~  | ~~Finish Ch. 6~~ | | |  |
-| | Th. 9/22  | | | | |
-| **6** | Tu. 9/27  | Ch 7.1 -- ch 7.3. | | Hwk 3. Exam 1 (ch 4/hwk 2). |  |
-| | Th. 9/29  | | | | **No Class Today** |
-| **7** | Tu. 10/4  | Ch 7.4 | | | *Working Hwk4* |
-| | Th. 10/6  | | | | *Working Hwk4* |
-| **8** | Tu. 10/11  | | | Hwk 4 | |
-| | Th. 10/13  | | | | **Fall Break** |
+| ~~**5**~~ | ~~Tu. 9/20~~  | ~~Finish Ch. 6~~ | | |  |
+| | ~~Th. 9/22~~  | | | | |
+| ~~**6**~~ | ~~Tu. 9/27~~  | ~~Ch 7.1 -- ch 7.3.~~ | | ~~Hwk 3. Exam 1 (ch 4/hwk 2).~~ |  |
+| | ~~Th. 9/29~~  | | | | ~~**No Class Today**~~ |
+| ~~**7**~~ | ~~Tu. 10/4~~  | ~~Ch 7.4~~ | | | ~~*Working Hwk4*~~ |
+| | ~~Th. 10/6~~  | | | | ~~*Working Hwk4*~~ |
+| ~~**8**~~ | ~~Tu. 10/11~~  | | | ~~Hwk 4~~ | |
+| | ~~Th. 10/13~~  | | | | ~~**Fall Break**~~ |
+| **9** | ~~Tu. 10/18~~  | | | | ~~**Mentoring Day**~~ |
+| | Th. 10/20  | | | | *Project Work* |
+| **10** | Tu. 10/25  | | | | *Project Work* |
+| | Th. 10/27  | | | | *Project Work* |
+| **11** | Tu. 11/1  | | | Project 1 | |
+| | Th. 11/3  | | | |  |
 
 
 ## Homework Problems
