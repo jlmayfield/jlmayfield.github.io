@@ -47,6 +47,13 @@ permalink: /teaching/COMP310/
 &nbsp;
 &nbsp;
 
+## Projects
+
+| Project | Due Date |
+| :--: | :--: |
+| [Caught Stealing](/teaching/COMP310/projects/caughtstealing/) | 11/1 |
+
+
 #### Past Course Offerings
 
 [Fall 2018](/teaching/COMP310/fa18/)
