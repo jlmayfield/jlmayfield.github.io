@@ -13,9 +13,9 @@ For our project we're going to do some simple exploration and visualizations of 
 We're primarily interested in potential relationships between *Home Runs*, *Stolen Bases*, and catchers stopping the stolen base (aka *Caught Stealing*). The relationship between a successful and unsucessful steal and is pretty clear, but we came to this problem by looking at the defensive side of things so we'll include that in our project. The relationship between home runs and stolen bases is a little less clear. It is certainly the case that each home run means one or more fewer chances for someone to steal a base, but is it really the case that stealing is rare between home runs?
 
 In addition to looking at raw counts of home runs and stolen bases, we should take a look at instances when they these events could have happened but did not. For that we need a few other statistics:
-  * *Plate Appearances* When someone steps up to home plate. This is the sum of hits (H), walks (BB), intensional walks (IBB), Hit by pitch (HBP), strike outs (SO), sacrifice hits (SH), and sacrifice flys (SF).
-  * *On Base Appearances* Running appearances plus the home runs: sum of hits, walks, intentional walks, and hit by pitches.
+  * *Plate Appearances* When someone steps up to home plate. This is the sum of At Bats (AB), walks (BB), intensional walks (IBB), Hit by pitch (HBP), sacrifice hits (SH), and sacrifice flys (SF).
   * *Base Running Appearances* When someone gets on base and has the chance to steal.  This is the sum of all the non-home run hits (H-HR), walks, intentional walks, and hit by pitches.
+  * *On Base Appearances* Running appearances plus the home runs: sum of hits, walks, intentional walks, and hit by pitches.  
   * *Attempted Steals* This is the sum of successful steals (SB) and times caught stealing (CS).
 
 With these additional statistics we can look at a variety of interesting ratios: home runs to plate appearances, steals (successful or unsuccessful) to on base and running appearances, home runs to hits, and steals (successful or unsuccessful) to attempted steals. These ratios let us examine the rate at which our events of interest are occurring and should offer some insight as to the relative frequency, and perhaps importance, of the steal over the long history of baseball.
