@@ -53,6 +53,10 @@ permalink: /teaching/COMP151/
 | **13** | M. 11/14 |  | Lab 8 | |
 | | W. 11/16 | Reading 14 | | |
 | | F. 11/18 | | **Self-Eval Letter 3** |  |
+| **14** | M. 11/21 |  | Lab 9 | |
+| | W. 11/16 | | | *THANKSGIVING BREAK* |
+| | F. 11/18 | | | *THANKSGIVING BREAK* |
+
 
 
 

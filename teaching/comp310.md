@@ -31,12 +31,17 @@ permalink: /teaching/COMP310/
 | ~~**8**~~ | ~~Tu. 10/11~~  | | | ~~Hwk 4~~ | |
 | | ~~Th. 10/13~~  | | | | ~~**Fall Break**~~ |
 | **9** | ~~Tu. 10/18~~  | | | | ~~**Mentoring Day**~~ |
-| | Th. 10/20  | | | | *Project Work* |
-| **10** | Tu. 10/25  | | | | *Project Work* |
-| | Th. 10/27  | | | | *Project Work* |
-| **11** | Tu. 11/1  | | | Project 1 | |
-| | Th. 11/3  | | | |  |
-
+| | ~~Th. 10/20~~  | | | | ~~*Project Work*~~ |
+| **10** | ~~Tu. 10/25~~  | | | | ~~*Project Work*~~ |
+| | ~~Th. 10/27~~  | | | | ~~*Project Work*~~ |
+| ~~**11**~~ | ~~Tu. 11/1~~  | | | ~~Project 1~~ | |
+| | ~~Th. 11/3~~  | | | |  |
+| **12** | Tu. 11/8  | 10.1-10.6 | |  | |
+| | Th. 11/10  | Quick Read of 11 | | | |
+| **13** | Tu. 11/15  | 12.1 - 12.3 | | **SQL Exam** | |
+| | Th. 11/17  | 12.4 - 12.7 | | |  |
+| **14** | Tu. 11/22  | 12.1 - 12.3 | | Self-Eval Letter 3 | |
+| | Th. 11/14  | | | | *THANKSGIVING BREAK* |
 
 ## Homework Problems
 
