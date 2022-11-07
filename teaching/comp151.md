@@ -40,13 +40,21 @@ permalink: /teaching/COMP151/
 | | ~~F. 10/14~~  |  |  | ~~**Fall Break. NO CLASS.**~~ |
 | **9** | ~~M. 10/17~~ |  | ~~Lab 6~~ | |
 | | ~~W. 10/19~~ | ~~Reading 10.~~ | | |
-| | F. 10/21  |  |   | *Project 1 Intro.* |
-| **10** | M. 10/24 | Reading 11.  | Homework 6. Project 1 Lab. | |
-| | W. 10/26 | Reading 12 | | |
-| | F. 10/28  |  |   |  |
-| **11** | M. 10/31 |  | Project 1 Lab. | |
-| | W. 11/2 | | | |
-| | F. 11/4 | | **Project 1**  |  |
+| | ~~F. 10/21~~  |  |   | ~~*Project 1 Intro.*~~ |
+| ~~**10**~~ | ~~M. 10/24~~ | ~~Reading 11.~~  | ~~Homework 6. Project 1 Lab.~~ | |
+| | ~~W. 10/26~~ | ~~Reading 12~~ | | |
+| | ~~F. 10/28~~  |  |   |  |
+| ~~**11**~~ | ~~M. 10/31~~ |  | ~~Project 1 Lab.~~ | |
+| | ~~W. 11/2~~ | | | |
+| | ~~F. 11/4~~ | | ~~**Project 1**~~  |  |
+| **12** | M. 11/7 |  | Lab 7 | |
+| | W. 11/9 | | | Lab 7, Project 1 Review |
+| | F. 11/11 | | **Iteration and Accumlation Exam** |  |
+| **13** | M. 11/14 |  | Lab 8 | |
+| | W. 11/16 | Reading 14 | | |
+| | F. 11/18 | | **Self-Eval Letter 3** |  |
+
+
 
 
 
