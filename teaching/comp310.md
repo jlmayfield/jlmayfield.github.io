@@ -36,8 +36,8 @@ permalink: /teaching/COMP310/
 | | ~~Th. 10/27~~  | | | | ~~*Project Work*~~ |
 | ~~**11**~~ | ~~Tu. 11/1~~  | | | ~~Project 1~~ | |
 | | ~~Th. 11/3~~  | | | |  |
-| **12** | Tu. 11/8  | 10.1-10.6 | |  | |
-| | Th. 11/10  | Quick Read of 11 | | | |
+| **12** | Tu. 11/8  |  | | |  |
+| | Th. 11/10  | 10.1-10.6, 11 | | | Follow ch 10 pointers to ch. 11. Read in Parallel |
 | **13** | Tu. 11/15  | 12.1 - 12.3 | | **SQL Exam** | |
 | | Th. 11/17  | 12.4 - 12.7 | | |  |
 | **14** | Tu. 11/22  | 12.1 - 12.3 | | Self-Eval Letter 3 | |

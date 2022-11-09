@@ -49,11 +49,11 @@ permalink: /teaching/COMP151/
 | | ~~F. 11/4~~ | | ~~**Project 1**~~  |  |
 | **12** | M. 11/7 |  | Lab 7 | |
 | | W. 11/9 | | | Lab 7, Project 1 Review |
-| | F. 11/11 | | **Iteration and Accumlation Exam** |  |
-| **13** | M. 11/14 |  | Lab 8 | |
+| | F. 11/11 | |  |  |
+| **13** | M. 11/14 |  | **Iteration and Accumlation Exam (in lab)** | |
 | | W. 11/16 | Reading 14 | | |
-| | F. 11/18 | | **Self-Eval Letter 3** |  |
-| **14** | M. 11/21 |  | Lab 9 | |
+| | F. 11/18 | |  |  |
+| **14** | M. 11/21 |  | Lab 9.**Self-Eval Letter 3** | |
 | | W. 11/16 | | | *THANKSGIVING BREAK* |
 | | F. 11/18 | | | *THANKSGIVING BREAK* |
 
