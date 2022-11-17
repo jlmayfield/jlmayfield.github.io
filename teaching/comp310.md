@@ -8,7 +8,7 @@ permalink: /teaching/COMP310/
 
 &nbsp;&nbsp;&nbsp;[Course Competencies](/teaching/COMP310/COMP310-Competencies.pdf) and [Knowledge-Area Map](/teaching/COMP310/comp310-KAMap.pdf)
 
-&nbsp;&nbsp;&nbsp;[Self-Evaluation Prompt](/teaching/COMP310/evalletter.pdf)
+&nbsp;&nbsp;&nbsp;[Self-Evaluation Prompt](/teaching/COMP310/evalletter.pdf) and [Self-Evaluation Mapping Template](/teaching/COMP310/self-eval-template.docx)
 
 
 ## Calendar
