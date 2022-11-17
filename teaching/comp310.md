@@ -6,9 +6,9 @@ permalink: /teaching/COMP310/
 
 &nbsp;&nbsp;&nbsp;[Syllabus](/teaching/COMP310/comp310-syllabus.pdf)
 
-&nbsp;&nbsp;&nbsp;[Course Competencies](/teaching/COMP310/COMP310-Competencies.pdf)
+&nbsp;&nbsp;&nbsp;[Course Competencies](/teaching/COMP310/COMP310-Competencies.pdf) and [Knowledge-Area Map](/teaching/COMP310/comp310-KAMap.pdf)
 
-&nbsp;&nbsp;&nbsp;[Self-Evaluation Letter Prompt](/teaching/COMP310/evalletter.pdf)
+&nbsp;&nbsp;&nbsp;[Self-Evaluation Prompt](/teaching/COMP310/evalletter.pdf)
 
 
 ## Calendar
