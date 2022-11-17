@@ -6,9 +6,9 @@ permalink: /teaching/COMP151/
 
 &nbsp;&nbsp;&nbsp;[Syllabus](/teaching/COMP151/comp151-syllabus.pdf)
 
-&nbsp;&nbsp;&nbsp;[Course Competencies](/teaching/COMP151/COMP151-Competencies.pdf)
+&nbsp;&nbsp;&nbsp;[Course Competencies](/teaching/COMP151/COMP151-Competencies.pdf) and [Knowledge-Area Map](/teaching/COMP151/comp151-KAMap.pdf)
 
-&nbsp;&nbsp;&nbsp;[Self-Evaluation Letter Prompt](/teaching/COMP151/evalletter.pdf)
+&nbsp;&nbsp;&nbsp;[Self-Evaluation Letter Prompt](/teaching/COMP151/evalletter.pdf) and and [Self-Evaluation Mapping Template](/teaching/COMP151/self-eval-template.docx)
 
 
 ## Calendar
