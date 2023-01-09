@@ -1,20 +1,20 @@
 ---
 layout: page
-title: COMP151 - Introduction to Programming - Spring 2023
-permalink: /teaching/COMP151/
+title: COMP343 - Artificial Intelligence - Spring 2023
+permalink: /teaching/COMP343/
 ---
 
 ## Important Documents
 
-These are the critical documents for COMP151.  You'll be given paper copies of most of them, but can always find digital copies here.
+These are the critical documents for COMP343.  You'll be given paper copies of most of them, but can always find digital copies here.
 
-* [Syllabus](/teaching/COMP151/comp151-syllabus.pdf)
-* [Course Competencies](/teaching/COMP151/COMP151-Competencies.pdf)
-* [Competencies and Self-Evaluation How-To](/teaching/ungrading/howto)
-* [Report Card Starter](/teaching/COMP151/COMP151-ReportCardStarter.docx)
-* [Knowledge-Area Map](/teaching/COMP151/comp151-KAMap.pdf)
+* [Syllabus](/teaching/COMP343/comp343-syllabus.pdf)
+* [Course Competencies](/teaching/COMP343/COMP343-Competencies.pdf)
+* [Competencies and Self-Evaluation How-To](/teaching/ungrading/howto/)
+* [Report Card Starter](teaching/COMP343/COMP343-ReportCardStarter.docx)
+<!-- * [Knowledge-Area Map](/teaching/COMP343/comp343-KAMap.pdf) -->
 
-## Self-Evaluations & Reflections
+## Self-Evaluations \& Reflections
 
 | Reflection Prompt | Due Date |
 | :--- | :--- |
@@ -24,27 +24,25 @@ These are the critical documents for COMP151.  You'll be given paper copies of m
 | [Reflection \# 4](/teaching/ungrading/letter4) | 4/5 |
 | [Reflection \# 5](/teaching/ungrading/letter5) | 5/5 |
 
-&nbsp;&nbsp;&nbsp;
-
 ## Calendar
 
 |Week \# | Date | Reading Due | Other Assignments Due | Notes |
 | --: | :-- | :---: | :---: | :--: |
-| **1** | M. 1/9 | | Lab 1. | |
-| | W. 1/11 | Chapter 1 | Ch. 1 Assessment | |
+| **1** | M. 1/9 | | |
+| | W. 1/11 |  | | |
 | | F. 1/13 |  | Reflection \#1 | |
-| **2** | M. 1/16 | | | *No Class. No Lab* |
-| | W. 1/18  | Chapter 2, pt. 1 | | |
+| **2** | M. 1/16 | | | *No Class.* |
+| | W. 1/18  |  | | |
 | | F. 1/20  |  | | |
 | **3** | M. 1/23  | | | |
 | | W. 1/25  |  | | |
-| | F. 1/27 |  | |  |
+| | F. 1/27 |  | | |
 | **4** | M. 1/30  | | | |
 | | W. 2/1 |  | | |
-| | F. 2/3  | | Reflection \#2. | |
-| **5** | M. 2/6  | Lab 3. | |  |
+| | F. 2/3  | | Reflection \#2 | |
+| **5** | M. 2/6  | | |  |
 | | W. 2/8  | | | |
-| | F. 2/10  | | | |
+| | F. 2/10  |  | | |
 | **6** | M. 2/13  | | |  |
 | | W. 2/15  | | | |
 | | F. 2/17  | |  | |
@@ -66,7 +64,7 @@ These are the critical documents for COMP151.  You'll be given paper copies of m
 | **12** | M. 4/3 |  | | |
 | | W. 4/5 | | | Reflection \#4 |
 | | F. 4/7 | |  | *No Class. Easter* |
-| **13** | M. 4/10 |  | No Class. No Lab. Easter* | |
+| **13** | M. 4/10 |  | No Class. Easter* | |
 | | W. 4/12 | | | |
 | | F. 4/14 | |  |  |
 | **14** | M. 4/17 |  | | |
@@ -77,18 +75,4 @@ These are the critical documents for COMP151.  You'll be given paper copies of m
 | | F. 4/28 | | |  |
 | **16** | M. 5/1 |  | | |
 | | W. 5/3 | | |  |
-| | F. 5/5 | | Reflection \#5. Final (8am-11am). |  |
-
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-
-### Past Offerings
-
-&nbsp;&nbsp;&nbsp;[Fall 2019](/teaching/COMP151/fa19/)
-
-&nbsp;&nbsp;&nbsp;[Fall 2022](/teaching/COMP151/fa22/)
+| | F. 5/5 | | Reflection \#5. |  |
