@@ -13,6 +13,7 @@ permalink: /teaching/
 [COMP335 - Software Engineering](/teaching/COMP335/)<br>
 [COMP337 - Computer Communications](/teaching/COMP337/)<br>
 [COMP340 - Analysis of Algorithms](/teaching/COMP340/)<br>
+[COMP343 - Artificial Intelligence](/teaching/COMP343/)<br>
 [COMP350 - Topics in Computer Science](/teaching/COMP350/)<br>
 [COMP401 and COMP402 - Senior Capstone](/teaching/COMP401-402/)<br>
 [INTG335 - Artificial Intelligence](/teaching/INTG335/)<br>

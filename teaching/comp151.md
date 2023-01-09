@@ -1,43 +1,94 @@
 ---
 layout: page
-title: COMP151 - Introduction to Programming - Fall 2022
+title: COMP151 - Introduction to Programming - Spring 2023
 permalink: /teaching/COMP151/
 ---
 
-&nbsp;&nbsp;&nbsp;[Syllabus](/teaching/COMP151/comp151-syllabus.pdf)
+## Important Documents
 
-&nbsp;&nbsp;&nbsp;[Course Competencies](/teaching/COMP151/COMP151-Competencies.pdf)
+These are the critical documents for COMP151.  You'll be given paper copies of most of them, but can always find digital copies here.
+
+* [Syllabus](/teaching/COMP151/comp151-syllabus.pdf)
+* [Course Competencies](/teaching/COMP151/COMP151-Competencies.pdf)
+* [Competencies and Self-Evaluation How-To](/teaching/ungrading/howto)
+* [Report Card Starter](/teaching/COMP151/COMP151-ReportCardStarter.docx)
+* [Knowledge-Area Map](/teaching/COMP151/comp151-KAMap.pdf)
+
+## Self-Evaluations & Reflections
+
+| Reflection Prompt | Due Date |
+| :--- | :--- |
+| [Reflection \# 1](/teaching/ungrading/letter1) | 1/13 |
+| [Reflection \# 2](/teaching/ungrading/letter2) | 2/3 |
+| [Reflection \# 3](/teaching/ungrading/letter3) | 2/24 |
+| [Reflection \# 4](/teaching/ungrading/letter4) | 4/5 |
+| [Reflection \# 5](/teaching/ungrading/letter5) | 5/5 |
+
+&nbsp;&nbsp;&nbsp;
 
 ## Calendar
 
 |Week \# | Date | Reading Due | Other Assignments Due | Notes |
 | --: | :-- | :---: | :---: | :--: |
-| ~~**1**~~ | ~~W. 8/24~~ | | |
-| | ~~F. 8/26~~ | ~~Reading 1~~ | | |
-| ~~**2**~~ | ~~M. 8/29~~ | ~~Reading 2~~ | ~~Lab 1~~ | |
-| | ~~W. 8/31~~ | ~~Reading 3~~ | ~~Self-Eval Letter 1~~ | |
-| | ~~F. 9/2~~  | ~~Reading 4~~ | | |
-| ~~**3**~~ | ~~M. 9/5~~  | |  ~~Homework 1~~ | ~~*No Class or Lab. <br>This course only!*~~ |
-| | ~~W. 9/7~~  |  | | |
-| | ~~F. 9/9~~  |  | | |
-| ~~**4**~~ | ~~M. 9/12~~  | ~~Reading 5~~ | ~~Lab 2~~ | |
-| | ~~W. 9/14~~  |  | ~~Homework 2~~ | |
-| | ~~F. 9/16~~  | | ~~Exam 1 (Ch 2 (Hwk1/Lab1))~~ | |
-| ~~**5**~~ | ~~M. 9/19~~  | ~~Reading 6~~ | ~~Homework 3. Lab 3~~ |  |
-| | ~~W. 9/21~~  | ~~None~~ | | |
-| | ~~F. 9/23~~  | ~~None~~ | | |
-| **6** | ~~M. 9/26~~  | ~~Reading 7~~ | ~~Lab 4~~ |  |
-| | W. 9/28  | | | |
-| | F. 9/30  | | Homework 4. | **No Class Today**|
-| **7** | M. 10/3 | Reading 8.  | Homework 5. Lab 5 | |
-| | W. 10/5 | Reading 9. | | |
-| | F. 10/7  |  |   |  |
-| **8** | M. 10/10  |  | **Exam During Lab Time**  | |
-| | W. 10/12  | | **Self-Eval. Letter** | |
-| | F. 10/14  |  |  | **Fall Break**|
+| **1** | M. 1/9 | | Lab 1. | |
+| | W. 1/11 | Chapter 1 | Ch. 1 Assessment | |
+| | F. 1/13 |  | Reflection \#1 | |
+| **2** | M. 1/16 | | | *No Class. No Lab* |
+| | W. 1/18  | Chapter 2, pt. 1 | | |
+| | F. 1/20  |  | | |
+| **3** | M. 1/23  | | | |
+| | W. 1/25  |  | | |
+| | F. 1/27 |  | |  |
+| **4** | M. 1/30  | | | |
+| | W. 2/1 |  | | |
+| | F. 2/3  | | Reflection \#2. | |
+| **5** | M. 2/6  | Lab 3. | |  |
+| | W. 2/8  | | | |
+| | F. 2/10  | | | |
+| **6** | M. 2/13  | | |  |
+| | W. 2/15  | | | |
+| | F. 2/17  | |  | |
+| **7** | M. 2/20 |  | | |
+| | W. 2/22 |  | | |
+| | F. 2/24 |  | Reflection \#3  |  |
+| **8** | M. 2/27  |  |  | |
+| | W. 3/1  | | | |
+| | F. 3/3  | | | **Spring Break. NO CLASS.** |
+| **9** | M. 3/13 |  | | |
+| | W. 3/15 | | | |
+| | F. 3/17  |  | |  |
+| **10** | M. 3/20 | | |
+| | W. 3/22 | | | |
+| | F. 3/24  |  |   |  |
+| **11** | M. 3/27 |  | | |
+| | W. 3/29 | | | |
+| | F. 3/31 | | |  |
+| **12** | M. 4/3 |  | | |
+| | W. 4/5 | | | Reflection \#4 |
+| | F. 4/7 | |  | *No Class. Easter* |
+| **13** | M. 4/10 |  | No Class. No Lab. Easter* | |
+| | W. 4/12 | | | |
+| | F. 4/14 | |  |  |
+| **14** | M. 4/17 |  | | |
+| | W. 4/19 | | |  |
+| | F. 4/21 | | |  |
+| **15** | M. 4/24 |  | | |
+| | W. 4/26 | | |  |
+| | F. 4/28 | | |  |
+| **16** | M. 5/1 |  | | |
+| | W. 5/3 | | |  |
+| | F. 5/5 | | Reflection \#5. Final (8am-11am). |  |
 
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
+### Past Offerings
 
-#### Past Offerings
+&nbsp;&nbsp;&nbsp;[Fall 2019](/teaching/COMP151/fa19/)
 
-[Fall 2019](/teaching/COMP151/fa19/)
+&nbsp;&nbsp;&nbsp;[Fall 2022](/teaching/COMP151/fa22/)
