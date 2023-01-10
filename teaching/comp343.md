@@ -78,4 +78,4 @@ These are the critical documents for COMP343.  You'll be given paper copies of m
 | **16** | M. 5/1 |  | | |
 | | W. 5/3 | | |  |
 | | F. 5/5 | | Reflection \#5. |  |
-| **Finals** | Tu. 5/9 | | Show-and-Tell | **8-11 am** | 
+| **Finals** | Tu. 5/9 | | Show-and-Tell | **8-11 am** |
