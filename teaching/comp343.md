@@ -10,7 +10,7 @@ These are the critical documents for COMP343.  You'll be given paper copies of m
 
 * [Syllabus](/teaching/COMP343/comp343-syllabus.pdf)
 * [Course Competencies](/teaching/COMP343/COMP343-Competencies.pdf)
-* [Competencies and Self-Evaluation How-To](/teaching/ungrading/howto/)
+* [Competencies and Self-Evaluation How-To](/teaching/ungrading/howto)
 * [Report Card Starter](/teaching/COMP343/COMP343-ReportCardStarter.docx)
 <!-- * [Knowledge-Area Map](/teaching/COMP343/comp343-KAMap.pdf) -->
 
