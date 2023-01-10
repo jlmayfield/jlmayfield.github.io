@@ -13,6 +13,17 @@ These are the critical documents for COMP240.  You'll be given paper copies of m
 * [Competencies and Self-Evaluation How-To](/teaching/ungrading/howto)
 * [Report Card Starter](/teaching/COMP240/COMP240-ReportCardStarter.docx)
 
+## Self-Evaluations & Reflections
+
+| Reflection Prompt | Due Date |
+| :--- | :--- |
+| [Reflection \# 1](/teaching/ungrading/letter1) | 1/17 |
+| [Reflection \# 2](/teaching/ungrading/letter2) | 1/31 |
+| [Reflection \# 3](/teaching/ungrading/letter3) | 2/13 |
+| [Reflection \# 4](/teaching/ungrading/letter4) | 3/20 |
+| [Reflection \# 5](/teaching/ungrading/letter5) | 5/2 |
+
+
 ## General Resources
 
 &nbsp;&nbsp;&nbsp;[Projects 101](/teaching/COMP240/resources/projects101)<br>
