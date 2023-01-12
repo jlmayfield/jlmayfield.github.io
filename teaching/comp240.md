@@ -51,7 +51,7 @@ These are the critical documents for COMP240.  You'll be given paper copies of m
 | --: | :-- | :---: | :---: | :--: |
 | **1** | Tu. 1/10 | | |
 | | Th. 1/12 |  | Have Github Account. Have Git.  | |
-| **2** | Tu. 1/17 | | Getting Git. Reflection 1 | (Optional: Play Oh My Git!)|
+| **2** | Tu. 1/17 | | [Getting Git](/teaching/COMP240/projects/getgit). [Reflection \# 1](/teaching/ungrading/letter1). Beat [Oh My Git!](https://ohmygit.org/) | |
 | | Th. 1/19  |  | | |
 | **3** | Tu. 1/24  | | | |
 | | Th. 1/26  |  | Project 1 Checkpoint.  | |
