@@ -34,10 +34,10 @@ These are the critical documents for COMP151.  You'll be given paper copies of m
 | | W. 1/11 | Chapter 1 | Ch. 1 Assessment | |
 | | F. 1/13 |  | Reflection \#1 | |
 | **2** | M. 1/16 | | | *No Class. No Lab* |
-| | W. 1/18  | Chapter 2, pt. 1 | | |
-| | F. 1/20  |  | | |
-| **3** | M. 1/23  | | | |
-| | W. 1/25  |  | | |
+| | W. 1/18  | Ch. 2, pts. 1-3 | Ch. 2, pt 1 & 3 assessment | |
+| | F. 1/20  | Ch. 2, pt. 4 | Ch. 2, pt 4 assessment | |
+| **3** | M. 1/23  | Ch. 2, pt 5. | Ch. 2, pt 5 assessment. Ch 2 Review Assessment | |
+| | W. 1/25  | *Ch 3 TBD* | Ch. 2 Practice & Homework | |
 | | F. 1/27 |  | |  |
 | **4** | M. 1/30  | | | |
 | | W. 2/1 |  | | |

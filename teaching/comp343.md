@@ -16,7 +16,7 @@ These are the critical documents for COMP343.  You'll be given paper copies of m
 
 [AIMA (textbook) Website](https://aima.cs.berkeley.edu/)
 
-## Self-Evaluations \& Reflections
+## Self-Evaluations & Reflections
 
 | Reflection Prompt | Due Date |
 | :--- | :--- |
