@@ -43,6 +43,7 @@ These are the critical documents for COMP240.  You'll be given paper copies of m
 | --- | --- | --- |
 | 0 | [Getting Git](/teaching/COMP240/projects/getgit) | Complete Before 1/17 |
 | |  |  |
+| 1 | [Battlecode](/teaching/COMP240/projects/battlecode/) | |
 
 
 ## Calendar
