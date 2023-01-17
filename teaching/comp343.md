@@ -26,6 +26,12 @@ These are the critical documents for COMP343.  You'll be given paper copies of m
 | [Reflection \# 4](/teaching/ungrading/letter4) | 4/5 |
 | [Reflection \# 5](/teaching/ungrading/letter5) | 5/5 |
 
+## Problem Sets
+
+|   Name & Link | Chapters Covered |
+| :--  | :-- |
+| [Problem Set 1](/teaching/COMP343/problems/set1/) | 1,2 |
+
 ## Calendar
 
 |Week \# | Date | Reading Due | Other Assignments Due | Notes |
@@ -33,11 +39,11 @@ These are the critical documents for COMP343.  You'll be given paper copies of m
 | **1** | M. 1/9 | | |
 | | W. 1/11 | Ch 1. | | |
 | | F. 1/13 | **Ch 2.1-2.3** | Reflection \#1 | |
-| **2** | M. 1/16 |  | | *No Class.* |
+| **2** | M. 1/16 | | | *No Class.* |
 | | W. 1/18  |  |  | |
-| | F. 1/20  | Ch 2 |  | |
-| **3** | M. 1/23  | | | |
-| | W. 1/25  |  | | |
+| | F. 1/20  | Ch 2.4 |  | |
+| **3** | M. 1/23  | Ch. 3.1 - 3.2 | | |
+| | W. 1/25  | Ch. 3.3 | [Problem Set 1](/teaching/COMP343/problems/set1/) | |
 | | F. 1/27 |  | | |
 | **4** | M. 1/30  | | | |
 | | W. 2/1 |  | | |
