@@ -39,12 +39,12 @@ These are the critical documents for COMP151.  You'll be given paper copies of m
 | **3** | M. 1/23  | Ch. 2, pt 5. | Ch. 2, pt 5 assessment. Ch 2 Review Assessment | |
 | | W. 1/25  |  | Ch. 2 Practice & Homework | |
 | | F. 1/27 | Ch 3, pt 1. | |  |
-| **4** | M. 1/30  | Ch 3, pt 2. | Ch. 3 Homework. | |
-| | W. 2/1 |  | | |
-| | F. 2/3  | | Reflection \#2. | |
+| **4** | M. 1/30  | Ch 3, pt 2. | Ch. 3 Homework. [Lab: Start Game v0](/teaching/comp151/game/gamev0) | |
+| | W. 2/1 | [Pygame Intro](/teaching/comp151/game/pygame-round1) | | |
+| | F. 2/3  | |  | |
 | **5** | M. 2/6  | Lab 3. | |  |
-| | W. 2/8  | | | |
-| | F. 2/10  | | | |
+| | W. 2/8  | | Game Jam Presentations | |
+| | F. 2/10  | | [Reflection \# 2](/teaching/ungrading/letter2) | |
 | **6** | M. 2/13  | | |  |
 | | W. 2/15  | | | |
 | | F. 2/17  | |  | |
