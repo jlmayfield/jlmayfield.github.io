@@ -31,6 +31,7 @@ These are the critical documents for COMP343.  You'll be given paper copies of m
 |   Name & Link | Chapters Covered |
 | :--  | :-- |
 | [Problem Set 1](/teaching/COMP343/problems/set1/) | 1,2 |
+| [Problem Set 2](/teaching/COMP343/problems/set2/) | 3 |
 
 ## Calendar
 
