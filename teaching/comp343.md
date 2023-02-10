@@ -51,12 +51,12 @@ These are the critical documents for COMP343.  You'll be given paper copies of m
 | | F. 2/3  | | | |
 | **5** | M. 2/6  | | |  |
 | | W. 2/8  | | | |
-| | F. 2/10  | |Reflection \#2  | |
+| | F. 2/10  | | | |
 | **6** | M. 2/13  | | |  |
-| | W. 2/15  | | | |
+| | W. 2/15  | | [Problem Set 2](/teaching/COMP343/problems/set2/) | |
 | | F. 2/17  | |  | |
-| **7** | M. 2/20 |  | | |
-| | W. 2/22 |  | | |
+| **7** | M. 2/20 |  | 15 Puzzle Program | |
+| | W. 2/22 |  | Reflection \#2 | |
 | | F. 2/24 |  |  |  |
 | **8** | M. 2/27  |  |  | |
 | | W. 3/1  | | Reflection \#3  | |
