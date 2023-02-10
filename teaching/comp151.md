@@ -19,7 +19,7 @@ These are the critical documents for COMP151.  You'll be given paper copies of m
 | Reflection Prompt | Due Date |
 | :--- | :--- |
 | [Reflection \# 1](/teaching/ungrading/letter1) | 1/13 |
-| [Reflection \# 2](/teaching/ungrading/letter2) | 2/3 |
+| [Reflection \# 2](/teaching/ungrading/letter2) | 2/10 |
 | [Reflection \# 3](/teaching/ungrading/letter3) | 2/24 |
 | [Reflection \# 4](/teaching/ungrading/letter4) | 4/5 |
 | [Reflection \# 5](/teaching/ungrading/letter5) | 5/5 |
@@ -45,9 +45,9 @@ These are the critical documents for COMP151.  You'll be given paper copies of m
 | **5** | M. 2/6  | Lab 3. | |  |
 | | W. 2/8  | | Game Jam Presentations | |
 | | F. 2/10  | | [Reflection \# 2](/teaching/ungrading/letter2) | |
-| **6** | M. 2/13  | | |  |
-| | W. 2/15  | | | |
-| | F. 2/17  | |  | |
+| **6** | M. 2/13  | | **EXAM (ch 2)** | *In Lab: Ch. 8 pts 1-2* |
+| | W. 2/15  | Ch. 8, pts 1-2 | Ch. 8, pts 1-2 Assessment & Ch. 8 Practice | |
+| | F. 2/17  | | Ch. 8 Homework | |
 | **7** | M. 2/20 |  | | |
 | | W. 2/22 |  | | |
 | | F. 2/24 |  | Reflection \#3  |  |
