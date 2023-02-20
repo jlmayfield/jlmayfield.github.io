@@ -48,11 +48,11 @@ These are the critical documents for COMP151.  You'll be given paper copies of m
 | **6** | M. 2/13  | | **EXAM (ch 2)** | *In Lab: Ch. 8 pts 1-2* |
 | | W. 2/15  | Ch. 8, pts 1-2 | Ch. 8, pts 1-2 Assessment & Ch. 8 Practice | |
 | | F. 2/17  | | Ch. 8 Homework | |
-| **7** | M. 2/20 | [Pygame Events](/teaching/comp151/game/pygame-events) | | |
-| | W. 2/22 |  | | |
-| | F. 2/24 |  | Reflection \#3  |  |
+| **7** | M. 2/20 | [Pygame Events](/teaching/comp151/game/pygame-events) | Motion Starter Lab (see replit)| |
+| | W. 2/22 | [Game Design: Motion](/teaching/comp151/game/gamev1-design),[Stepping and Gliding](/teaching/comp151/game/gamev1-implementation-basic) | | |
+| | F. 2/24 |  |   |  |
 | **8** | M. 2/27  |  |  | |
-| | W. 3/1  | | | |
+| | W. 3/1  | | Reflection \#3 | |
 | | F. 3/3  | | | **Spring Break. NO CLASS.** |
 | **9** | M. 3/13 |  | | |
 | | W. 3/15 | | | |
