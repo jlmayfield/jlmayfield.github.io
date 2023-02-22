@@ -20,7 +20,7 @@ These are the critical documents for COMP151.  You'll be given paper copies of m
 | :--- | :--- |
 | [Reflection \# 1](/teaching/ungrading/letter1) | 1/13 |
 | [Reflection \# 2](/teaching/ungrading/letter2) | 2/10 |
-| [Reflection \# 3](/teaching/ungrading/letter3) | 2/24 |
+| [Reflection \# 3](/teaching/ungrading/letter3) | 3/2 |
 | [Reflection \# 4](/teaching/ungrading/letter4) | 4/5 |
 | [Reflection \# 5](/teaching/ungrading/letter5) | 5/5 |
 
@@ -51,7 +51,7 @@ These are the critical documents for COMP151.  You'll be given paper copies of m
 | **7** | M. 2/20 | [Pygame Events](/teaching/comp151/game/pygame-events) | Motion Starter Lab (see replit)| |
 | | W. 2/22 | [Game Design: Motion](/teaching/comp151/game/gamev1-design),[Stepping and Gliding](/teaching/comp151/game/gamev1-implementation-basic) | | |
 | | F. 2/24 |  |   |  |
-| **8** | M. 2/27  |  |  | |
+| **8** | M. 2/27  |  | Velocity-Based Movement Lab | |
 | | W. 3/1  | | Reflection \#3 | |
 | | F. 3/3  | | | **Spring Break. NO CLASS.** |
 | **9** | M. 3/13 |  | | |

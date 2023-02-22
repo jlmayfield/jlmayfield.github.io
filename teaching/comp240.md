@@ -18,10 +18,10 @@ These are the critical documents for COMP240.  You'll be given paper copies of m
 | Reflection Prompt | Due Date |
 | :--- | :--- |
 | [Reflection \# 1](/teaching/ungrading/letter1) | 1/17 |
-| [Reflection \# 2](/teaching/ungrading/letter2) | 1/31 |
-| [Reflection \# 3](/teaching/ungrading/letter3) | 2/13 |
-| [Reflection \# 4](/teaching/ungrading/letter4) | 3/20 |
-| [Reflection \# 5](/teaching/ungrading/letter5) | 5/2 |
+| [Reflection \# 2](/teaching/ungrading/letter2) | 1/31,3/2 |
+| [Reflection \# 3](/teaching/ungrading/letter3) | 3/2 |
+| [Reflection \# 4](/teaching/ungrading/letter4) |  |
+| [Reflection \# 5](/teaching/ungrading/letter5) |  |
 
 
 ## General Resources
@@ -64,8 +64,8 @@ These are the critical documents for COMP240.  You'll be given paper copies of m
 | | Th. 2/16  | | | |
 | **7** | Tu. 2/21 |  | | |
 | | Th. 2/23 |  | | |
-| **8** | Tu. 2/28  |  |  | |
-| | Th. 3/2  | | | |
+| **8** | Tu. 2/28  |  | Project 1 Final Presentation. | |
+| | Th. 3/2  | | Reflection 2-3 Due | **No Class** |
 | **9** | Tu. 3/14 |  | | |
 | | Th. 3/16 | | | |
 | **10** | Tu. 3/21 | | |
