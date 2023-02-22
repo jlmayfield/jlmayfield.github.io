@@ -32,6 +32,7 @@ These are the critical documents for COMP343.  You'll be given paper copies of m
 | :--  | :-- |
 | [Problem Set 1](/teaching/COMP343/problems/set1/) | 1,2 |
 | [Problem Set 2](/teaching/COMP343/problems/set2/) | 3 |
+| [Problem Set 3](/teaching/COMP343/problems/set3/) | 5 |
 
 ## Calendar
 
@@ -57,9 +58,9 @@ These are the critical documents for COMP343.  You'll be given paper copies of m
 | | F. 2/17  | |  | |
 | **7** | M. 2/20 |  | 15 Puzzle Program | |
 | | W. 2/22 |  | Reflection \#2 | |
-| | F. 2/24 |  |  |  |
-| **8** | M. 2/27  |  |  | |
-| | W. 3/1  | | Reflection \#3  | |
+| | F. 2/24 | 5.1 - 5.4 |  |  |
+| **8** | M. 2/27  | [Chinook Podcast](https://relprime.com/chinook/) |  | |
+| | W. 3/1  | Go Articles | Reflection \#3  | |
 | | F. 3/3  | | | **Spring Break. NO CLASS.** |
 | **9** | M. 3/13 |  | | |
 | | W. 3/15 | | | |
