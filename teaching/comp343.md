@@ -63,9 +63,9 @@ These are the critical documents for COMP343.  You'll be given paper copies of m
 | | W. 3/1  | Go Articles | Reflection \#3  | |
 | | F. 3/3  | | | **Spring Break. NO CLASS.** |
 | **9** | M. 3/13 |  | | |
-| | W. 3/15 | | | |
-| | F. 3/17  |  | |  |
-| **10** | M. 3/20 | | |
+| | W. 3/15 | 12.1 - 12.2 | | |
+| | F. 3/17  | 12.3 - 12.4 | |  |
+| **10** | M. 3/20 | 12.5 - 12.7 | |
 | | W. 3/22 | | | |
 | | F. 3/24  |  |   |  |
 | **11** | M. 3/27 |  | | |
