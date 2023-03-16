@@ -56,8 +56,8 @@ These are the critical documents for COMP151.  You'll be given paper copies of m
 | | F. 3/3  | | | **Spring Break. NO CLASS.** |
 | **9** | M. 3/13 | [Loop Control](/teaching/comp151/game/gamev1-loopcontrol) | Running and Jumping Study on Replit | |
 | | W. 3/15 | | | Everyone Shares Game Design Plans |
-| | F. 3/17  |  | |  |
-| **10** | M. 3/20 | | |
+| | F. 3/17  |  |  |  |
+| **10** | M. 3/20 | | Lab: Work on [Game v1](/teaching/comp151/game/gamev1) | |
 | | W. 3/22 | | | |
 | | F. 3/24  |  |   |  |
 | **11** | M. 3/27 |  | | |
