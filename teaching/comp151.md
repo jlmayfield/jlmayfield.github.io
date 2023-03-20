@@ -58,10 +58,10 @@ These are the critical documents for COMP151.  You'll be given paper copies of m
 | | W. 3/15 | | | Everyone Shares Game Design Plans |
 | | F. 3/17  |  |  |  |
 | **10** | M. 3/20 | | Lab: Work on [Game v1](/teaching/comp151/game/gamev1) | |
-| | W. 3/22 | | | |
-| | F. 3/24  |  |   |  |
+| | W. 3/22 | Ch. 12 | | Conditionals, Vector2, Rect Review |
+| | F. 3/24  |  |   | **Conditionals, Vector2, Rect Exam** |
 | **11** | M. 3/27 |  | | |
-| | W. 3/29 | | | |
+| | W. 3/29 | | | **Game Jam! Present and Share v1** |
 | | F. 3/31 | | |  |
 | **12** | M. 4/3 |  | | |
 | | W. 4/5 | | | Reflection \#4 |

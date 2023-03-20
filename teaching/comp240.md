@@ -70,12 +70,12 @@ These are the critical documents for COMP240.  You'll be given paper copies of m
 | | Th. 3/16 | | | |
 | **10** | Tu. 3/21 | | |
 | | Th. 3/23 | | | |
-| **11** | Tu. 3/28 |  | | |
+| **11** | Tu. 3/28 | | *First GoL Presentation* | |
 | | Th. 3/30 | | | |
 | **12** | Tu. 4/4 |  | | |
-| | Th. 4/6 | | | |
+| | Th. 4/6 | | *Second GoL Presentation* | |
 | **13** | Tu. 4/11 |  | | |
-| | Th. 4/13 | | | |
+| | Th. 4/13 | | *Final GoL Presentation* | |
 | **14** | Tu. 4/18 |  | | |
 | | Th. 4/20 | | |  |
 | **15** | Tu. 4/25 |  | | No Class (Scholar's Day.) |

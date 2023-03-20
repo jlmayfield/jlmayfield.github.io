@@ -33,6 +33,7 @@ These are the critical documents for COMP343.  You'll be given paper copies of m
 | [Problem Set 1](/teaching/COMP343/problems/set1/) | 1,2 |
 | [Problem Set 2](/teaching/COMP343/problems/set2/) | 3 |
 | [Problem Set 3](/teaching/COMP343/problems/set3/) | 5 |
+| [Problem Set 4](/teaching/COMP343/problems/set4/) | 12 |
 
 ## Calendar
 
@@ -67,8 +68,8 @@ These are the critical documents for COMP343.  You'll be given paper copies of m
 | | F. 3/17  | 12.3 - 12.4 | |  |
 | **10** | M. 3/20 | 12.5 - 12.7 | |
 | | W. 3/22 | | | |
-| | F. 3/24  |  |   |  |
-| **11** | M. 3/27 |  | | |
+| | F. 3/24  |  |  | Problem Set 2-3 Review |
+| **11** | M. 3/27 | | | **Exam on Ch. 3,5** |
 | | W. 3/29 | | | |
 | | F. 3/31 | | |  |
 | **12** | M. 4/3 |  | | |
