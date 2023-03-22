@@ -25,4 +25,4 @@ Chapter 12 in our edition of the text was chapter 13 in the previous edition. Th
 
 ## Directions
 
-  * On 13.9, the second two Probabilities are conditional, namely *(Cavity | catch)* and *(Cavity | toothache V catch )*.  Pay attention to notation here. Capital letter names refer to variables where lower case names refer to specific values. Also, notice that you're being asked for distributions/vectors (bold **P** not P) and not individual probabilities. The joint distribution is Fig 12.3 in our text.
+  * On 13.9, the second two Probabilities are conditional, namely *(Cavity  &#124;  catch)* and *(Cavity  &#124;  toothache V catch )*.  Pay attention to notation here. Capital letter names refer to variables where lower case names refer to specific values. Also, notice that you're being asked for distributions/vectors (bold **P** not P) and not individual probabilities. The joint distribution is Fig 12.3 in our text.
