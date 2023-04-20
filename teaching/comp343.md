@@ -34,6 +34,8 @@ These are the critical documents for COMP343.  You'll be given paper copies of m
 | [Problem Set 2](/teaching/COMP343/problems/set2/) | 3 |
 | [Problem Set 3](/teaching/COMP343/problems/set3/) | 5 |
 | [Problem Set 4](/teaching/COMP343/problems/set4/) | 12 |
+| [Problem Set 5](/teaching/COMP343/problems/set5/) | 13 |
+| [Problem Set 6](/teaching/COMP343/problems/set6/) | 16 |
 
 ## Calendar
 
