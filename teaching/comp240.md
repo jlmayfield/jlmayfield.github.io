@@ -20,7 +20,7 @@ These are the critical documents for COMP240.  You'll be given paper copies of m
 | [Reflection \# 1](/teaching/ungrading/letter1) | 1/17 |
 | [Reflection \# 2](/teaching/ungrading/letter2) | 1/31,3/2 |
 | [Reflection \# 3](/teaching/ungrading/letter3) | 3/2 |
-| [Reflection \# 4](/teaching/ungrading/letter4) |  |
+| [Reflection \# 4](/teaching/ungrading/letter4) | 4/25 |
 | [Reflection \# 5](/teaching/ungrading/letter5) |  |
 
 
@@ -29,7 +29,6 @@ These are the critical documents for COMP240.  You'll be given paper copies of m
 &nbsp;&nbsp;&nbsp;[Projects 101](/teaching/COMP240/resources/projects101)<br>
 
 ### Git Resources
-
 &nbsp;&nbsp;&nbsp;[My Git Cheat Sheet](/blog/2020/01/YAGCS)<br>
 &nbsp;&nbsp;&nbsp;[Pro Git](https://git-scm.com/book/en/v2)<br>
 &nbsp;&nbsp;&nbsp;[Git for Windows (GitBash)](https://gitforwindows.org/)<br>
@@ -78,7 +77,7 @@ These are the critical documents for COMP240.  You'll be given paper copies of m
 | | Th. 4/13 | | *Final GoL Presentation* | |
 | **14** | Tu. 4/18 |  | | |
 | | Th. 4/20 | | |  |
-| **15** | Tu. 4/25 |  | | No Class (Scholar's Day.) |
+| **15** | Tu. 4/25 |  | **Reflection 4 Due** | No Class (Scholar's Day.) |
 | | Th. 4/27 | | |  |
 | **16** | Tu. 5/2 |  | | |
 | | Th. 5/3 | | | No Class (Reading Day).  |
