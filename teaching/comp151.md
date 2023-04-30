@@ -75,9 +75,9 @@ These are the critical documents for COMP151.  You'll be given paper copies of m
 | **15** | M. 4/24 |  | | |
 | | W. 4/26 | | |  |
 | | F. 4/28 | | |  |
-| **16** | M. 5/1 |  | | |
+| **16** | M. 5/1 | [Game v2 Notes](/teaching/comp151/game/gamev1) | | |
 | | W. 5/3 | | |  |
-| | F. 5/5 | | Reflection \#5. Final (8am-11am). |  |
+| | F. 5/5 | | Reflection \#5. Final (8am-11am). Game v2 Due|  |
 
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
