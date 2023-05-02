@@ -22,7 +22,8 @@ These are the critical documents for COMP151.  You'll be given paper copies of m
 | [Reflection \# 2](/teaching/ungrading/letter2) | 2/10 |
 | [Reflection \# 3](/teaching/ungrading/letter3) | 3/2 |
 | [Reflection \# 4](/teaching/ungrading/letter4) | 4/5 |
-| [Reflection \# 5](/teaching/ungrading/letter5) | 5/5 |
+|                                                  |    |
+| [Final Reflection](/teaching/ungrading/letter5) | **5/8** |
 
 &nbsp;&nbsp;&nbsp;
 
