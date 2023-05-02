@@ -21,7 +21,9 @@ These are the critical documents for COMP240.  You'll be given paper copies of m
 | [Reflection \# 2](/teaching/ungrading/letter2) | 1/31,3/2 |
 | [Reflection \# 3](/teaching/ungrading/letter3) | 3/2 |
 | [Reflection \# 4](/teaching/ungrading/letter4) | 4/25 |
-| [Reflection \# 5](/teaching/ungrading/letter5) |  |
+|                                                  |    |
+| [Final Reflection](/teaching/ungrading/letter5) | **5/8** |
+
 
 
 ## General Resources
