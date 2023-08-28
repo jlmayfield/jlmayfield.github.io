@@ -23,7 +23,7 @@ permalink: /teaching/COMP235/
 | **1** | W. 8/23 | | | |
 | | F. 8/25 | **Smashing The Stack** | | |
 | **2** | M. 8/28 | ch 1.1-1.5 | [Reflection \# 1](/teaching/ungrading/letter1) | |
-| | W. 8/30 | Finish ch 1 | | |
+| | W. 8/30 | Finish ch 1. DiS 1.1-1.5 | [C P. Set I](/teaching/COMP235/fa23/chwk/set1) | |
 | | F. 9/1 | | | |
 | **3** | M. 9/4 | | | **LABOR DAY. NO CLASS** |
 | | W. 9/6 | | | |
