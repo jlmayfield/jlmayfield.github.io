@@ -14,6 +14,7 @@ permalink: /teaching/COMP325/
 
 * [Programming Languages: Application and Interpretation (text)](https://www.plai.org/)
 * [Dr. Racket (Program Development Environment)](https://racket-lang.org/)
+* [PLAIT Language Documentation](https://docs.racket-lang.org/plait/Tutorial.html)
 
 
 ## Calendar
