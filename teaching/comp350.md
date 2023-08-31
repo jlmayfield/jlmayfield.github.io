@@ -20,8 +20,8 @@ permalink: /teaching/COMP350/
 | --: | :-- | :---: | :---: | :--: |
 | **1** | Th. 8/24 |  | | |
 | **2** | Tu. 8/29 | Keshav. Preface. Intro. Paper Intros. | [Reflection \# 1](/teaching/ungrading/letter1) | |
-| | Th. 8/31 | Papers 1-2 | | |
-| **3** | Tu. 9/5 | Papers 3-5 | | |
+| | Th. 8/31 | Papers 1-3 | | |
+| **3** | Tu. 9/5 | Papers 4-6. Journal for 6. | | |
 | | Th. 9/7 | Paper TBD | | |
 
 #### Past Offerings
