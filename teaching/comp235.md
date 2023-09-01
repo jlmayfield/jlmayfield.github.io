@@ -26,5 +26,5 @@ permalink: /teaching/COMP235/
 | | W. 8/30 | Finish ch 1. DiS 1.1-1.5 | [C P. Set I](/teaching/COMP235/fa23/chwk/set1) | |
 | | F. 9/1 | | | |
 | **3** | M. 9/4 | | | **LABOR DAY. NO CLASS** |
-| | W. 9/6 | | | |
+| | W. 9/6 | DiS 2.1 - 2.5 | [C P. Set II](/teaching/COMP235/fa23/chwk/set2) | |
 | | F. 9/8 | | | |
