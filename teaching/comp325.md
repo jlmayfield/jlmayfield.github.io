@@ -27,8 +27,8 @@ permalink: /teaching/COMP325/
 | | W. 8/30 | Eval. on Paper | Tutors: Mut. Vars, Sequences, Vectors, Heap | |
 | | F. 9/1 | Rep. and Eval. Arithmetic | Tutor: Stack | |
 | **3** | M. 9/4 | | | **LABOR DAY. NO CLASS** |
-| | W. 9/6 | | [ML: Arith](/teaching/COMP325/fa23/ML/) and [SMoL: Scope](/teaching/COMP325/fa23/Stacks1Handout.pdf) | |
-| | F. 9/8 | Parsing; Eval. Cond. | | |
+| | W. 9/6 | |  | |
+| | F. 9/8 | Parsing; Eval. Cond. | [ML: Arith](/teaching/COMP325/fa23/ML/) and [SMoL: Scope](/teaching/COMP325/fa23/Stacks1Handout.pdf) | |
 | **4** | M. 9/11 | | Tutor: Lambda 1. *Scope & Heap Quiz* | |
 | | W. 9/13 | | [ML: Cond](/teaching/COMP325/fa23/ML/)  | |
 | | F. 9/15 | | | |
