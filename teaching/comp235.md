@@ -27,7 +27,7 @@ permalink: /teaching/COMP235/
 | | F. 9/1 | | | |
 | **3** | M. 9/4 | | | **LABOR DAY. NO CLASS** |
 | | W. 9/6 | DiS 2.1 - 2.5 | [C P. Set II](/teaching/COMP235/fa23/chwk/set2) | |
-| | F. 9/8 | Review DiS ch 1-2 | *C Review and Practice* | |
+| | F. 9/8 | Review DiS ch 1-2 | C Prob. Sets Due. *C Review and Practice* | |
 | **4** | M. 9/11 | | *C Quiz* | |
 | | W. 9/13 | | | |
 | | F. 9/15 | | | |
