@@ -23,7 +23,7 @@ permalink: /teaching/COMP350/
 | | Th. 8/31 | Papers 1-3 | | |
 | **3** | Tu. 9/5 | Papers 4-6. Journal for 6. | | |
 | | Th. 9/7 | Papers 7-8. | | |
-| **4** | Tu. 9/12 |  | | |
+| **4** | Tu. 9/12 | Paper 9 (1-1.5 pass). Paper 10 (2-2.5 Pass). | | |
 | | Th. 9/14 |  | | |
 
 
