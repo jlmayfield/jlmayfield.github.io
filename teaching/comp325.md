@@ -30,8 +30,12 @@ permalink: /teaching/COMP325/
 | | W. 9/6 | |  | |
 | | F. 9/8 | Parsing; Eval. Cond. | [ML: Arith](/teaching/COMP325/fa23/ML/) and [SMoL: Scope](/teaching/COMP325/fa23/Stacks1Handout.pdf) | |
 | **4** | M. 9/11 | | Tutor: Lambda 1. *Scope & Heap Quiz* | |
-| | W. 9/13 | | [ML: Cond](/teaching/COMP325/fa23/ML/)  | |
-| | F. 9/15 | | | |
+| | W. 9/13 | Eval. Cond. | Tutors: Lambda 1 |  |
+| | F. 9/15 | | Tutors: Lambda 2-3 | **NO CLASS** |
+| **5** | M. 9/18 | | [Reflection \# 2](/teaching/ungrading/letter2). [ML: Cond](/teaching/COMP325/fa23/ML/). Tutor: Local. | |
+| | W. 9/20 | | | |
+| | F. 9/22 | | | |
+
 
 ### Credits
 
