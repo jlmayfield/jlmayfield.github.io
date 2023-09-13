@@ -29,9 +29,9 @@ permalink: /teaching/COMP235/
 | | W. 9/6 | DiS 2.1 - 2.5 | [C P. Set II](/teaching/COMP235/fa23/chwk/set2) | |
 | | F. 9/8 | Review DiS ch 1-2 | C Prob. Sets Due. *C Review and Practice* | |
 | **4** | M. 9/11 | | *C Quiz* | |
-| | W. 9/13 | ch 2.1.1 - 2.1.5 | | |
-| | F. 9/15 | ch 2.1.6 - 2.2 | | **NO CLASS** |
-| **5** | M. 9/18 | 2.4.1 - 2.4.3 | [Reflection \# 2](/teaching/ungrading/letter2) | |
+| | W. 9/13 | ch 2.1.1 - 2.1.5 | Practice Problems From Reading. | |
+| | F. 9/15 | ch 2.1.6 - 2.2 | Practice Problems From Reading.  | **NO CLASS** |
+| **5** | M. 9/18 | 2.4.1 - 2.4.3 | Practice Problems From Reading.  [Reflection \# 2](/teaching/ungrading/letter2) | |
 | | W. 9/20 | | | |
 | | F. 9/22 | | | |
 
