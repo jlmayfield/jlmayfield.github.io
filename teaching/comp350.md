@@ -25,7 +25,7 @@ permalink: /teaching/COMP350/
 | | Th. 9/7 | Papers 7-8. | | |
 | **4** | Tu. 9/12 | Paper 9 (1-1.5 pass). Paper 10 (2-2.5 Pass). | | |
 | | Th. 9/14 | Papers 11-12 (1-1.5 pass).  | |  |
-| **5** | Tu. 9/19 | Paper 13 (2-2.5 pass) | [Reflection \# 2](/teaching/ungrading/letter2) | |
+| **5** | Tu. 9/19 | Paper 13 (2-2.5 pass) | [Reflection \# 2](/teaching/COMP350/canon/letter2) | |
 | | Th. 9/21 | Paper 14 (2-2.5 pass) | |  |
 
 
