@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP 235 - Fall 2023 - Chap. 2 Homework
-permalink: /teaching/COMP235/fa23/hwk/ch2/
+permalink: /teaching/COMP235/fa23/hwk/ch2
 ---
 
 Do the problems from the end of the chapter listed below. Be certain to:  
@@ -19,4 +19,3 @@ Do the problems from the end of the chapter listed below. Be certain to:
 *   2.68
 *   2.70
 *   2.71
-*   

@@ -37,10 +37,6 @@ permalink: /teaching/COMP235/
 | **5** | M. 9/18 | 2.4.1 - 2.4.3 | Practice Problems From Reading.  [Reflection \# 2](/teaching/ungrading/letter2) | |
 | | W. 9/20 | | | |
 | | F. 9/22 | | | |
-| **6** | M. 9/25 | | [Chapter 2 Homework](/teaching/COMP235/fa23/hwk/ch2/) | |
+| **6** | M. 9/25 | | [Chapter 2 Homework](/teaching/COMP235/fa23/hwk/ch2) | |
 | | W. 9/27 | | | |
 | | F. 9/29 | | | |
-
-
-
-/teaching/COMP235/fa23/hwk/ch2/
