@@ -35,6 +35,10 @@ permalink: /teaching/COMP325/
 | **5** | M. 9/18 | | [Reflection \# 2](/teaching/ungrading/letter2). [ML: Cond](/teaching/COMP325/fa23/ML/). Tutor: Local. | |
 | | W. 9/20 | | | |
 | | F. 9/22 | | | |
+| **6** | M. 9/25 | | [SMoL: Stacker 2](/teaching/COMP325/fa23/Stacks2Handout.pdf) | |
+| | W. 9/27 | | | |
+| | F. 9/29 | | | |
+
 
 
 ### Credits
