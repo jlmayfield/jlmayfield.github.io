@@ -37,7 +37,7 @@ permalink: /teaching/COMP325/
 | | F. 9/22 | | | |
 | **6** | M. 9/25 | | [SMoL: Stacker 2](/teaching/COMP325/fa23/Stacks2Handout.pdf) | |
 | | W. 9/27 | | | |
-| | F. 9/29 | Evaluating Local Binding | **[ML: Cond](/teaching/COMP325/fa23/ML/)** | *Be caught up on all tutors* |
+| | F. 9/29 | Evaluating Local Binding | **[ML: Cond](/teaching/COMP325/fa23/ML/)**. ML Design Matrix. | *Be caught up on all tutors* |
 | **7** | M. 10/2 | | | |
 | | W. 10/4 | | | |
 | | F. 10/6 | | | |
