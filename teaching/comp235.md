@@ -39,4 +39,7 @@ permalink: /teaching/COMP235/
 | | F. 9/22 | | | |
 | **6** | M. 9/25 | | [Chapter 2 Homework](/teaching/COMP235/fa23/hwk/ch2) | |
 | | W. 9/27 | | | |
-| | F. 9/29 | | | |
+| | F. 9/29 | | **[Chapter 2 Homework](/teaching/COMP235/fa23/hwk/ch2)** | |
+| **7** | M. 10/2 | | | |
+| | W. 10/4 | | | |
+| | F. 10/6 | | | |
