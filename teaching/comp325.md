@@ -32,12 +32,15 @@ permalink: /teaching/COMP325/
 | **4** | M. 9/11 | | Tutor: Lambda 1. *Scope & Heap Quiz* | |
 | | W. 9/13 | Eval. Cond. | Tutors: Lambda 1 |  |
 | | F. 9/15 | | Tutors: Lambda 2-3 | **NO CLASS** |
-| **5** | M. 9/18 | | [Reflection \# 2](/teaching/ungrading/letter2). [ML: Cond](/teaching/COMP325/fa23/ML/). Tutor: Local. | |
+| **5** | M. 9/18 | | [Reflection \# 2](/teaching/ungrading/letter2). Tutor: Local. | |
 | | W. 9/20 | | | |
 | | F. 9/22 | | | |
 | **6** | M. 9/25 | | [SMoL: Stacker 2](/teaching/COMP325/fa23/Stacks2Handout.pdf) | |
 | | W. 9/27 | | | |
-| | F. 9/29 | | | |
+| | F. 9/29 | Evaluating Local Binding | **[ML: Cond](/teaching/COMP325/fa23/ML/)** | *Be caught up on all tutors* |
+| **7** | M. 10/2 | | | |
+| | W. 10/4 | | | |
+| | F. 10/6 | | | |
 
 
 
