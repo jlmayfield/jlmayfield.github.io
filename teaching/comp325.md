@@ -41,6 +41,13 @@ permalink: /teaching/COMP325/
 | **7** | M. 10/2 | | | |
 | | W. 10/4 | | | |
 | | F. 10/6 | | | |
+| **8** | M. 10/9 | | | |
+| | W. 10/11 | | | |
+| | F. 10/13 | | | **NO CLASS. FALL BREAK.** |
+| **9** | M. 10/16 | | | **NO CLASS** *Not break. I'm out of town.* |
+| | W. 10/18 | | | |
+| | F. 10/20 | | | |
+
 
 
 

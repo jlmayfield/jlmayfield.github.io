@@ -29,8 +29,11 @@ permalink: /teaching/COMP350/
 | | Th. 9/21 | Paper 14 (2-2.5 pass) | |  |
 | **6** | Tu. 9/26 | Paper 15(2-),Paper 16(2+) | | |
 | | Th. 9/28 | Paper 17 (2+), Paper 18 (2-) | |  |
-| **7** | Tu. 10/3 | | | |
-| | Th. 10/5 | | |  |
+| **7** | Tu. 10/3 | Paper 19 (2+). Paper 20 (2+).| | |
+| | Th. 10/5 | Paper 22 (2-). | | |
+| **8** | Tu. 10/10 | Paper 21 (2+) | | |
+| | Th. 10/2 |  | | **NO CLASS. FALL BREAK.** |
+
 
 
 
