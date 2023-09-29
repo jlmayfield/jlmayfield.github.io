@@ -37,12 +37,12 @@ permalink: /teaching/COMP325/
 | | F. 9/22 | | | |
 | **6** | M. 9/25 | | [SMoL: Stacker 2](/teaching/COMP325/fa23/Stacks2Handout.pdf) | |
 | | W. 9/27 | | | |
-| | F. 9/29 | Evaluating Local Binding | **[ML: Cond](/teaching/COMP325/fa23/ML/)**. ML Design Matrix. | *Be caught up on all tutors* |
-| **7** | M. 10/2 | | | |
-| | W. 10/4 | | | |
-| | F. 10/6 | | | |
-| **8** | M. 10/9 | | | |
-| | W. 10/11 | | | |
+| | F. 9/29 | Evaluating Local Binding | **[ML: Cond](/teaching/COMP325/fa23/ML/)**. ML Design Matrix. | *Be caught up on all tutors!* |
+| **7** | M. 10/2 | | **Stacker 2 Due** | |
+| | W. 10/4 | | | *Practice and review for exam* |
+| | F. 10/6 | | **SMoL Tutor/Stacker Exam** | |
+| **8** | M. 10/9 | Evaluating Functions | | |
+| | W. 10/11 | | [Reflection \# 3](/teaching/ungrading/letter3) | |
 | | F. 10/13 | | | **NO CLASS. FALL BREAK.** |
 | **9** | M. 10/16 | | | **NO CLASS** *Not break. I'm out of town.* |
 | | W. 10/18 | | | |

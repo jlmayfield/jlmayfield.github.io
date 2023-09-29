@@ -41,10 +41,10 @@ permalink: /teaching/COMP235/
 | | W. 9/27 | | | |
 | | F. 9/29 | | **[Chapter 2 Homework](/teaching/COMP235/fa23/hwk/ch2)** | |
 | **7** | M. 10/2 | | | |
-| | W. 10/4 | | | |
-| | F. 10/6 | | | |
-| **8** | M. 10/9 | | | |
-| | W. 10/11 | | | |
+| | W. 10/4 | | | *Chap. 2 Review and Practice* |
+| | F. 10/6 | | **Chap. 2 Exam** | |
+| **8** | M. 10/9 | 3.1-3.2.1 | | |
+| | W. 10/11 | 3.2-3.3 | [Reflection \# 3](/teaching/ungrading/letter3) | |
 | | F. 10/13 | | | **NO CLASS. FALL BREAK.** |
 | **9** | M. 10/16 | | | **NO CLASS** *Not break. I'm out of town.* |
 | | W. 10/18 | | | |
