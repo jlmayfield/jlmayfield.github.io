@@ -42,7 +42,7 @@ permalink: /teaching/COMP325/
 | | W. 10/4 | | | *Practice and review for exam* |
 | | F. 10/6 | | **SMoL Tutor/Stacker Exam** | |
 | **8** | M. 10/9 | Evaluating Functions | | |
-| | W. 10/11 | | [Reflection \# 3](/teaching/ungrading/letter3) | |
+| | W. 10/11 | | Exam Corrections. [Reflection \# 3](/teaching/ungrading/letter3) | |
 | | F. 10/13 | | | **NO CLASS. FALL BREAK.** |
 | **9** | M. 10/16 | | | **NO CLASS** *Not break. I'm out of town.* |
 | | W. 10/18 | | | |
