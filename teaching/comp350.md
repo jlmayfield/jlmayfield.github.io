@@ -33,6 +33,12 @@ permalink: /teaching/COMP350/
 | | Th. 10/5 | Paper 22 (2-). | | |
 | **8** | Tu. 10/10 | Paper 21 (2+) | | |
 | | Th. 10/2 |  | | **NO CLASS. FALL BREAK.** |
+| **9** | Tu. 10/10 | **NO CLASS. Mentoring Day** | | |
+| | Th. 10/2 | Paper 24 (2-)  | |  |
+| **10** | Tu. 10/24 | Paper 25 (2+) | | |
+| | Th. 10/26 | Paper 27 (2-)  | | |
+
+
 
 
 

@@ -47,6 +47,9 @@ permalink: /teaching/COMP325/
 | **9** | M. 10/16 | | | **NO CLASS** *Not break. I'm out of town.* |
 | | W. 10/18 | | | |
 | | F. 10/20 | | | |
+| **10** | M. 10/23 | *How SMoL Becomes Large*, pgs 70-77 | | |
+| | W. 10/25 | | | |
+| | F. 10/27 | | | |
 
 
 
