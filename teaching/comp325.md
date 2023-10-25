@@ -48,8 +48,12 @@ permalink: /teaching/COMP325/
 | | W. 10/18 | | | |
 | | F. 10/20 | | | |
 | **10** | M. 10/23 | *How SMoL Becomes Large*, pgs 70-77 | | |
-| | W. 10/25 | | | |
+| | W. 10/25 | | | *Begin Paret Interpreter* |
 | | F. 10/27 | | | |
+| **11** | M. 10/30 | | | |
+| | W. 11/1 | | | |
+| | F. 11/3 | | | **Paret Due** |
+
 
 
 
