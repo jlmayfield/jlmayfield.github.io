@@ -37,7 +37,12 @@ permalink: /teaching/COMP350/
 | | Th. 10/2 | Paper 24 (2-)  | |  |
 | **10** | Tu. 10/24 | Paper 25 (2+) | | |
 | | Th. 10/26 | Paper 27 (2-)  | | |
-
+| **11** | Tu. 10/31 | *Paper 23 (2+)*  | | |
+| | Th. 11/2 | *Paper 26 (2+)*  | | |
+| **12** | Tu. 10/31 | *Paper 23 (2+)*  | | |
+| | Th. 11/2 | *Paper 26 (2+)*  | | |
+| **13** | Tu. 11/7 | Paper 28 & Paper 29  | | |
+| | Th. 11/9 | Paper 30 & Paper 31  | | |
 
 
 
