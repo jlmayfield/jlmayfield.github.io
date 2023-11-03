@@ -53,6 +53,10 @@ permalink: /teaching/COMP325/
 | **11** | M. 10/30 | | | |
 | | W. 11/1 | | | |
 | | F. 11/3 | | | **Paret Due** |
+| **12** | M. 11/6 | *Standard Model of Objects* (pgs 85-95) | | |
+| | W. 11/8 | | | |
+| | F. 11/10 | | | |
+
 
 
 
