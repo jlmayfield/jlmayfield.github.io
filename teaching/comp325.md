@@ -55,7 +55,10 @@ permalink: /teaching/COMP325/
 | | F. 11/3 | | | **Paret Due** |
 | **12** | M. 11/6 | *Standard Model of Objects* (pgs 85-95) | | |
 | | W. 11/8 | | | |
-| | F. 11/10 | | | |
+| | F. 11/10 | | | *In Class: Loops* |
+| **13** | M. 11/13 | | | |
+| | W. 11/15 | | | **Macro Assignment** |
+| | F. 11/17 | | | |
 
 
 
