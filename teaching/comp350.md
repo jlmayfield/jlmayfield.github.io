@@ -42,7 +42,9 @@ permalink: /teaching/COMP350/
 | **12** | Tu. 11/7 | Paper 28 & Paper 29  | | |
 | | Th. 11/9 | Paper 30 & Paper 31  | | |
 | **13** | Tu. 11/14 | Paper 32 & 33  | | |
-| | Th. 11/6 | | | **NO CLASS** |
+| | Th. 11/16 | | | **NO CLASS** |
+| **14** | Tu. 11/21 | Paper 33 & 36. Paper 35-38   | | |
+| | Th. 11/23 | | | **NO CLASS** |
 
 
 
