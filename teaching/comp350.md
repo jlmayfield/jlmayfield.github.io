@@ -45,6 +45,13 @@ permalink: /teaching/COMP350/
 | | Th. 11/16 | | | **NO CLASS** |
 | **14** | Tu. 11/21 | Paper 33 & 36. Paper 35-38   | | |
 | | Th. 11/23 | | | **NO CLASS** |
+| **15** | Tu. 11/28 | Papers 42 & 46| | |
+| | Th. 11/30 | Papers 40 & 41 | | |
+| **16** | Tu. 12/5 | TBD | | |
+| | Th. 12/7 | | | **NO CLASS** |
+| **17** | Tu. 12/12 | | *Final Reflection Due* | |
+
+
 
 
 
