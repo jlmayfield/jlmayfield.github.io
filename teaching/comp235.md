@@ -61,6 +61,18 @@ permalink: /teaching/COMP235/
 | **13** | M. 11/13 | (Quick Read 6.1). 6.2-6.3 | |  |
 | | W. 11/15 | | | |
 | | F. 11/17 | | | |
+| **14** | M. 11/20 | | | |
+| | W. 11/22 | | | *T-Day Break*  |
+| | F. 11/24 | | | *T-Day Break* |
+| **15** | M. 11/27 | | | *Start [Ch 6 Hwk](/teaching/COMP235/fa23/hwk/ch6)* |
+| | W. 11/29 | | | *Self-Eval Meetings*  |
+| | F. 12/1 | | | *Self-Eval Meetings* |
+| **16** | M. 12/4 | | **Ch 6 Hwk Due** |  |
+| | W. 12/6 | | |  |
+| | Th. 12/7 | | **All Assignments Due** | *Reading Day* |
+| | F. 12/8 | | | **No Class.** |
+| **17** | M. 12/11 | | **Final. 8-11am** | |
+
 
 
 

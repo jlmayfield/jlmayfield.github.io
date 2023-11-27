@@ -59,6 +59,17 @@ permalink: /teaching/COMP325/
 | **13** | M. 11/13 | | | |
 | | W. 11/15 | | | **Macro Assignment** |
 | | F. 11/17 | | | |
+| **14** | M. 11/20 | | | |
+| | W. 11/22 | | | *T-Day Break*  |
+| | F. 11/24 | | | *T-Day Break* |
+| **15** | M. 11/27 | | | |
+| | W. 11/29 | | **OMac Due**| *Self-Eval Meetings* |
+| | F. 12/1 | | | *Self-Eval Meetings* |
+| **16** | M. 12/4 | | | |
+| | W. 12/6 | | **SmolTalk Due** |  |
+| | Th. 12/7 | | **All Assignments Due** | *Reading Day* |
+| | F. 12/8 | | | **No Class.** |
+| **17** | M. 12/11 | | **Final. 3-6pm** | |
 
 
 
