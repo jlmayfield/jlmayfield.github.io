@@ -19,12 +19,17 @@ permalink: /teaching/COMP152/
 |Week \# | Date | Reading Due | Other Assignments Due | Notes |
 | --: | :-- | :---: | :---: | :--: |
 | **1** | M. 1/16 | | | |
-| | W. 1/18 | | | |
-| | F. 1/20 | | | |
-| **2** | M. 1/22 | | |  |
-| | W. 1/24 | | | |
-| | F. 1/26  | | | |
-
+| | W. 1/18 | | [Lab 1](/teaching/COMP152/sp24/labs/lab1) | |
+| | F. 1/20 | *Review* 1.1-1.6 & 2.2 | | |
+| **2** | M. 1/22 | 3.1-3.2 | |  |
+| | W. 1/24 | 3.3 | [Lab 2](/teaching/COMP152/sp24/labs/lab2) | |
+| | F. 1/26  | 3.3-3.4| | |
+| **3** | M. 1/29 |  | |  |
+| | W. 1/31 | | [Ch 3 Hwk.](/teaching/COMP152/sp24/hwk/hwk1) | | 
+| | F. 2/2  | | | |
+| **4** | M. 2/5 | | **Ch 3 Exam** |  |
+| | W. 2/7 | | | |
+| | F. 2/9  | | | |
 
 <br><br><br>
 #### Past Offerings
