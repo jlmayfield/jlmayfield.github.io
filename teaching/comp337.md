@@ -15,10 +15,17 @@ permalink: /teaching/COMP337/
 | --: | :-- | :---: | :---: | :--: |
 | **1** | M. 1/16 | | | |
 | | W. 1/18 | |  | |
-| | F. 1/20 |  | | |
-| **2** | M. 1/22 | | |  |
-| | W. 1/24 | | | |
-| | F. 1/26  | | | |
+| | F. 1/20 | 1.1 | | |
+| **2** | M. 1/22 | 1.2-1.3 | |  |
+| | W. 1/24 | 1.4 | | |
+| | F. 1/26  | 1.5-1.6 | | |
+| **3** | M. 1/29 |  | [Wireshark Getting Started](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_Intro_v8.0.pdf), [Ch 1 Problem Set](/teaching/COMP337/sp24/psets/pset1) |  |
+| | W. 1/31 | 2.1-2.2 | | |
+| | F. 2/2  | 2.4 | | |
+| **4** | M. 2/5 | | **Ch. 1 Exam** |  |
+| | W. 2/7 | | | |
+| | F. 2/9  | | | |
+
 
 <br><br><br>
 #### Past Offerings
