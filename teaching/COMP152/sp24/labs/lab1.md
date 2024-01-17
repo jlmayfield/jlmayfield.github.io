@@ -25,6 +25,7 @@ Let's say we have the message *abbacaa*. The message has 7 total symbols compris
 |  c | 1 | 1/7 = .143 |
 
 We can now construct out initial, frequency+symbol pairs. 
+<br>
 $$
 \begin{array}{l}
 \left(.571,a\right) \\
@@ -32,25 +33,29 @@ $$
 \left(.143,c\right) 
 \end{array}
 $$
+<br>
 
-Next we start combining symbols into groups by choosing and removing from the collection the two least frequent items from the collection.  Here we combine *b* and *c* to form the group $\left(.428, \left(b,c\right)\right)$. The total frequency of this group is the sum of $b$ and $c$, i.e. $.428. The symbolic content of this grouping is a pair formed from $b$ and $c$ starting with the most frequent item of the pair. This new grouping is added back to the collection giving us the following:
-
+Next we start combining symbols into groups by choosing and removing from the collection the two least frequent items from the collection.  Here we combine *b* and *c* to form the group *(.428, (b,c))*. The total frequency of this group is the sum of *b* and *c*, i.e. .428. The symbolic content of this grouping is a pair formed from *b* and *c* starting with the most frequent item of the pair. This new grouping is added back to the collection giving us the following:
+<br>
 $$
 \begin{array}{l}
 \left(.571,a\right) \\
 \left(.428, \left(b,c\right)\right)
 \end{array}
 $$
+<br>
 
 We now continue with the exact same process: remove the two least frequent groups, combine, then add the new group to the collection. We only have two groups left in our collection, so these get combined into one final group. 
 
+<br>
 $$
 \left(.999,\left(a,\left(b,c\right)\right)\right)
 $$
+<br>
 
-Notice that we've kept the $\left(b,c\right)$ group together and nested it within the new group that includes $a$. This means that with the exception of the initial frequency+symbol pairs, *the groupings we create are **always pairs** and are comprised of symbols or other pairs*. 
+Notice that we've kept the *(b,c)* group together and nested it within the new group that includes *a*. This means that with the exception of the initial frequency+symbol pairs, *the groupings we create are **always pairs** and are comprised of symbols or other pairs*. 
 
-With only one group left in the collection, we can now turn that singular grouping, $\left(a,\left(b,c\right)\right)$ into a code. This is most easily done by converting the nested pairs into a **binary tree** structure. Each pair corresponds to a *binary* branch and nesting corresponds to adding a new level to the tree.  For our toy example we get the tree shown below. The pairs and levels have been color coded. Notice that all the *paths* from the top of the tree to the bottom end at a symbol from our message. 
+With only one group left in the collection, we can now turn that singular grouping, *(a,(b,c)* into a code. This is most easily done by converting the nested pairs into a **binary tree** structure. Each pair corresponds to a *binary* branch and nesting corresponds to adding a new level to the tree.  For our toy example we get the tree shown below. The pairs and levels have been color coded. Notice that all the *paths* from the top of the tree to the bottom end at a symbol from our message. 
 
 <img src="HuffStuff-pairs2tree.png" width="300">
 
