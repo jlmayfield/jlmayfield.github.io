@@ -2,6 +2,7 @@
 layout: page
 title: COMP151 - Lab 1 - Exploring Data Compression with Huffman Codes
 permalink: /teaching/COMP152/sp24/labs/lab1
+mathjax: true
 ---
 
 ### Warm-Up - ASCII 
