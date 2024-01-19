@@ -8,6 +8,9 @@ permalink: /teaching/COMP337/
 &nbsp;&nbsp;&nbsp;[Course Competencies](/teaching/COMP337/sp24/comp337-competencies.pdf)<br>
 &nbsp;&nbsp;&nbsp;[Self-Evaluation How To & Meeting Guide](/teaching/ungrading/howto-portfolio)
 
+<br>
+&nbsp;&nbsp;&nbsp;[Text Book Resources](https://gaia.cs.umass.edu/kurose_ross/index.php)
+
 
 ## Calendar
 
