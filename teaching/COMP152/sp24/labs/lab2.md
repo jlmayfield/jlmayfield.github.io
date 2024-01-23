@@ -10,7 +10,9 @@ The goal of this lab is twofold:
 
 ## Getting Start on Git
 
-**Coming Soon**
+We'll talk about Git, Github and Github Classroom in class and lab.  For starters, go to [github.com](https://www.github.com) and create an account if you do not already have one.  At some point soon you might want to check out the [git and github starter assignment](https://classroom.github.com/a/Q8tM5yf9).  We'll walk through the steps we need in class, but that assignment will fill in more details.  
+
+Once you've got your github account, then you can accept [today's lab](https://classroom.github.com/a/hieZc42Q).  At the start of lab we'll walk through the steps to *clone* the assignment from github. This creates a copy on your local machine.  We'll then make a *branch* to do our work. When you're ready to submit the work, want feedback from the instructor, or simply want to backup your work on github, then we'll *stage changes*, make a *commit*. This makes a local snapshot of your work. From there you can *push* the latest snapshot to github. 
 
 ## Check-in Problems
 
