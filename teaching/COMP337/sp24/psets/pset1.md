@@ -19,7 +19,8 @@ Complete the following problems from chapter 1 of the text:
 *   P6
 *   P19
 *   P24
-*   P26
-*   P27
-*   P28
+*   P25
+*   P26 (typo in book.. refer back to P25, not P24)
+*   P27 (typo in book.. refer back to P25, not P24)
+*   P28 (typo in book.. refer back to P25, not P24)
 *   (Optional but fun!) P18
