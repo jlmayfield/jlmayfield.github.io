@@ -6,10 +6,9 @@ permalink: /teaching/COMP337/
 
 &nbsp;&nbsp;&nbsp;[Syllabus](/teaching/COMP337/sp24/comp337-syllabus.pdf)<br>
 &nbsp;&nbsp;&nbsp;[Course Competencies](/teaching/COMP337/sp24/comp337-competencies.pdf)<br>
-&nbsp;&nbsp;&nbsp;[Self-Evaluation How To & Meeting Guide](/teaching/ungrading/howto-portfolio)
+&nbsp;&nbsp;&nbsp;[Self-Evaluation How To & Meeting Guide](/teaching/ungrading/howto-portfolio)<br>
 
-<br>
-&nbsp;&nbsp;&nbsp;[Text Book Resources](https://gaia.cs.umass.edu/kurose_ross/index.php)
+&nbsp;&nbsp;&nbsp;[Text Book Resources](https://gaia.cs.umass.edu/kurose_ross/index.php)<br>
 
 
 ## Calendar
@@ -26,8 +25,14 @@ permalink: /teaching/COMP337/
 | | W. 1/31 | 2.1-2.2 | | |
 | | F. 2/2  | 2.4 | | |
 | **4** | M. 2/5 | | **Ch. 1 Exam** |  |
-| | W. 2/7 | | | |
-| | F. 2/9  | | | |
+| | W. 2/7 | 2.1-2.2,2.4 Review |  | |
+| | F. 2/9  | 2.1-2.2,2.4 Review | | |
+| **5** | M. 2/12 | | [HTTP Wireshark](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_HTTP_v8.0.pdf), [DNS Wireshark](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_DNS_v8.0.pdf) |  |
+| | W. 2/14 | 2.7 | | [Ch 2 Problem Set](/teaching/COMP337/sp24/psets/pset2) |
+| | F. 2/16  | | | *In-Class Work on Programming Assignments* |
+| **6** | M. 2/19 | | [Web Server Program](https://gaia.cs.umass.edu/kurose_ross/programming/Python_code_only/WebServer_programming_lab_only.pdf), [UDP Pinger Program](https://gaia.cs.umass.edu/kurose_ross/programming/Python_code_only/UDP_Pinger_programming_lab_only.pdf) |  |
+| | W. 2/21 | 3.1-3.2 | | |
+| | F. 2/23  | | | |
 
 
 <br><br><br>
