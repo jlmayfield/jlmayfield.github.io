@@ -25,10 +25,10 @@ permalink: /teaching/COMP152/
 | | W. 1/24 | 3.3 | [Lab 2](/teaching/COMP152/sp24/labs/lab2) | |
 | | F. 1/26  | 3.3-3.4| | |
 | **3** | M. 1/29 |  | |  |
-| | W. 1/31 | | [Ch 3 Hwk.](/teaching/COMP152/sp24/hwk/hwk1) | | 
-| | F. 2/2  | | | |
-| **4** | M. 2/5 | | **Ch 3 Exam** |  |
-| | W. 2/7 | | | |
+| | W. 1/31 | Ch 3. Review | [Lab 3](/teaching/COMP152/sp24/labs/lab3) | | 
+| | F. 2/2  | Ch 3. Review | [Ch 3 Hwk.](/teaching/COMP152/sp24/hwk/hwk1)| |
+| **4** | M. 2/5 | |  |  |
+| | W. 2/7 | | **Ch 3 Exam** | |
 | | F. 2/9  | | | |
 
 <br><br><br>
