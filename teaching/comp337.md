@@ -27,7 +27,7 @@ permalink: /teaching/COMP337/
 | **4** | M. 2/5 | | **Ch. 1 Exam** |  |
 | | W. 2/7 | 2.1-2.2,2.4 Review |  | |
 | | F. 2/9  | 2.1-2.2,2.4 Review | | |
-| **5** | M. 2/12 | | [HTTP Wireshark](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_HTTP_v8.0.pdf), [DNS Wireshark](http://www-net.cs.umass.edu/wireshark-labs/Wireshark_DNS_v8.0.pdf) |  |
+| **5** | M. 2/12 | | [Ch 2 Wiresharks](/teaching/COMP337/sp24/wireshark/ch2) |  |
 | | W. 2/14 | 2.7 | | [Ch 2 Problem Set](/teaching/COMP337/sp24/psets/pset2) |
 | | F. 2/16  | | | *In-Class Work on Programming Assignments* |
 | **6** | M. 2/19 | | [Web Server Program](https://gaia.cs.umass.edu/kurose_ross/programming/Python_code_only/WebServer_programming_lab_only.pdf), [UDP Pinger Program](https://gaia.cs.umass.edu/kurose_ross/programming/Python_code_only/UDP_Pinger_programming_lab_only.pdf) |  |
