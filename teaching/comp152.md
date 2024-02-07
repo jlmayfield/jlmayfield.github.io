@@ -30,9 +30,13 @@ permalink: /teaching/COMP152/
 | **4** | M. 2/5 | |  |  |
 | | W. 2/7 | | **Ch 3 Exam**, [Lab 4](/teaching/COMP152/sp24/labs/lab4)| |
 | | F. 2/9  | 4.1 | | |
-| **5** | M. 2/12 | 4.2 |  |  |
-| | W. 2/14 | 4.3-4.6 | | |
+| **5** | M. 2/12 | 4.2-4.3 |  |  |
+| | W. 2/14 | 4.4-4.6, **2.3** | | [Lab 5](/teaching/COMP152/sp24/labs/lab5) |
+| | F. 2/16  | Review ch 4 | [Ch 4 Hwk.](/teaching/COMP152/sp24/hwk/hwk2) | |
+| **5** | M. 2/12 | 5.1-5.2 |  |  |
+| | W. 2/14 | | | |
 | | F. 2/16  | | | |
+
 
 
 <br><br><br>
