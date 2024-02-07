@@ -15,7 +15,7 @@ Today we look specifically at lists as recursive structures and explore how we c
 
 Let's dive right in and look at a recursive definition for the structure of a list. 
 
-> Any list $L$ is either:
+> Any list L is either:
 >*   Any empty list with length 0
 >*   A list with one element at the front (called the first) followed by a sub-list (called the rest).
 
@@ -23,21 +23,21 @@ Let's test this definition from the bottom up. First off, the empty list `[]` is
 
 Like we've done with the ranges used in iteration, you can adjust as needed from the basic definition give above. Here's a few useful options to ponder. 
 
-> Any non-empty list $L$ is either:
+> Any non-empty list L is either:
 >*   A list of length 1
 >*   A list with one element at the front (called the first) followed by a non-empty list list (called the rest).
 
-> Any list $L$ is either:
+> Any list L is either:
 >*   Any empty list with length 0
 >*   A list with one element at the back (called the last) preceded by a list (called the but-last, i.e. "all but the last".).
 
-> Any list $L$ is either:
+> Any list L is either:
 >*   Any empty list with length 0
 >*   A list of length 1
 >*   A list with one element at the front (called the first) followed by a list (called the rest).
 
 Or maybe we can get weird and creative:
-> Any list $L$ is either:
+> Any list L is either:
 >*   Any empty list with length 0
 >*   A list of length 1
 >*   Two sub-lists, one called left followed by one called right. 
@@ -89,21 +89,21 @@ Ok, we know that what we'd like from python is a list with the following capabil
 1. Constant-time selection from the front: `first`
 2. Constant-time selection of every thing but the front. `rest`
 3. Constant-time determination of empty vs non-empty lists. `empty` 
-Having these operations working at $O(1)$ time means we can worry less about the costs of the data structure and more about the cost of the algorithm. 
+Having these operations working at $$O(1)$$ time means we can worry less about the costs of the data structure and more about the cost of the algorithm. 
 
-Python has a list and it delivers on (1) and (2).  The `len` function takes $O(1)$ time and can be used to differentiate empty (`len(S)==0`) from not empty (`len(S) > 0`). It over delivers on selecting from the front. The natural front is at index 0, which we can select with `S[0]` If we want some other index to be the front, say `i`, then I can also select `S[i]` in $O(1)$ time. Cool.
+Python has a list and it delivers on (1) and (2).  The `len` function takes $$O(1)$$ time and can be used to differentiate empty (`len(S)==0`) from not empty (`len(S) > 0`). It over delivers on selecting from the front. The natural front is at index 0, which we can select with `S[0]` If we want some other index to be the front, say `i`, then I can also select `S[i]` in $O(1)$ time. Cool.
 
- Unfortunately, we cannot select the rest, everything after the front as a list, in $O(1)$ time. We *can* use a slice like `S[1:]` or `S[i:]` (equivalently `S[1:len(S)]` or `S[i:len(S)]`, but this is $O(n)$ where $n$ is the length of the slice.  Not cool. We'll see that this cost will add up. So, we need to adapt and, surprisingly, we need to *generalize* our algorithm.
+ Unfortunately, we cannot select the rest, everything after the front as a list, in $$O(1)$$ time. We *can* use a slice like `S[1:]` or `S[i:]` (equivalently `S[1:len(S)]` or `S[i:len(S)]`, but this is $$O(n)$$ where $$n$$ is the length of the slice.  Not cool. We'll see that this cost will add up. So, we need to adapt and, surprisingly, we need to *generalize* our algorithm.
 
  Consider the following two "list sum" problem statements:
 
  >Problem 1: Given list of numbers S, compute the sum of all the numbers in S. 
 
- >Problem 2: Given list of numbers S and list index i with $0 <= i <= len(S)$, compute the Sum of all the elements in S from index $i$ to the end of S. (Basic the sum of list suffix.)
+ >Problem 2: Given list of numbers S and list index i with $$0 <= i <= len(S)$$, compute the Sum of all the elements in S from index $$i$$ to the end of S. (Basic the sum of list suffix.)
 
 The difference boils down to "sum of all" versus "sum of some".  The later being a more general problem as "sum of some starting at i=0" is just a long-winded way of saying "sum of all". So, if we can solve "sum of some" we can solve "some of all". Let's do that, recursively. 
 
-First we have to adjust what empty, first and rest mean in terms of $i$. Basically we're looking not just at list `S` but the combination of `S` and index `i`, (formally, we'd say the tuple $(S,i)$). 
+First we have to adjust what empty, first and rest mean in terms of $$i$$. Basically we're looking not just at list `S` but the combination of `S` and index `i`, (formally, we'd say the tuple $$(S,i)$$). 
 > A list index pair (L,i) is either:
 >*  empty where i == len(S)
 >*  not empty where 0<=i<=len(S)
@@ -112,7 +112,7 @@ Python lets us manage this new funky list,index pair structure efficiently:
 * empty -> i == len(S)
 * first -> S[i]
 * rest -> S and (i+1)
-Operations for `empty` and `first` are still $O(1)$. To get the rest all we do is increment the integer `i`, which is an $O(1)$ operation.  Nice. 
+Operations for `empty` and `first` are still $$O(1)$$. To get the rest all we do is increment the integer `i`, which is an $$O(1)$$ operation.  Nice. 
 
 Adapting our code, we get the following near-python pseudo-code:
 ```
