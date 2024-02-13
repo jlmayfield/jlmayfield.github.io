@@ -31,7 +31,7 @@ permalink: /teaching/COMP337/
 | | W. 2/14 | 2.7 | |  |
 | | F. 2/16  | | | *In-Class Work on Programming Assignments* [Ch 2 Problem Set](/teaching/COMP337/sp24/psets/pset2) |
 | **6** | M. 2/19 | |  |  |
-| | W. 2/21 | 3.1-3.2 | [Socket Programming Assignments](/teaching/COMP337/program/sockets) | |
+| | W. 2/21 | 3.1-3.2 | [Socket Programming Assignments](/teaching/COMP337/sp24/program/sockets) | |
 | | F. 2/23  | | | |
 
 
