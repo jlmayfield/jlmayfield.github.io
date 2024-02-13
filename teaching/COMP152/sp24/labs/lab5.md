@@ -11,7 +11,7 @@ In this lab we'll explore using Python's classes to create our own data structur
 
 ### Setting Up A Basic Class
 
-1.  **Complete R-2.4** -  The `CreditCard` class shown in Code Fragment 2.1 (page 70) is an excellent point of reference for completing a basic class.  We should have studied it a bit in class. 
+1.  **Complete R-2.4** -  The `CreditCard` class shown in Code Fragment 2.1 (page 70) is an excellent point of reference for completing a basic class.  We worked on it in class. You can get a copy of that code from [this classroom assignment](https://classroom.github.com/a/5zomZike)
 2. Printing the value of an object and checking if two objects have the same value are fundamental programming operations. They show up in many, many programs and we use them A LOT to debug our code.  We can integrate our new class into python's equality checking and printing by implementing the methods `__eq__` (for ==), `__ne__` (for !=), `__repr__` (used behind the scenes to print), and `__str__` (also used to print). **Add these four methods to your `Flower` class. 
 3. At this point we have a class without a problem. Before we get to that, write tests that demonstrate/show that our `Flower` class behaves as it should, i.e. that once constructed, all the methods for setting attributes and getting attributes work as expected, that the equal/not-equal methods work, and that you can print a `Flower` object and see something meaningful. 
 4. Now, let's add a more interesting method to the class. **Add a method called `pricePerPetal` that returns the per petal cost of the flower. For example, if a flower has 5 petals and costs $0.25, then it's price per petal is $0.05.  
