@@ -30,8 +30,8 @@ permalink: /teaching/COMP337/
 | **5** | M. 2/12 | | [Ch 2 Wiresharks](/teaching/COMP337/sp24/wireshark/ch2) |  |
 | | W. 2/14 | 2.7 | |  |
 | | F. 2/16  | | | *In-Class Work on Programming Assignments* [Ch 2 Problem Set](/teaching/COMP337/sp24/psets/pset2) |
-| **6** | M. 2/19 | | [Web Server Program](https://gaia.cs.umass.edu/kurose_ross/programming/Python_code_only/WebServer_programming_lab_only.pdf), [UDP Pinger Program](https://gaia.cs.umass.edu/kurose_ross/programming/Python_code_only/UDP_Pinger_programming_lab_only.pdf) |  |
-| | W. 2/21 | 3.1-3.2 | | |
+| **6** | M. 2/19 | |  |  |
+| | W. 2/21 | 3.1-3.2 | [Socket Programming Assignments](/teaching/COMP337/program/sockets) | |
 | | F. 2/23  | | | |
 
 
