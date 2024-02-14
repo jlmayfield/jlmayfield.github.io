@@ -32,8 +32,8 @@ permalink: /teaching/COMP152/
 | | F. 2/9  | 4.1 | | *Review 1.2 (Objects) and 1.5 (Functions)*|
 | **5** | M. 2/12 | 4.2-4.3 |  |  |
 | | W. 2/14 | 4.4-4.6, **2.3** | [Lab 5](/teaching/COMP152/sp24/labs/lab5) | |
-| | F. 2/16  | Review ch 4 | [Ch 4 Hwk.](/teaching/COMP152/sp24/hwk/hwk2) | |
-| **5** | M. 2/12 | 5.1-5.2 |  |  |
+| | F. 2/16  | Review ch 4 |  | |
+| **5** | M. 2/12 | 5.1-5.2 | [Ch 4 Hwk.](/teaching/COMP152/sp24/hwk/hwk2)  |  |
 | | W. 2/14 | | | |
 | | F. 2/16  | | | |
 
