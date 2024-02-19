@@ -33,6 +33,12 @@ permalink: /teaching/COMP337/
 | **6** | M. 2/19 | |  |  |
 | | W. 2/21 | 3.1-3.2 | [Socket Programming Assignments](/teaching/COMP337/sp24/program/sockets) | |
 | | F. 2/23  | | | |
+| **7** | M. 2/26 | 5.3 | |  |
+| | W. 2/28 | | | |
+| | F. 3/1  | | | |
+| **8** | M. 3/4 | | |  |
+| | W. 3/6 | | | |
+| | F. 3/8  | | | **NO CLASS** |
 
 
 <br><br><br>
