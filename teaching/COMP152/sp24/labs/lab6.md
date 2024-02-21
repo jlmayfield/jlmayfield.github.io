@@ -5,6 +5,8 @@ permalink: /teaching/COMP152/sp24/labs/lab6
 mathjax: true
 ---
 
+**[Get the in-class examples Here](https://classroom.github.com/a/IUDg-THi)**
+
 **[Get the Github Classroom Assignment Here](https://classroom.github.com/a/oYlBxCvS)**
 
 ### The Lab
