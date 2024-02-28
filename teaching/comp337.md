@@ -32,13 +32,17 @@ permalink: /teaching/COMP337/
 | | F. 2/16  | | | *In-Class Work on Programming Assignments* [Ch 2 Problem Set](/teaching/COMP337/sp24/psets/pset2) |
 | **6** | M. 2/19 | |  |  |
 | | W. 2/21 | 3.1-3.2 | [Socket Programming Assignments](/teaching/COMP337/sp24/program/sockets) | |
-| | F. 2/23  | | | |
-| **7** | M. 2/26 | 5.3 | |  |
-| | W. 2/28 | | | |
-| | F. 3/1  | | | |
-| **8** | M. 3/4 | | |  |
-| | W. 3/6 | | | |
-| | F. 3/8  | | | **NO CLASS** |
+| | F. 2/23  |  | | |
+| **7** | M. 2/26 | 3.3 | |  |
+| | W. 2/28 | 3.4.1 | | |
+| | F. 3/1  | 3.4.2 | | |
+| **8** | M. 3/4 | 3.4.3-3.4.4 | |  |
+| | W. 3/6  | | | *Group Time For Homework* |
+| | F. 3/8  | | [Ch 3, pt 1 Hwk](/teaching/COMP337/sp24/psets/pset3), [Ch 3, pt 1, Wireshark](/teaching/COMP337/sp24/wireshark/ch3pt1) | **NO CLASS** |
+| **9** | M. 3/18 | | | *Review 3.1-3.4* |
+| | W. 3/20 | | **CH 3 Exam (3.1-3.4)** | |
+| | F. 3/22  | | |  |
+
 
 
 <br><br><br>
