@@ -39,9 +39,9 @@ permalink: /teaching/COMP337/
 | **8** | M. 3/4 | 3.4.3-3.4.4 | |  |
 | | W. 3/6  | | | *Group Time For Homework* |
 | | F. 3/8  | | [Ch 3, pt 1 Hwk](/teaching/COMP337/sp24/psets/pset3), [Ch 3, pt 1, Wireshark](/teaching/COMP337/sp24/wireshark/ch3pt1) | **NO CLASS** |
-| **9** | M. 3/18 | | | *Review 3.1-3.4* |
-| | W. 3/20 | | **CH 3 Exam (3.1-3.4)** | |
-| | F. 3/22  | | |  |
+| **9** | M. 3/18 | | |  |
+| | W. 3/20 | | *Review 3.1-3.4* |  |
+| | F. 3/22  | | **CH 3 Exam (3.1-3.4)** |  |
 
 
 
