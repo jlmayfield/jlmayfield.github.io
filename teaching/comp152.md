@@ -42,9 +42,9 @@ permalink: /teaching/COMP152/
 | **8** | M. 3/4 | 6-6.1.1, 6.1.3-4 | *Ch 4 Exam Revisions Due* |  |
 | | W. 3/6 | 6.2-6.2.1,  | | **NO LAB** |
 | | F. 3/8  | | [Ch 5 Hwk](/teaching/COMP152/sp24/hwk/hwk3) | **NO CLASS** |
-| **9** | M. 3/18 | | | *Review Ch 5* |
-| | W. 3/20 | | **Ch 5 Exam** | |
-| | F. 3/22  | | |  |
+| **9** | M. 3/18 | 6.2.1 - 6.2.2 |  |  |
+| | W. 3/20 | | *Review Ch 5*. Lab: Ch 5 Hwk, Reprise | |
+| | F. 3/22  | | **Ch 5 Exam** |  |
 
 
 
