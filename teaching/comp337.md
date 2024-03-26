@@ -44,6 +44,9 @@ permalink: /teaching/COMP337/
 | | F. 3/22  | 3.5.1 - 3.5.2 |  |  |
 | **10** | M. 3/25 | **CH 3 Exam (3.1-3.4)** |  |  |
 | | W. 3/27 | | | |
+| | F. 3/29  | | | **No Class. Easter Break.** |
+| **11** | M. 3/25 |  |  | **No Class. Easter Break.**  |
+| | W. 3/27 | | *Ch 3, pt 1 Exam Revisions* | |
 | | F. 3/29  | | |  |
 
 

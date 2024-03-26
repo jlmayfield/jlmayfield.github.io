@@ -46,8 +46,13 @@ permalink: /teaching/COMP152/
 | | W. 3/20 | | *Review Ch 5*. Lab: Ch 5 Hwk, Reprise | |
 | | F. 3/22  | Finish 6.2. 6.3  |  |  |
 | **10** | M. 3/25 |  | **Ch 5 Exam** |  |
-| | W. 3/27 | |  | |
-| | F. 3/29  | | [Ch 6 Hwk](/teaching/COMP152/sp24/hwk/hwk4) |   |
+| | W. 3/27 | | | *Ch 6 Hwk in Class and Lab* |
+| | Th. 3/28 | | [Ch 6 Hwk](/teaching/COMP152/sp24/hwk/hwk4) | |  
+| | F. 3/29  | | | **No Class. Easter Break.**  |
+| **11** | M. 3/25 |  |  | **No Class. Easter Break.**  |
+| | W. 3/27 | | *Ch 5 Exam Revisions* | |
+| | F. 3/29  | | |  |
+
 
 
 
