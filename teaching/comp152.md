@@ -50,7 +50,7 @@ permalink: /teaching/COMP152/
 | | Th. 3/28 | | [Ch 6 Hwk](/teaching/COMP152/sp24/hwk/hwk4) | |  
 | | F. 3/29  | | | **No Class. Easter Break.**  |
 | **11** | M. 3/25 |  |  | **No Class. Easter Break.**  |
-| | W. 3/27 | | *Ch 5 Exam Revisions* | |
+| | W. 3/27 | | *Ch 5 Exam Revisions*. [Lab 7](/teaching/COMP152/sp24/labs/lab7) | |
 | | F. 3/29  | | |  |
 
 
