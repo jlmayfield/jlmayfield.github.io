@@ -5,6 +5,9 @@ permalink: /teaching/COMP152/sp24/labs/lab7
 mathjax: true
 ---
 
+**[Get the Prep Code from Class here](https://classroom.github.com/a/KLbdw3x1)**
+
+
 **[Get the Github Classroom Assignment Here](https://classroom.github.com/a/aArXOZbS)**
 
 # Lab 7 - Linked Lists!
