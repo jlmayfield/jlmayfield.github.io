@@ -49,9 +49,15 @@ permalink: /teaching/COMP152/
 | | W. 3/27 | | | *Ch 6 Hwk in Class and Lab* |
 | | Th. 3/28 | | [Ch 6 Hwk](/teaching/COMP152/sp24/hwk/hwk4) | |  
 | | F. 3/29  | | | **No Class. Easter Break.**  |
-| **11** | M. 3/25 |  |  | **No Class. Easter Break.**  |
-| | W. 3/27 | | *Ch 5 Exam Revisions*. [Lab 7](/teaching/COMP152/sp24/labs/lab7) | |
-| | F. 3/29  | | |  |
+| **11** | M. 4/1 |  |  | **No Class. Easter Break.**  |
+| | W. 4/3 | | *Ch 5 Exam Revisions*. [Lab 7](/teaching/COMP152/sp24/labs/lab7) | |
+| | F. 4/5  | | |  |
+| **12** | 4/8 |  |  | **No Class. Total Eclipse!**   |
+| | W. 4/10 | | [Lab: Begin Card Project](/teaching/COMP152/sp24/projects/cardhand) | |
+| | F. 4/12  | 1.8, 7.4.1 | |  |
+| **13** | M. 4/15 | 7.1-7.3, 7.4.2  | | |
+| | W. 4/17 | 7.5 | Lab: Continue Project | |
+| | F. 4/19  | | **[Card Hand Project Due by 4pm](/teaching/COMP152/sp24/projects/cardhand)** | **No Class** |
 
 
 
