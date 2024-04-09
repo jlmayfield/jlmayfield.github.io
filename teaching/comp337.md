@@ -45,9 +45,16 @@ permalink: /teaching/COMP337/
 | **10** | M. 3/25 | **CH 3 Exam (3.1-3.4)** |  |  |
 | | W. 3/27 | | | |
 | | F. 3/29  | | | **No Class. Easter Break.** |
-| **11** | M. 3/25 |  |  | **No Class. Easter Break.**  |
-| | W. 3/27 | | *Ch 3, pt 1 Exam Revisions* | |
-| | F. 3/29  | | |  |
+| **11** | M. 4/1 |  |  | **No Class. Easter Break.**  |
+| | W. 4/3 | | *Ch 3, pt 1 Exam Revisions* | |
+| | F. 4/5  | | |  |
+| **12** | 4/8 |  |  | **No Class. Total Eclipse!**   |
+| | W. 4/10 | 3.5.5 | P28 | |
+| | F. 4/12  | 3.6-3.7  | |  |
+| **13** | M. 4/15 |  | [Ch 3, pt 2, Wireshark](/teaching/COMP337/sp24/wireshark/ch3pt2) | |
+| | W. 4/17 | 7.5 | [Ch 3, pt 2 Hwk](/teaching/COMP337/sp24/psets/pset4) | |
+| | F. 4/19  | |  |  |
+
 
 
 
