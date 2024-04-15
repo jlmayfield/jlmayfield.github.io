@@ -52,9 +52,11 @@ permalink: /teaching/COMP337/
 | | W. 4/10 | 3.5.5 | P28 | |
 | | F. 4/12  | 3.6-3.7  | |  |
 | **13** | M. 4/15 |  | [Ch 3, pt 2, Wireshark](/teaching/COMP337/sp24/wireshark/ch3pt2) | |
-| | W. 4/17 | 7.5 | [Ch 3, pt 2 Hwk](/teaching/COMP337/sp24/psets/pset4) | |
+| | W. 4/17 | | [Ch 3, pt 2 Hwk](/teaching/COMP337/sp24/psets/pset4) | |
 | | F. 4/19  | |  |  |
-
+| **14** | M. 4/22 | | **Ch 3, Pt 2 Exam** | |
+| | W. 4/14 |  |  | |
+| | F. 4/16  | |  |  |
 
 
 
