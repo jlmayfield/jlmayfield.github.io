@@ -58,6 +58,10 @@ permalink: /teaching/COMP152/
 | **13** | M. 4/15 | 7.1-7.3, 7.4.2  | | |
 | | W. 4/17 | 7.5 | Lab: Continue Project | |
 | | F. 4/19  | | **[Card Hand Project Due by 4pm](/teaching/COMP152/sp24/projects/cardhand)** | **No Class** |
+| **14** | M. 4/22 |   | | |
+| | W. 4/24 | | [Lab 8](/teaching/COMP152/sp24/labs/lab8) | |
+| | F. 4/26  | |  |  |
+
 
 
 
