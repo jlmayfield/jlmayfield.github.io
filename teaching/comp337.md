@@ -55,8 +55,12 @@ permalink: /teaching/COMP337/
 | | W. 4/17 | | [Ch 3, pt 2 Hwk](/teaching/COMP337/sp24/psets/pset4) | |
 | | F. 4/19  | |  |  |
 | **14** | M. 4/22 | | **Ch 3, Pt 2 Exam** | |
-| | W. 4/14 |  |  | |
-| | F. 4/16  | |  |  |
+| | W. 4/24 |  |  | |
+| | F. 4/26  | |  |  |
+| **15** | M. 4/29 | 4.1-4.3 | [IP Wireshark](/teaching/COMP337/sp24/wireshark/ch4) | |
+| | W. 5/1 |  |  | |
+| | F. 5/3  | | [Ch 4 Homework](/teaching/COMP337/sp24/psets/pset5) |  |
+
 
 
 
