@@ -60,7 +60,11 @@ permalink: /teaching/COMP152/
 | | F. 4/19  | | **[Card Hand Project Due by 4pm](/teaching/COMP152/sp24/projects/cardhand)** | **No Class** |
 | **14** | M. 4/22 |   | | |
 | | W. 4/24 | | [Lab 8](/teaching/COMP152/sp24/labs/lab8) | |
-| | F. 4/26  | |  |  |
+| | F. 4/26  | 8.1-8.4 |  |  |
+| **15** | M. 4/29 | 9.1 | **R-8.20 & R-9.3** | |
+| | W. 5/1 |  |  | |
+| | F. 5/3  | |  |  |
+
 
 
 
