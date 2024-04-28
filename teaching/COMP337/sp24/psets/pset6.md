@@ -9,7 +9,7 @@ Complete the following problems from chapter 5 of the text:
 *   R5
 *   P1
 *   P3
-*   P5
+*   P8
 *   (Optional, P3-like practice) P4
 
 
@@ -17,3 +17,4 @@ Complete the following problems from chapter 6 of the text:
 *   R9
 *   R11
 *   P14
+*   P15
