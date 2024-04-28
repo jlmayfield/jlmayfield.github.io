@@ -63,6 +63,37 @@ The high-level goal of our extracting codes traversal is that we accumulate a pa
 >    2. Recurse to the right tree with a 0 appended to the current value of code 
 
 What's important in the `Node` case is that when `code` is the code on the path thus far, you recurse to the left with `code+'1'` and to the right with `code+'0'` and not with `code+'01'`.  Thankfully, python's immutable strings help in this regard as we cannot share and modify a string object through the recursive function calls. None the less, be on the lookout for accidental accumulation. 
+
+### Dictionary Data Structure 
+
+Dictionaries are a data structure that let you associate values with other values just like a dictionary associates a word with it's definition. In this project, we use them to associate a character/letter with its relative frequency or with it's binary code. 
+
+The book covers them in section 1.2.  The [official documentation](https://docs.python.org/3/tutorial/datastructures.html#dictionaries) offers a lot of guidance and examples as well. For more detail on the data structure generally, you can check out chapter 10 of the text.  
+
+In python the "words" of the dictionary are called *keys* and the "definitions" are called *values*, thus we say a python dictionary as a map between keys and values. There are a lot of helpful things you can do to and with dictionaries, here's the essential methods from the [full list of dictionary methods](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict). 
+
+For any dictionary `d`:
+*   `d.keys()` generate a sequence of the keys in d
+*   `d.values()` generate a sequence of the values in d
+*   `d.items()` generate a sequence of the (key,value) pairs in d as tuples. 
+*   `key in d` return True if key is in d, False otherwise. (`key not in d` also available)
+*   `d[key]` return the value associated with key in d. Raises error if key is not in d. 
+*   `d[key] = value` associate key with value in d (adds if not there, modifies if already there)
+*   `del d[key]` remove key,value association from d. Raises error if key not in d
+
+Looping over a dictionary can be done a couple of ways. In general, you're interested in iterating over keys and values combined. 
+
+```python
+# get key and value from items
+for k,v in d.items():
+    ...k...v...
+
+# iterate over keys, select values... like range loops and arrays
+for k in d.keys():
+    ...d[k]... 
+
+```
+
 # Huffman's Algorithm 
 
 You can logically divide Huffman's algorithm into two parts:
@@ -108,6 +139,11 @@ Assuming we inserted our three letters in alphabetic order, they would have the 
 ```
 The heap/list returned by `initializeQ` should contain the above tuples. If you look purely at the list, then the order should reflect that of an array-based heap (not strictly sorted but minimum frequency tuple first). 
 
+### Reading From Files
+
+It's relatively easy to read data from a file. The book covers it in section 1.6.2 and the [official documentation](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files) provides enough details for our needs. 
+
+Data comes out of files as text, as strings. So, when reading from files, we often need or want to do some post-processing on the string data. This can include [splitting the string](https://docs.python.org/3.3/library/stdtypes.html#str.split) and [stripping off excess whitespace](https://docs.python.org/3.3/library/stdtypes.html#str.strip). After that, when you have numbers in the file, you'll need to convert them from strings to integers or floats. Thankfully, the `int` and `float` functions can do this just fine, *so long as the string looks like a number*. You can get a feel for this by looking at section 1.6.1 as the same issue exists for reading text from the keyboard. 
 
 ## Python's Heapq: Heap-based Priority Queue
 
@@ -139,7 +175,7 @@ If you really want to round out this project, then write a function that takes a
 
 *   `getfrequencies(intxt,outtxt)` given the name of an input text file, open the file, read the contents, do a frequency analysis of the letters, and write the result to a file named outfile.
 
-For example, if *message.txt* is the message to be encoded, then `getfrequencies("message.txt","messageFreq.txt")` will create a file named *messageFreq.txt* containing the letter frequencies for every letter/character in message.txt. 
+For example, if *message.txt* is the message to be encoded, then `getfrequencies("message.txt","messageFreq.txt")` will create a file named *messageFreq.txt* containing the letter frequencies for every letter/character in message.txt. I highly recommend you give section 10.1.2 a look if you want to tackle this part of the project. 
 
 # To Do
 

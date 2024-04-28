@@ -61,8 +61,8 @@ permalink: /teaching/COMP337/
 | | W. 5/1 | 5.1-5.2 |  | |
 | | F. 5/3  | 6.4.1-6.4.3 | [Ch 4 Homework](/teaching/COMP337/sp24/psets/pset5) |  |
 | **16** | M. 5/6 |  | [Ch 5 & 6 Homework](/teaching/COMP337/sp24/psets/pset6) | |
-| | W. 5/8 |  |  | *Review* |
-| | F. 5/10  | | | **LAST EXAM: 6:30-9:30 pm**  |
+| | W. 5/8 | 6.7  |  | *6.7 & Review* |
+| | F. 5/10  | | | **LAST EXAM (Ch 4, 5, & 6 Hwk Style Problems): 6:30-9:30 pm**  |
 
 
 

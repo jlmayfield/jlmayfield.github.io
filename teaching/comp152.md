@@ -62,11 +62,11 @@ permalink: /teaching/COMP152/
 | | W. 4/24 | | [Lab 8](/teaching/COMP152/sp24/labs/lab8) | |
 | | F. 4/26  | 8.1-8.4 |  |  |
 | **15** | M. 4/29 | 9.1 | **R-8.20 & R-9.3** | |
-| | W. 5/1 |  | [Lab: Huffman Project Start](/teaching/COMP152/sp24/projects/huffman) | |
+| | W. 5/1 | 9.3 | [Lab: Huffman Project Start](/teaching/COMP152/sp24/projects/huffman) | |
 | | F. 5/3  | |  |  |
-| **16** | M. 5/6 |  | | |
-| | W. 5/8 |  | *Huffman Project Due*  |  |
-| | F. 5/10  | | | **LAST EXAM: 8-11 am** |
+| **16** | M. 5/6 | *Bonus Material 9.4,12.1-12.3* | [Optional Exam Study Homework](/teaching/COMP152/sp24/hwk/hwk5) | |
+| | W. 5/8 |  | **Huffman Project Due**  | *Exam Review & Class Wrap-Up* |
+| | F. 5/10  | | | **LAST EXAM (Sections 8.1-8.4,9.1,9.3): 8-11 am** |
 
 
 
