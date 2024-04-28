@@ -53,7 +53,7 @@ permalink: /teaching/COMP152/
 | | W. 4/3 | | *Ch 5 Exam Revisions*. [Lab 7](/teaching/COMP152/sp24/labs/lab7) | |
 | | F. 4/5  | | |  |
 | **12** | 4/8 |  |  | **No Class. Total Eclipse!**   |
-| | W. 4/10 | | [Lab: Begin Card Project](/teaching/COMP152/sp24/projects/cardhand) | |
+| | W. 4/10 | | [Lab: Begin Card ct](/teaching/COMP152/sp24/projects/cardhand) | |
 | | F. 4/12  | 1.8, 7.4.1 | |  |
 | **13** | M. 4/15 | 7.1-7.3, 7.4.2  | | |
 | | W. 4/17 | 7.5 | Lab: Continue Project | |
@@ -62,8 +62,12 @@ permalink: /teaching/COMP152/
 | | W. 4/24 | | [Lab 8](/teaching/COMP152/sp24/labs/lab8) | |
 | | F. 4/26  | 8.1-8.4 |  |  |
 | **15** | M. 4/29 | 9.1 | **R-8.20 & R-9.3** | |
-| | W. 5/1 |  |  | |
+| | W. 5/1 |  | [Lab: Huffman Project Start](/teaching/COMP152/sp24/projects/huffman) | |
 | | F. 5/3  | |  |  |
+| **16** | M. 5/6 |  | | |
+| | W. 5/8 |  | *Huffman Project Due*  |  |
+| | F. 5/10  | | | **LAST EXAM: 8-11 am** |
+
 
 
 
