@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMP151 - Project 2 - Huffman Codes
+title: COMP152 - Project 2 - Huffman Codes
 permalink: /teaching/COMP152/sp24/projects/huffman
 ---
 

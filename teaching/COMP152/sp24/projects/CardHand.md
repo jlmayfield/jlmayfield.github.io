@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMP151 - Project 1 - Card Hand ADT
+title: COMP152 - Project 1 - Card Hand ADT
 permalink: /teaching/COMP152/sp24/projects/cardhand
 ---
 
