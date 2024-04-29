@@ -179,7 +179,7 @@ For example, if *message.txt* is the message to be encoded, then `getfrequencies
 
 # To Do
 
-Below you'll find the order in which you should proceed through the project. You'll have some lab time to work on this project, but you'll need to spend a good chunk of time outside of class working on the project as well.  One notable feature of this project is that *you are not given initial files and function stubs*.  So, your first order of business (in or before the first lab) is to get organized and create the necessary files and stubs. Use the last several labs and the Card Hand project as a guide. 
+Below you'll find the order in which you should proceed through the project. You'll have some lab time to work on this project, but you'll need to spend a good chunk of time outside of class working on the project as well.  One notable feature of this project is that *you are not given initial files and function stubs*.  So, your first order of business (in or before the first lab) is to get organized and create the necessary files and stubs. Use the last several labs and the Card Hand project as a guide. **You final project should contain not just the code, but unit tests, and at least one use-case/user-level example that is not the example from lab 1.**. 
 
 1.  Lab 1: Create files needed for project. Stub out required functions in appropriate files. Build and Test Huff Leaf and Node classes.  
 2.  Homework: Write tests for and complete `extractCodes`
