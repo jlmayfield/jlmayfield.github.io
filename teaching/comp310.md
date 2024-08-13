@@ -1,10 +1,41 @@
 ---
 layout: page
-title: COMP 310 - Database Theory and Design 
+title: COMP 310 - Database Theory and Design - Fall 2024
 permalink: /teaching/COMP310/
 ---
 
+## Important Documents and Links
+
+&nbsp;&nbsp;&nbsp; [(Textbook) A Practical Introduction to Databases](https://runestone.academy/ns/books/published/practical_db/index.html) <br><br>
+&nbsp;&nbsp;&nbsp; [Syllabus](/teaching/COMP310/fa24/comp310-syllabus.pdf) <br>
+&nbsp;&nbsp;&nbsp; [Course Competencies](/teaching/COMP310/fa24/COMP310-Competencies.pdf) <br>
+&nbsp;&nbsp;&nbsp; [Competencies and Self-Evaluation How-To](/teaching/ungrading/howto-portfolio) 
+
+## Calendar
+
+| Week | Monday | Wednesday | Friday |
+| :-- | :-- | :-- | :-- |
+| 1 (8/19-8/23)|  *No Class*   |     |     | 
+| 2 (8/26-8/30)|       |     |     | 
+| 3 (9/2-9/6)| *Labor Day* |     |     |     
+| 4 (9/9-9/13)|  |     |     |     
+| 5 (9/16-9/20)|  |     |     |      
+| 6 (9/23-9/27)|  |     |     |      
+| 7 (9/30-10/4)|  |     |     |      
+| 8 (10/7-10/11)|  |     |   *Fall Break* | 
+| 9 (10/14-10/18)|  |          |     | 
+| 10 (10/21-10/25)|  |          |     | 
+| 11 (10/28-11/1)|  |          |     | 
+| 12 (11/4-11/8)|  |          |     | 
+| 13 (11/11-11/15)|  |          |     | 
+| 14 (11/18-11/22)|  |          |     | 
+| 15 (11/25-11/29|  |   *Thanksgiving*   |  *Thanksgiving*   | 
+| 16 (12/2-12-6)|  |      | *No Class* | 
+
+**Final Exam Period: Monday 12/9, 11:30am - 2:30pm**
+
+
 #### Past Course Offerings
 
-[Fall 2018](/teaching/COMP310/fa18/)
-[Fall 2022](/teaching/COMP310/fa22/)
+[Fall 2018](/teaching/COMP310/fa18/) <br>
+[Fall 2022](/teaching/COMP310/fa22/) 
