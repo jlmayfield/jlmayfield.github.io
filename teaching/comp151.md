@@ -5,7 +5,7 @@ permalink: /teaching/COMP151/
 ---
 ## Important Documents and Links 
 
-&nbsp;&nbsp;&nbsp; [(Textbook) Foundations of Python Programming](https://runestone.academy/ns/books/published/fopp/index.html) <br><br>
+&nbsp;&nbsp;&nbsp; [(Textbook) Foundations of Python Programming: Functions First](https://runestone.academy/ns/books/published/foppff/fopp-ff-3.html) <br><br>
 &nbsp;&nbsp;&nbsp; [Syllabus](/teaching/COMP151/fa24/comp151-syllabus.pdf)<br>
 &nbsp;&nbsp;&nbsp; [Course Competencies](/teaching/COMP151/fa24/COMP151-Competencies.pdf)<br>
 &nbsp;&nbsp;&nbsp; [Competencies and Self-Evaluation How-To](/teaching/ungrading/howto-portfolio) 
@@ -13,11 +13,13 @@ permalink: /teaching/COMP151/
 
 ## Calendar
 
+The calendar below lists assignments *due* and other notable events.  It will be updated regularly and should be checked regularly. 
+
 | Week | Monday | Wednesday | Friday |
 | :-- | :-- | :-- | :-- |
-| 1 (8/19-8/23)|  *No Class*   |     |     | 
-| 2 (8/26-8/30)|       |     |     | 
-| 3 (9/2-9/6)| *Labor Day* |     |     |     
+| 1 (8/19-8/23)|  *No Class*   |     | Ch. 1  | 
+| 2 (8/26-8/30)| Lab 1    |     |  Ch. 2  | 
+| 3 (9/2-9/6)| *Labor Day* |  Lab 2 (*take home*)   |  **Exam 1**  |     
 | 4 (9/9-9/13)|  |     |     |     
 | 5 (9/16-9/20)|  |     |     |      
 | 6 (9/23-9/27)|  |     |     |      
