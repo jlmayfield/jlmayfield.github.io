@@ -15,8 +15,8 @@ permalink: /teaching/COMP235/
 
 | Week | Monday | Wednesday | Friday |
 | :-- | :-- | :-- | :-- |
-| 1 (8/19-8/23)|  *No Class*   |     |     | 
-| 2 (8/26-8/30)|       |     |     | 
+| 1 (8/19-8/23)|  *No Class*   |     |  Read Ch 0   | 
+| 2 (8/26-8/30)| Read 4.1-4.2      |     |     | 
 | 3 (9/2-9/6)| *Labor Day* |     |  Ch. 4 Hwk.    |     
 | 4 (9/9-9/13)|  | Ch 4. Exam    |     |     
 | 5 (9/16-9/20)|  |     |     |      
