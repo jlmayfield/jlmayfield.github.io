@@ -5,7 +5,7 @@ permalink: /teaching/COMP151/
 ---
 ## Important Documents and Links 
 
-&nbsp;&nbsp;&nbsp; [(Textbook) Foundations of Python Programming: Functions First](https://runestone.academy/ns/books/published/foppff/fopp-ff-3.html) <br><br>
+&nbsp;&nbsp;&nbsp; [(Textbook) Foundations of Python Programming: Functions First](https://runestone.academy/ns/books/published/mc_comp151_fa24/fopp-ff-3.html) <br><br>
 &nbsp;&nbsp;&nbsp; [Syllabus](/teaching/COMP151/fa24/comp151-syllabus.pdf)<br>
 &nbsp;&nbsp;&nbsp; [Course Competencies](/teaching/COMP151/fa24/COMP151-Competencies.pdf)<br>
 &nbsp;&nbsp;&nbsp; [Competencies and Self-Evaluation How-To](/teaching/ungrading/howto-portfolio) 
