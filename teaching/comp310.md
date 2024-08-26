@@ -6,7 +6,7 @@ permalink: /teaching/COMP310/
 
 ## Important Documents and Links
 
-&nbsp;&nbsp;&nbsp; [(Textbook) A Practical Introduction to Databases](https://runestone.academy/ns/books/published/practical_db/index.html) <br><br>
+&nbsp;&nbsp;&nbsp; [(Textbook) A Practical Introduction to Databases](https://runestone.academy/ns/books/published/mc_comp310_fa24/index.html) <br><br>
 &nbsp;&nbsp;&nbsp; [Syllabus](/teaching/COMP310/fa24/comp310-syllabus.pdf) <br>
 &nbsp;&nbsp;&nbsp; [Course Competencies](/teaching/COMP310/fa24/COMP310-Competencies.pdf) <br>
 &nbsp;&nbsp;&nbsp; [Competencies and Self-Evaluation How-To](/teaching/ungrading/howto-portfolio) 
