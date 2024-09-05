@@ -18,8 +18,8 @@ permalink: /teaching/COMP235/
 | 1 (8/19-8/23)|  *No Class*   |     |  Read Ch 0   | 
 | 2 (8/26-8/30)| Read 4.1-4.2    |     | Read 4.3-4.5 | 
 | 3 (9/2-9/6)| *Labor Day* |  [Ch. 4 Hwk pt 1.](/teaching/COMP235/fa24/hwk/ch4pt1.pdf) |  Finish Ch. 4   |     
-| 4 (9/9-9/13)| Ch 4 Hwk pt 2. |   |  Ch 4. Exam    |     
-| 5 (9/16-9/20)|  |     |     |      
+| 4 (9/9-9/13)| [Ch. 4 Hwk pt 2.](/teaching/COMP235/fa24/hwk/ch4pt2.pdf) | Read Ch 5.0-5.2  |  Ch 4. Exam    |     
+| 5 (9/16-9/20)| Finish Ch 5. |     |     |      
 | 6 (9/23-9/27)|  |     |     |      
 | 7 (9/30-10/4)|  |     |     |      
 | 8 (10/7-10/11)|  |     |   *Fall Break* | 
