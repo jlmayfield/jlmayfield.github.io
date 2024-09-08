@@ -20,8 +20,8 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 1 (8/19-8/23)|  *No Class*   |     | Ch. 1  | 
 | 2 (8/26-8/30)| [Lab 1](/teaching/comp151/fa24/labs/lab1)    |     |  Ch. 2 & *Ch. 2 Assessment*  | 
 | 3 (9/2-9/6)| *Labor Day* |  [Lab 2 (*take home*)](https://classroom.github.com/a/1qQeLDne)   | Ch 3.  |     
-| 4 (9/9-9/13)| **Exam 1 (ch 2)**  |     |     |     
-| 5 (9/16-9/20)|  |     |     |      
+| 4 (9/9-9/13)| **Exam 1 (ch 2)** [Lab 3](https://classroom.github.com/a/mdyAwEa_) | Ch 4, Pt 1.     |  Ch 4. Pt 2.   |     
+| 5 (9/16-9/20)| Ch 4. Assessment |     |     |      
 | 6 (9/23-9/27)|  |     |     |      
 | 7 (9/30-10/4)|  |     |     |      
 | 8 (10/7-10/11)|  |     |   *Fall Break* | 
