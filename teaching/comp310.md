@@ -19,7 +19,7 @@ permalink: /teaching/COMP310/
 | 2 (8/26-8/30)| Hwk 1.1-1.2 |  | Hwk 1.3 [Lahman Hwk 1](/teaching/COMP310/fa24/hwk/lahmansql1.pdf)  | 
 | 3 (9/2-9/6)| *Labor Day* |     | Exam 1 (1.1-1.3)    |     
 | 4 (9/9-9/13)| Hwk 1.4 |  | [Lahman Hwk 2](/teaching/COMP310/fa24/hwk/lahmansql2.pdf)    |     
-| 5 (9/16-9/20)|  | Hwk 1.8 |     |      
+| 5 (9/16-9/20)|  | Hwk 1.8 |  [Lahman Hwk 3](/teaching/COMP310/fa24/hwk/lahmansql3.pdf)   |      
 | 6 (9/23-9/27)|  |     |     |      
 | 7 (9/30-10/4)|  |     |     |      
 | 8 (10/7-10/11)|  |     |   *Fall Break* | 
