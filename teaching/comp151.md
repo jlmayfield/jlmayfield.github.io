@@ -22,9 +22,9 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 3 (9/2-9/6)| *Labor Day* |  [Lab 2 (*take home*)](https://classroom.github.com/a/1qQeLDne)   | Ch 3.  |     
 | 4 (9/9-9/13)| **Exam 1 (ch 2)** [Lab 3](https://classroom.github.com/a/mdyAwEa_) | Ch 4, Pt 1.     |  Ch 4. Pt 2. [Hwk/Lab 3-5](https://classroom.github.com/a/kHPUr2oq)  |     
 | 5 (9/16-9/20)| Ch 4. Assessment [Lab 4](https://classroom.github.com/a/lVc0bomt) |     |  Read [Pygame Intro](/teaching/comp151/fa24/game/pygame-round1)   |      
-| 6 (9/23-9/27)|  |     |     |      
-| 7 (9/30-10/4)|  |     |     |      
-| 8 (10/7-10/11)|  |     |   *Fall Break* | 
+| 6 (9/23-9/27)| Lab: Begin Game v0 |     |     |      
+| 7 (9/30-10/4)| Lab: Work on Game v0 |     | [Game Jam v0](/teaching/comp151/fa24/game/gamev0)    |      
+| 8 (10/7-10/11)|   | Exam (Ch 4)    |   *Fall Break* | 
 | 9 (10/14-10/18)|  |          |     | 
 | 10 (10/21-10/25)|  |          |     | 
 | 11 (10/28-11/1)|  |          |     | 
