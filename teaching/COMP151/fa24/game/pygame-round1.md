@@ -20,16 +20,18 @@ Once we add variables into the mix, then we have everything we need to make game
 
 Python libraries are typically organized into a series of **modules**. A module provides a collection of related data types and functions.  We'll be directly or indirectly interacting with the pygame modules listed below. The parts of the modules you need will be discussed in this document. For now, just make note of their names. You can come back later and explore the full documentation for these modules by clicking the links.
 
-  * [pygame](https://www.pygame.org/docs/ref/pygame.html) The main Pygame module
-  * [display](https://www.pygame.org/docs/ref/display.html) A module to control the display window and screen.
-  * [mixer](https://www.pygame.org/docs/ref/mixer.html) A module for loading and playing sounds
-  * [image](https://www.pygame.org/docs/ref/image.html) A module for loading images
-  * [time](https://www.pygame.org/docs/ref/time.html) A module for monitoring time
-  * [locals](https://www.pygame.org/docs/ref/locals.html) Some key Pygame constants
-  * [Surface](https://www.pygame.org/docs/ref/surface.html) A module for representing images
+  * [pygame](https://www.pygame.org/docs/ref/pygame.html) *The main Pygame module*
+  * [Surface](https://www.pygame.org/docs/ref/surface.html) **Key Module** A module for representing and constructing images as SurfaceType data. 
+  * [Rect](https://www.pygame.org/docs/ref/rect.html) *Subtly Important* A module for rectangular coordinates. 
   * [transform](https://www.pygame.org/docs/ref/transform.html) A module for modifying surfaces (aka images)
+  * [image](https://www.pygame.org/docs/ref/image.html) A module for loading images to Surface data types
   * [font](https://www.pygame.org/docs/ref/font.html) A module for loading and rendering text
-  * [event](https://www.pygame.org/docs/ref/event.html) A module for interacting with events and queues
+  * [mixer](https://www.pygame.org/docs/ref/mixer.html) A module for loading and playing sounds
+  * [display](https://www.pygame.org/docs/ref/display.html) A module to control the display window and screen. (Seen and mostly not used.)
+  * [time](https://www.pygame.org/docs/ref/time.html) A module for monitoring time (Seen, mostly not used.)
+  * [locals](https://www.pygame.org/docs/ref/locals.html) Some key Pygame constants. (Seen but not used)  
+  * [event](https://www.pygame.org/docs/ref/event.html) A module for interacting with events and queues (*More important in the future*)
+  
 
 ## Importing and Referencing Modules
 
