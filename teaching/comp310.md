@@ -21,7 +21,7 @@ permalink: /teaching/COMP310/
 | 4 (9/9-9/13)| Hwk 1.4 |  | [Lahman Hwk 2](/teaching/COMP310/fa24/hwk/lahmansql2.pdf)    |     
 | 5 (9/16-9/20)|  | Hwk 1.8 |  [Lahman Hwk 3](/teaching/COMP310/fa24/hwk/lahmansql3.pdf)   |      
 | 6 (9/23-9/27)|  |  Hwk 1.9    | **Exam 2 (1.4,1.8)**  |      
-| 7 (9/30-10/4)|  |     |     |      
+| 7 (9/30-10/4)|   |  Hwk 1.10-1.11   |  [Lahman Hwk 4](/teaching/COMP310/fa24/hwk/lahmansql4.pdf)   |      
 | 8 (10/7-10/11)|  |     |   *Fall Break* | 
 | 9 (10/14-10/18)|  |          |     | 
 | 10 (10/21-10/25)|  |          |     | 
