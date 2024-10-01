@@ -24,8 +24,8 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 5 (9/16-9/20)| Ch 4. Assessment [Lab 4](https://classroom.github.com/a/lVc0bomt) |     |  Read [Pygame Intro](/teaching/comp151/fa24/game/pygame-round1)   |      
 | 6 (9/23-9/27)| Lab: Begin Game v0 |     |     |      
 | 7 (9/30-10/4)| Lab: Work on Game v0 |     | [Game Jam v0](/teaching/comp151/fa24/game/gamev0)    |      
-| 8 (10/7-10/11)|   | Exam (Ch 4)    |   *Fall Break* | 
-| 9 (10/14-10/18)|  |          |     | 
+| 8 (10/7-10/11)|   |     |   *Fall Break* | 
+| 9 (10/14-10/18)|  | **Exam (Ch 4)**  |     | 
 | 10 (10/21-10/25)|  |          |     | 
 | 11 (10/28-11/1)|  |          |     | 
 | 12 (11/4-11/8)|  |          |     | 
