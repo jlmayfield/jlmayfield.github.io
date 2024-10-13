@@ -23,7 +23,7 @@ permalink: /teaching/COMP235/
 | 6 (9/23-9/27)|   | Read 1.1-1.4  |  [Complete Ex. for 1.1-1.4](https://diveintosystems.org/exercises/dive-into-systems-exercises-4.html) |      
 | 7 (9/30-10/4)| Read 1.5-1.6 |     | [Complete Ex. for 1.5-1.6](https://diveintosystems.org/exercises/dive-into-systems-exercises-4.html)    |      
 | 8 (10/7-10/11)| | [Ch 1, C Hwk](https://classroom.github.com/a/Y9edY7tg)  |   *Fall Break* | 
-| 9 (10/14-10/18)|  |   **Exam Ch 1**       |     | 
+| 9 (10/14-10/18)|  |   **Exam Ch 1**   |     | 
 | 10 (10/21-10/25)|  |          |     | 
 | 11 (10/28-11/1)|  |          |     | 
 | 12 (11/4-11/8)|  |          |     | 
