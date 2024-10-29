@@ -25,7 +25,7 @@ permalink: /teaching/COMP310/
 | 8 (10/7-10/11)| Start Py+SQL Project (see 10/21) |     |   *Fall Break* | 
 | 9 (10/14-10/18)|  |          |     | 
 | 10 (10/21-10/25)| | [Py+SQL Project Due](https://classroom.github.com/a/5m962eBa) | Hwk 2.1-2.2 | 
-| 11 (10/28-11/1)|  |          |     | 
+| 11 (10/28-11/1)|  |          | *Due: 12.13,12.4 ER Homework*    | 
 | 12 (11/4-11/8)|  |          |     | 
 | 13 (11/11-11/15)|  |          |     | 
 | 14 (11/18-11/22)|  |          |     | 
