@@ -105,7 +105,7 @@ V0 = (2 * H * VX) / XH
 
 We can get a sense of the role of all of these constants/forces from the following image:
 
-![Movement Constants](movement.png "Movement Constants)
+![Movement Constants](movement.png)
 
 
 Finally, in our simple game, we'll need to know the y-coordinate for the floor. This can be saved to a constant `FLOOR`. In general, there isn't one floor, but a collection of objects upon which the player can stand; that comes later. For now, we'll just keep it simple and say that when the bottom of the player rectangle is at `FLOOR` height, then they are on the ground and they can run and jump. Once they jump their location is no longer on the floor and they cannot run or jump; player-controlled movement while in the air is not being considered here. 
