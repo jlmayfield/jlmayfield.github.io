@@ -26,8 +26,8 @@ permalink: /teaching/COMP310/
 | 9 (10/14-10/18)|  |          |     | 
 | 10 (10/21-10/25)| | [Py+SQL Project Due](https://classroom.github.com/a/5m962eBa) | Hwk 2.1-2.2 | 
 | 11 (10/28-11/1)|  |          | *Due: 12.13,12.4 ER Homework*    | 
-| 12 (11/4-11/8)| Ch 2.3 - 2.4 |          | Ch 1.5  - 1.7, **ER Modelling Exam**  | 
-| 13 (11/11-11/15)|   |     |     | 
+| 12 (11/4-11/8)| Ch 2.3 - 2.4 |          | Ch 1.5  - 1.7| 
+| 13 (11/11-11/15)| **ER Modelling Exam**    |     |     | 
 | 14 (11/18-11/22)|   |          |     | 
 | 15 (11/25-11/29|  |   *Thanksgiving*   |  *Thanksgiving*   | 
 | 16 (12/2-12-6)|  |      | *No Class* | 

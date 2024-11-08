@@ -26,9 +26,9 @@ permalink: /teaching/COMP235/
 | 9 (10/14-10/18)|  |   **Exam Ch 1**   |     | 
 | 10 (10/21-10/25)| [DiS Ex. for 2.1-2.5](https://diveintosystems.org/exercises/dive-into-systems-exercises-5.html)  |          |     | 
 | 11 (10/28-11/1)|  |          |     | 
-| 12 (11/4-11/8)|  |          |  [C Project Due](/teaching/comp235/fa24/projects/cproj)   | 
-| 13 (11/11-11/15)|  |          |     | 
-| 14 (11/18-11/22)|  |          |     | 
+| 12 (11/4-11/8)|  |          |    | 
+| 13 (11/11-11/15)| [C Project Due](/teaching/comp235/fa24/projects/cproj)  | Ch 6, Ch 7.1-7.3  | Ch 7.4-7.7,7.10    | 
+| 14 (11/18-11/22)|  Ch 11.1-11.2 |          |     | 
 | 15 (11/25-11/29|  |   *Thanksgiving*   |  *Thanksgiving*   | 
 | 16 (12/2-12-6)|  |      | *No Class* | 
 
