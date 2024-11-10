@@ -29,7 +29,7 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 10 (10/21-10/25)| [Lab 7](https://classroom.github.com/a/XV4CKdjh)  |  [Designing Game Movement](/teaching/comp151/fa24/game/gamev1-design), [Implementing Game Movement](/teaching/comp151/fa24/game/gamev1-implementation-basic)  | [Controlling the Game Loop](/teaching/comp151/fa24/game/gamev1-loopcontrol), Ch. 6 Homework    | 
 | 11 (10/28-11/1)| [Game Refactor Lab](/teaching/comp151/fa24/game/gamev0_5) |          |  [Side Scrolling Movement How-To](/teaching/comp151/fa24/game/sidescroller)   | 
 | 12 (11/4-11/8)|  |          |     | 
-| 13 (11/11-11/15)| [**Game v1 Due**](/teaching/comp151/fa24/game/gamev1)  |  Ch. 7, Ch 8 Pt 1   |     | 
+| 13 (11/11-11/15)| [**Game v1 Due**](/teaching/comp151/fa24/game/gamev1), [Lab 8](https://classroom.github.com/a/8pOTc2yJ)|  Ch. 7, Ch 8 Pt 1   |      | 
 | 14 (11/18-11/22)|  |          |     | 
 | 15 (11/25-11/29|  |   *Thanksgiving*   |  *Thanksgiving*   | 
 | 16 (12/2-12-6)|  |      | *No Class* | 
