@@ -28,7 +28,7 @@ permalink: /teaching/COMP310/
 | 11 (10/28-11/1)|  |          | *Due: 12.13,12.4 ER Homework*    | 
 | 12 (11/4-11/8)| Ch 2.3 - 2.4 |          | Ch 1.5  - 1.7| 
 | 13 (11/11-11/15)| **ER Modelling Exam**    |     |     | 
-| 14 (11/18-11/22)| Ch 3    |     |  *Gym Generator/DB*   | 
+| 14 (11/18-11/22)| Ch 3  |     |  [*Gym Generator/DB*](/teaching/COMP310/fa24/hwk/gymgen.pdf)   | 
 | 15 (11/25-11/29|   |   *Thanksgiving*   |  *Thanksgiving*   | 
 | 16 (12/2-12-6)|  |      | *No Class* | 
 | 12/9 11:30am |  **Final Exam** | | |
