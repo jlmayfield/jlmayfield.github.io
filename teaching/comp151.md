@@ -32,7 +32,7 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 13 (11/11-11/15)| [**Game v1 Due**](/teaching/comp151/fa24/game/gamev1), [Lab 8](https://classroom.github.com/a/8pOTc2yJ)|  Ch. 7, Ch 8 Pt 1   |      | 
 | 14 (11/18-11/22)| Lab: Start Game  |   |   | 
 | 15 (11/25-11/29| *Iteration Mini-Exam*, Lab : Work Game |   *Thanksgiving*   |  *Thanksgiving*   | 
-| 16 (12/2-12-6)|  [Final Game Due]()  |      | *No Class* | 
+| 16 (12/2-12-6)|  [Final Game Due](/teaching/comp151/fa24/game/gamev2)  |      | *No Class* | 
 | *12/10 6:30pm* | **Exam (Iterate+Accumulate)** | | |
 
 **Final Exam Period: Tuesday 12/10, 6:30pm - 9:30pm**

@@ -4,18 +4,61 @@ title: Game Dev Project - Game v2
 permalink: /teaching/comp151/fa24/game/gamev2
 ---
 
-We now come to the part of the project where we complete a full game or at least a solid prototype for a game.  For this we really need two things:
+# Requirements & Specifications
 
-  1. *Interactivity* - Stuff to collect, Enemies to contend with, Platforms or walls to navigate, obstacles to avoid, etc.
+We now come to the part of the project where we complete a full game or at least a solid prototype for a game. 
+
+## Requirements
+
+To complete your game you must include the following to the version 1 code: 
+
+  1. *An Interactive Environment* - Stuff to collect, Enemies to contend with, Platforms or walls to navigate, obstacles to avoid, etc..     
   2. *An Objective* - Complete a task before time runs out, Defeat an enemy, Solve a puzzle, last as long as you can in a hostile environment, etc.
+  3. *A Game Over Screen*  When the game is over, present the player with some indication of how well they did and ask them to hit Q (or some specified key) to quit. 
 
-# A Few Helpful Additions to Our Game-Dev Toolkit
+These requirements are very broad in order to leave you room to be creative. If you'd prefer a very specific objective to work on, then there is a game, with starter code, discussed below. You can also use this as a point of reference when considering your own ideas. When in doubt, *ask if your ideas meet the requirements before getting too far down the programming rabbit hole.*.
+
+### Getting More Art
+
+As a reminder, you can find some fun, free artwork at [opengameart.org](https://opengameart.org/). Limit your search to 2D art.  The starter code I've provided includes a two-animation-frame ghost image.  You can also just draw shapes as placeholders and not worry about art. 
+
+## Specifications 
+
+Where the requirements are fairly broad, the specifications are a bit more strict.  You must:
+
+* Make use of one more more lists to manage the state of objects in the environment.  
+* Utilize functions effectively, and in particular, list-processing should be managed via functions designed specifically for the task at hand. 
+* All functions must be properly documented with docstrings and type declarations in the header.
+* Test at least the list-processing functions *using unittests and `pytest`*. Unittesting of other functions is encouraged.
+* Make use of randomness. 
+
+
+## A Concrete Game-Project and Starter Code
+
+If you'd rather just build a game on top of a pre-built set of code instead of continuing to work with your existing game code, then you can do this. [This github classroom assignment](https://classroom.github.com/a/ynHEh9tC) contains starter code for a top-down style game. There is a start screen and the start for a level.  You just need to complete the requirements given above. Here's a good way to do that: 
+
+* Have objects (rocks/ghosts/fireballs/etc.) spawn randomly at the edges of the screen and move, at random speeds, towards the opposite side of the screen.  
+* The game ends when the player is hit by one of the objects.  
+* When the game ends, report back on how long the player survived (in seconds). Longer is better, obviously.
+
+To implement this game you'll need to use lists of `Rect` and `Vector2` data as described below in order to manage the moving objects. You'll need to use randomness, as described below, to (a) decide on which of the 4 walls an object should appear (b) where, the x or y coordinate, on that wall it should appear, and (c) the velocity of the object. Finally, you need to keep track of the total time, as described below, the player stayed alive. 
+
+### Recommended Feature Iteration Order 
+
+I recommend the follow series of iterations on the program features:
+1. Add a clock to the game and display the current time, in seconds, at the top of the screen. 
+2. Add "rocks", but have them only spawn on one side of the screen. Do not worry about collisions. Just have them spawn, move, and disappear (make certain the disappear form your list when then disappear from view). 
+3. Add player+rock collisions. When the player is hit by a rock, have the game end without a game over screen.
+4. Add the game-over screen. **At this point your game is feature complete. Beyond here you're making it more engaging for the player.**
+5. Have rocks spawn from the remaining 3 walls (add 1 wall at a time). 
+
+# Expanding Your Game-Dev Toolkit
 
 Before we look specifically at adding interactivity and objectives to our game, let's look a few helpful general-purpose things that can enhance your game development process. The first is random numbers; a bit of randomness keeps games from feeling like running through a script. Second, we'll see how we can make animation a bit easier and flexible by using lists. Finally, we need to re-visit the relationship between the rectangles representing a player or thing on screen and the rectangle that covers an animation image.
 
 ## Random Numbers
 
-Section 4.3 of our RuneStone text covers the python random module. I just want to draw your attention to one function: `randrange`.  One of the ways randomness occurs in games is to assign random starting locations and/or velocities to objects.  What this boils down to is a random integer from some interval \[min,max\].  The function `randrange` gives you exactly that. If *min* is the smallest possible value you want and *max* is the largest, then `random.randrange(min,max+1)` will give you a value from your desired range with an equal chance of getting any number in the range.
+Python includes a `random` module for utilizing randomness in your programs. One of the ways randomness occurs in games is to assign random starting locations and/or velocities to objects.  What this boils down to is a random integer from some interval \[min,max\].  The function `randrange` gives you exactly that. If *min* is the smallest possible value you want and *max* is the largest, then `random.randrange(min,max+1)` will give you a value from your desired range with an equal chance of getting any number in the range.
 
 Another likely scenario is that you want either something from \[-max,-1\] or \[1,max\], or equivalently something from \[-max,max\] except for zero. Such situations occur when you want random velocities but want to make sure something is moving. You can still achieve this with only `randrange`. First we generate a number from `randrange(1,max+1)`. Then, we essentially flip a coin to see if the number stays positive or goes negative.  We can accomplish the coin flip with `randrange(0,2)`.  We can put this together using either a conditional or a bit of math.
 ```python
@@ -28,7 +71,6 @@ if random.randrange(0,2) == 1:
 # recall -1^0 = 1 and -1^1 = -1
 rand_val = -1**random.randrange(0,2) * random.randrange(1,max+1)
 ```
-
 The `random` module provides other ways to generate random numbers along with other forms of randomness.  Feel free to explore it, but you can most likely get whatever you need by using `randrange` one way or another.
 
 ## Animation and Modular Arithmetic
@@ -43,69 +85,50 @@ y =  img_y[curr_img] # get current image y coordinate
 curr_img = (curr_img + 1) % len(img_y) # update for next image
 ```
 
-What this does is simply collect the actual coordinates for our image into a list then cycle through the locations of the list using modular arithmetic. The modular arithmetic is simple counting by 1 up to, but excluding, the size of the list. Here's the really, really cool thing about this approach: *it works for any number of images and even when there is no relationship between the coordinates*.  This means you can use animation sheets with variably sized and spaced images by collecting their relevant coordinates (and possibly the width and heights) into lists.  You can also take this one step forward by replacing coordinates with a full `Rect` for your animation image or even just the image itself!
+What this does is simply collect the actual coordinates for our image into a list then cycle through the locations of the list using modular arithmetic. The modular arithmetic is simple counting by 1 up to, but excluding, the size of the list. Here's the really, really cool thing about this approach: *it works for any number of images and even when there is no relationship between the coordinates*.  This means you can use animation sheets with variably sized and spaced images by collecting their relevant coordinates (and possibly the width and heights) into lists.  *You can also take this one step forward by replacing coordinates with a full `Rect` for your animation image or even just the image itself!* In this case, you create the lists during the initialization phase of the game/level then select from them during the game loop. 
 
-## Screen Rectangles vs Image Rectangles
+## Image Rectangle Size vs Environment Rectangle Size 
 
-Thus far we've just assumed the player was the same size as their image. This isn't typically the case. The image we draw is usually the character surrounded by some transparent pixels. When there's nothing in the environment for our player to interact with, then the difference isn't all that important. When we add something with which the player can collide, then we want to make sure that the screen rectangle is a good, tight box around the region occupied by our player.
+Thus far we've just assumed the player's location rectangle and their image rectangle have the same width and height. Now that players and objects are colliding, this might not be the case. Images often have a border of (transpartent) pixels on them.  So, *if you want good, realistic looking collisions, then you want to make sure the on-screen rectangle for your player and objects is tight around the viewable character/object or even just a hair smaller.*  You'll likely need to experiment with this. It's also highly dependent on the art with which you're working. 
 
-Assuming your player image is centered within the rectangle, we can manage this by choosing some offset value for their screen rectangle. First we imagine a tight rectangle covering most or all of the player image with very little transparency within it. This rectangle sits at the center of our player image rectangle and it's upper-left corner is at *(offset,offset)*.  What we've effectively done is shaved off *offset* number of pixels from the top, left, bottom, and right of the player image.
-
-Let `PC_W` and `PC_H` be the width and height of the player image rectangle.  Our onscreen rectangle can then be constructed as follows:
-```python
-PC_OFFSET = 5
-# x and y are wherever your player starts
-# The width and height account for the excess space relative to
-# the animation image
-pc_rect = Rect(x,y,PC_W-2*PC_OFFSET,PC_H-2*PC_OFFSET)
-```
-When it's time to draw the player, we need to account for the offset. We'll assume that all player images are drawn from the image named `PC`.
-```python
-DS.blit(PC, pc_rect.move(-PC_OFFSET,-PC_OFFSET), pc_img_rect)
-```
-The `Rect` method `move` computes and returns a new `RECT` with the x and y coordinates adjusted according to the given values.  Alternatively, we can do the calculation ourselves.
-```python
-DS.blit(PC, (pc_rect.x - PC_OFFSET, pc_rect.y - PC_OFFSET), pc_img_rect)
-```
-
-To find the right offset for your player images, or any other image you're using in your game, you can use trial and error or find a program or website that lets you find pixel coordinates within an image. What you're looking for is the (x,y) coordinates of the upper-left corner of the rectangular area you want to represent the character or object's physical space. In the example above the x and y were the same, but they don't have to be. You'll just need fewer variables if they are.
-
-
-# Interactivity and Objects in the Environment
+# Implementing Interactivity and Objects in the Environment with Lists
 
 In order to create interactivity, you need something with which your player can interact. Fortunately, we already know how to add things into the environment because we've added the player character into the environment.
 
   * *Everything* needs a `Rect` to represent the space it occupies within the playing area. See above for notes on tightening up these rectangles relative to the image for the object.
-  * *If the thing can move*, then you should be using `Vector2` objects to represent location, velocity, and acceleration as needed. Just like with your player, the style of movement your game requires will determine the number of variables/`Vector2`s you need to represent the thing.
+  * *If the thing can move*, then you should be using `Vector2` objects to represent velocity, and acceleration as needed. Just like with your player, the style of movement your game requires will determine the number of variables/`Vector2`s you need to represent the thing.
   * *If the thing is animated* (and you're using an animation sheet like we have been), then you also need a `Rect` to represent which animation frame you are currently showing the player.
 
 Let's say your game has some bad guys, that those bad guys move in a sliding-gliding, velocity-based pattern with animation, and that both the player and the bad guys shoot projectiles that use velocity-based movement but no animation.  Then:
 
-  * Every enemy needs it's own screen Rect, image Rect, location Vector2, and velocity Vector2
-  * Every projectile needs it's own screen Rect, location Vector2, and velocity Vector2.
+  * Every enemy needs it's own screen Rect, image Rect, and velocity Vector2
+  * Every projectile needs it's own screen Rect and velocity Vector2.
 
 Even if you only have one bad guy, you're likely to have multiple active projectiles. What's more, the number of projectiles on the screen can vary from frame to frame.  So, we don't know how many sets of variables we need!  That's OK, because we have lists!
 
 ## Lists and the *Structure of Array* Pattern
 
-Let's now consider a game with multiple bad guys that move independently and are animated. This means each bad guys needs four attributes/objects: location vector, velocity vector, screen rectangle and image rectangle. We can organize this data into four lists, one per attribute. This data-organization pattern is called a **structure of arrays**. We worked with an example of this in the international loan data lab. Let's work a simple, made-up example with two enemies.
+Let's now consider a game with multiple bad guys that move independently and are animated. This means each bad guy needs four attributes/objects: location vector, velocity vector, screen rectangle and image rectangle. We can organize this data into four lists, one per attribute. This data-organization pattern is called a **structure of arrays**. Let's work a simple, made-up example with two enemies.
 
-Assume that `NPC_W` and `NPC_H` are the width and height of the enemy image, that `NPC_OFFSET` is the offset for their screen rectangle (see above), and that `SCREEN_W` and `SCREEN_H` are the width and height of the screen. Then we might initialize two enemies as follows:
+Assume that `NPC_W` and `NPC_H` are the width and height of the enemy's on screen rectangle, `NPC_IW` and `NPC_IH` are the image rectangle dimensions, and that `SCREEN_W` and `SCREEN_H` are the width and height of the screen. Then we might initialize two enemies as follows:
 
 ```python
 # start with loc and velocity. Set x,y accordingly. Perhaps random!
-npc_loc = [Vector2(... , ...), Vector2(..., ...)]
-npc_vel = [Vector2(..., ...), Vector2(...,...)]
-npc_rects = [ Rect( npc_loc[0] , (NPC_W-2*NPC_OFFSET,NPC_H-2*NPC_OFFSET)), Rect( npc_loc[1] , (NPC_W-2*NPC_OFFSET,NPC_H-2*NPC_OFFSET) ) ]
+npc_loc = [ Rect( (... , ...) , (NPC_W,NPC_H)), Rect( (... , ...) , (NPC_W,NPC_H) ) ]
+npc_vel = [Vector2(..., ...), Vector2(...,...)] #again, maybe random starting velocity
 # animation image rects. again, set x and y accordingly
-npc_img = [ Rect(... , ... , NPC_W,NPC_H), Rect(... , ... , NPC_W,NPC_H)]
+npc_img = [ Rect(... , ... , NPC_IW,NPC_IH), Rect(... , ... , NPC_IW,NPC_IH)]
 ```
 
-The data for the first enemy is at index 0 in each list, i.e. their location is `npc_loc[0]`, velocity is `npc_vel[0]`, screen rectangle is `npc_rects[0]`, and image rectangle `npc_img[0]`. Each subsequent enemy has their data at their own shared index.
+The data for the first enemy is at index 0 in each list, i.e. their location is `npc_loc[0]`, velocity is `npc_vel[0]`, and image rectangle `npc_img[0]`. Each subsequent enemy has their data at their own shared index.
 
-If you have lots of objects to manage, then functions can make the setup easier. In all cases, functions will make managing and coordinating the lists easier. First off, generating the screen rectangles is a *map* style function using the location list and the offsets. If you're starting bad guys at random locations, then you can write a function to generate that list (think: given number of desired bad guys, generate list of that many location vectors). The same goes for velocity.
+If you have lots of objects to manage, then functions can make the setup easier. In all cases, functions will make managing and coordinating the lists easier. For example, if you're starting bad guys at random locations, then you can write a function to generate that list (think: given number of desired bad guys, generate list of that many location rectangles). The same goes for velocity. 
 
-Where things can get tricky is removing objects from the game. This happens if a projectile moves beyond the borders of the screen, if the player destroys a bad guy, when something is collected, etc. If you want to get rid of something whose data is located at index `i` in a structure of arrays design, then you must remove that data from index `i` in all the lists. We did not see this kind of thing in our load data lab.  To manage this you'll first want to collect the index values for any/all objects that need to be removed from the game. For this you should be thinking in terms of a function that takes some or all of your lists and returns a list of indexes for the objects you need to remove. You can then remove those locations from each list. This is a *filter* operation according to index: *given a list of bad guy data and a list of index values to get rid off, keep all the items in the bad guy list that are not located at one of the values in the index values*.
+### Removing Objects From Play
+
+Where things can get tricky is removing objects from the game. This happens if a projectile moves beyond the borders of the screen, if the player destroys a bad guy, when something is collected, etc. If you want to get rid of something whose data is located at index `i` in a structure of arrays design, then you must remove that data from index `i` in all the lists. We did not see this kind of thing in our load data lab.  
+
+To accomplish this you'll first want to collect the index values for any/all objects that need to be removed from the game. For this you should be thinking in terms of a function that takes some or all of your lists and returns a list of indexes for the objects you need to remove. You can then remove those locations from each list. This is a *filter* operation according to index: *given a list of bad guy data and a list of index values to get rid off, keep all the items in the bad guy list that are not located at one of the values in the index values*. This can be tricky, so we'll work out a version of this in-class to help you out. 
 
 
 ## Collisions
@@ -135,7 +158,7 @@ time += sec_passed # total time passed (in sec.)
 time_left = TIME_LIMIT - time  # time left (in sec)
 ```
 
-From here we can set stop conditions on our game based on time passed or time left, whichever you need!
+From here we can set stop conditions on our game based on time passed or time left, whichever you need! Remember, *you can keep track of lots of independent timers by applying this pattern to multiple sets of variables*. For example, if you want objects to appear at random, you might first pick a random wait time, say something between 500 and 2000 milliseconds, then use the above to "count down" the time until spawning the object. All this can happen while you're also tracking timers for the player like time left to play, time played, etc. 
 
 ## Points, Hit-Points, and other Counters.
 
