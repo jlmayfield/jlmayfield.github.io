@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMP152 - Data Structures and Algorithms 
+title: COMP152 - Data Structures and Algorithms - Spring 2025
 permalink: /teaching/COMP152/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMP343 - Artificial Intelligence
+title: COMP343 - Artificial Intelligence - Spring 2025
 permalink: /teaching/COMP343/
 ---
 
