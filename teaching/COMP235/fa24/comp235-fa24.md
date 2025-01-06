@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP 235 - Introduction to Systems Programming - Fall 2024
-permalink: /teaching/COMP235/
+permalink: /teaching/COMP235/fa24/
 ---
 
 ## Important Documents and Links
@@ -36,11 +36,6 @@ permalink: /teaching/COMP235/
 **Final Exam Period: Saturday 12/7, 6:30pm - 9:30pm**
 
 
-
-### Past Offerings
-
-&nbsp;&nbsp;&nbsp;[Fall 2023](/teaching/COMP235/fa23/) <br>
-&nbsp;&nbsp;&nbsp;[Fall 2024](/teaching/COMP235/fa24/) 
 
 
 
