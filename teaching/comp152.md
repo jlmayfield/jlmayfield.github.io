@@ -6,7 +6,9 @@ permalink: /teaching/COMP152/
 
 &nbsp;&nbsp;&nbsp;[Syllabus](/teaching/COMP152/sp25/comp152-syllabus.pdf)<br>
 &nbsp;&nbsp;&nbsp;[Course Competencies](/teaching/COMP152/sp25/comp152-competencies.pdf)<br>
-&nbsp;&nbsp;&nbsp;[Self-Evaluation How To & Meeting Guide](/teaching/ungrading/howto-portfolio)
+&nbsp;&nbsp;&nbsp;[Self-Evaluation How To & Meeting Guide](/teaching/ungrading/howto-portfolio)<br><br>
+
+&nbsp;&nbsp;&nbsp;[RuneStone Textbook/Course](https://runestone.academy/ns/books/published/mc_comp152_fa25/index.html)
 
 
 ## Software 
@@ -19,9 +21,9 @@ permalink: /teaching/COMP152/
 
 | Week | Monday | Wednesday-Class | Wednesday-Lab | Friday |
 | :-- | :-- | :-- | :-- | :-- |
-| 1 (1/21-1/24) | Winter Break | | [Lab 1]() | 1.1--1.6 |
-| 2 (1/27-1/31)| | | [Lab 2]() | *Exam 1* |
-| 3 (2/3-2/7)| 1.13 | | [Lab 3]() | |
+| 1 (1/21-1/24) | Winter Break | | [Lab 1]() | Reading 1 |
+| 2 (1/27-1/31)| Reading 2 | | [Lab 2]() | *Exam 1* |
+| 3 (2/3-2/7)| Reading 3 | | [Lab 3]() | |
 | 4 (2/10-2/14)| | | | |
 | 5 (2/17-2/21)| | | | |
 | 6 (2/24-2/28)| | | | |
