@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP151 - Lab 1 & Homework 1
-permalink: /teaching/COMP152/sp25/labs/lab1
+permalink: /teaching/COMP152/sp25/labs/lab1/
 ---
 
 [Github Classroom Assignment](https://classroom.github.com/a/corI2gbO)
