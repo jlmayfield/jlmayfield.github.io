@@ -22,7 +22,7 @@ permalink: /teaching/COMP152/
 | Week | Monday | Wednesday-Class | Wednesday-Lab | Friday |
 | :-- | :-- | :-- | :-- | :-- |
 | 1 (1/21-1/24) | Winter Break | | [Lab 1](/teaching/COMP152/sp25/labs/lab1/) | Reading 1 |
-| 2 (1/27-1/31)| Reading 2. [Hwk 1](/teaching/COMP152/sp25/labs/lab1/) | | [Lab 2]() | *Exam 1* |
+| 2 (1/27-1/31)| Reading 2. [Hwk 1](/teaching/COMP152/sp25/labs/lab1/) | | [Lab 2](/teaching/COMP152/sp25/labs/lab2/) | *Exam 1* |
 | 3 (2/3-2/7)| Reading 3 | | [Lab 3]() | |
 | 4 (2/10-2/14)| | | | |
 | 5 (2/17-2/21)| | | | |
