@@ -16,8 +16,8 @@ permalink: /teaching/COMP343/
 | 1 (1/21-1/24) | Winter Break |  | | 
 | 2 (1/27-1/31)| [P.Set 1](/teaching/COMP343/sp25/pset1/) | | | 
 | 3 (2/3-2/7)| [P.Set 2](/teaching/COMP343/sp25/pset2/)| | *Exam 1* |
-| 4 (2/10-2/14)| [P.Set 3](/teaching/COMP343/sp25/pset3/) | | [P.Set 4](/teaching/COMP343/sp25/pset4/)  |
-| 5 (2/17-2/21)| |  | |
+| 4 (2/10-2/14)|  | | |
+| 5 (2/17-2/21)| [P.Set 3](/teaching/COMP343/sp25/pset3/) |  | [P.Set 4](/teaching/COMP343/sp25/pset4/) |
 | 6 (2/24-2/28)| |  | |
 | 7 (3/3-3/7) | |  | |
 | 8 (3/10-3/14) | Spring Break | Spring Break | Spring Break |
