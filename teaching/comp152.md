@@ -25,7 +25,7 @@ permalink: /teaching/COMP152/
 | 2 (1/27-1/31)| Reading 2. [Hwk 1](/teaching/COMP152/sp25/labs/lab1/) | | [Lab 2](/teaching/COMP152/sp25/labs/lab2/) | *Exam 1* |
 | 3 (2/3-2/7)| Reading 3 | | [Lab 3](/teaching/COMP152/sp25/labs/lab3/) | |
 | 4 (2/10-2/14)| [Fractions Due](/teaching/COMP152/sp25/labs/lab3/). Reading 4. | | [Lab 4](/teaching/COMP152/sp25/labs/lab4/) | Reading 5. |
-| 5 (2/17-2/21)| Ch 2. Ex 1-5 | | [Lab 5]() | **Ch 2 Exam** |
+| 5 (2/17-2/21)| Ch 2. Ex 1-5 | Ch2 Review | [Lab 5]() | **Ch 2 Exam** |
 | 6 (2/24-2/28)| | | | |
 | 7 (3/3-3/7) | | | | |
 | 8 (3/10-3/14) | Spring Break | Spring Break | Spring Break | Spring Break |
