@@ -18,7 +18,7 @@ permalink: /teaching/COMP343/
 | 3 (2/3-2/7)| [P.Set 2](/teaching/COMP343/sp25/pset2/)| | *Exam 1* |
 | 4 (2/10-2/14)|  | | |
 | 5 (2/17-2/21)| [P.Set 3](/teaching/COMP343/sp25/pset3/) |  | [P.Set 4](/teaching/COMP343/sp25/pset4/) |
-| 6 (2/24-2/28)| |  | |
+| 6 (2/24-2/28)| |  | [Search Agents](/teaching/COMP343/sp25/projects/search/) |
 | 7 (3/3-3/7) | |  | |
 | 8 (3/10-3/14) | Spring Break | Spring Break | Spring Break |
 | 9 (3/17-3/21)|  | | |
