@@ -21,6 +21,6 @@ All exercises can be found [here](https://aimacode.github.io/aima-exercises/sear
 
 ## Missionaries And Cannibals 
 
-We'll be writing a complete missionaries and cannibals problem solver in python (11.2). For this problem set, just focus on the analysis questions (11.1 and 11.3). The solver program will be assigned and submitted via Github Classroom.
+*Later*, we'll be writing a complete missionaries and cannibals problem solver in python (11.2). For now, just focus on the analysis questions (11.1 and 11.3). The solver program will be assigned and submitted via Github Classroom and has it's own assignment page.  The direct link to this problem doesn't work for some reason.  Just scroll down from the link below. 
 
-*   [Ex. 11.1 & 11.3](https://aimacode.github.io/aima-exercises/search-exercises/ex_11/)
+*   [Ex. 11.1 & 11.3](https://aimacode.github.io/aima-exercises/search-exercises/)
