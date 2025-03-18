@@ -29,8 +29,8 @@ permalink: /teaching/COMP152/
 | 6 (2/24-2/28)|**Ch 2 Exam** Reading 6. | Reading 7. | [Lab 6](/teaching/COMP152/sp25/labs/lab6/) | Reading 8. |
 | 7 (3/3-3/7) | | | [Lab 7](/teaching/COMP152/sp25/labs/lab7/) | **Stacks, Queues, & Deques Exam** |
 | 8 (3/10-3/14) | Spring Break | Spring Break | Spring Break | Spring Break |
-| 9 (3/17-3/21)| | | [Start Project 1]() | |
-| 10 (3/24-3/28)| | | *Project Time* | **[Project 1]() Due** |
+| 9 (3/17-3/21)| | | [Start Project 1](/teaching/COMP152/sp25/projects/project1/) | |
+| 10 (3/24-3/28)| | | *Project Time* | **[Project 1](/teaching/COMP152/sp25/projects/project1/) Due** |
 | 11 (3/31-4/4)| | | | |
 | 12 (4/7-4/11)| | | | |
 | 13 (4/14-4/18)| | | | Easter |
