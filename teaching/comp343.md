@@ -22,7 +22,7 @@ permalink: /teaching/COMP343/
 | 7 (3/3-3/7) | [P. Set 5](/teaching/COMP343/sp25/pset5/) |  | *Exam 2* |
 | 8 (3/10-3/14) | Spring Break | Spring Break | Spring Break |
 | 9 (3/17-3/21)| | [Read Nate Silver](/teaching/COMP343/sp25/pset6/) | [P. Set 6](/teaching/COMP343/sp25/pset6/) |
-| 10 (3/24-3/28)| [P. Set 7](/teaching/COMP343/sp25/pset7/) | | |
+| 10 (3/24-3/28)| [P. Set 7](/teaching/COMP343/sp25/pset7/) | [P. Set 8](/teaching/COMP343/sp25/pset8/) | |
 | 11 (3/31-4/4)|  | | |
 | 12 (4/7-4/11)|  | | |
 | 13 (4/14-4/18)|  | | Easter |
