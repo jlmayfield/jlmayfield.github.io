@@ -24,8 +24,8 @@ permalink: /teaching/COMP343/
 | 9 (3/17-3/21)| | [Read Nate Silver](/teaching/COMP343/sp25/pset6/) | [P. Set 6](/teaching/COMP343/sp25/pset6/) |
 | 10 (3/24-3/28)| [P. Set 7](/teaching/COMP343/sp25/pset7/) | [P. Set 8](/teaching/COMP343/sp25/pset8/) | [Begin Tic-Tac-Toe Agents](/teaching/COMP343/tictactoe/) |
 | 11 (3/31-4/4)| | | |
-| 12 (4/7-4/11)| [TTT Study 1 Due](/teaching/COMP343/tictactoe/study1/) | | [TTT Study 2 Due](/teaching/COMP343/tictactoe/study2/) |
-| 13 (4/14-4/18)|  | | Easter |
+| 12 (4/7-4/11)| [TTT Study 1 Due](/teaching/COMP343/tictactoe/study1/) | [P. Set 9](/teaching/COMP343/sp25/pset9/) | [TTT Study 2 Due](/teaching/COMP343/tictactoe/study2/) |
+| 13 (4/14-4/18)|  | [TTT Study 3 Due](/teaching/COMP343/tictactoe/study3/) | Easter |
 | 14 (4/21-4/24)| Easter |  | |
 | 15 (4/28-5/2)| | | | 
 | 16 (5/5-5/9)| | | |  
