@@ -33,7 +33,7 @@ permalink: /teaching/COMP152/
 | 10 (3/24-3/28)| | | *Project Time* | **[Project 1](/teaching/COMP152/sp25/projects/project1/) Due** Reading 9. |
 | 11 (3/31-4/4)| Reading 10. | | [Lab 8](/teaching/COMP152/sp25/labs/lab8/) | **VISITOR. MEET IN CSB309** |
 | 12 (4/7-4/11)| Reading 11 | Reading 12. Reading 13. | [Lab 9](/teaching/COMP152/sp25/labs/lab9/) | |
-| 13 (4/14-4/18)| | | | Easter |
+| 13 (4/14-4/18)| | | [Lab 10](/teaching/COMP152/sp25/labs/lab10/) | Easter |
 | 14 (4/21-4/24)| Easter | | | |
 | 15 (4/28-5/2)| | | | |
 | 16 (5/5-5/9)| | | |  |
