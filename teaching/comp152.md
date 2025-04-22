@@ -34,10 +34,10 @@ permalink: /teaching/COMP152/
 | 11 (3/31-4/4)| Reading 10. | | [Lab 8](/teaching/COMP152/sp25/labs/lab8/) | **VISITOR. MEET IN CSB309** |
 | 12 (4/7-4/11)| Reading 11 | Reading 12. Reading 13. | [Lab 9](/teaching/COMP152/sp25/labs/lab9/) | |
 | 13 (4/14-4/18)| | | [Lab 10](/teaching/COMP152/sp25/labs/lab10/) | Easter |
-| 14 (4/21-4/24)| Easter | | | |
-| 15 (4/28-5/2)| | | | |
-| 16 (5/5-5/9)| | | |  |
-
+| 14 (4/21-4/24)| Easter | | [Huffman Codes Introduction](/teaching/COMP152/sp25/labs/huffman/) | Reading 14 |
+| 15 (4/28-5/2)| Reading 15. **Search & Sort Exam** | Reading 16. | [Huffman Project]() |  |
+| 16 (5/5-5/9)| | | **[Huffman Project Due]()** | *No Class*  |
+|  *Tu 5/13 - 6:30pm* | **Tree Exam** | | | |
 
 **Final Exam Period: Tuesday 5/13, 6:30-9:30pm**
 
