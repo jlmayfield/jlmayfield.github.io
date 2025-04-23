@@ -52,7 +52,7 @@ Notice that we've kept the $\left(b,c\right)$ group together and nested it withi
 
 With only one group left in the collection, we can now turn that singular grouping, $\left(a,\left(b,c\right)\right)$ into a code. This is most easily done by converting the nested pairs into a **binary tree** structure. Each pair corresponds to a *binary* branch and nesting corresponds to adding a new level to the tree.  For our toy example we get the tree shown below. The pairs and levels have been color coded. Notice that all the *paths* from the top of the tree to the bottom end at a symbol from our message. 
 
-<img src="HuffStuff-pairs2tree.png" width="300">
+<img src=" /teaching/COMP152/sp25/labs/HuffStuff-pairs2tree.png" width="300">
 
 We extract the code by first labelling each left branch with a 1 and right branch with a 0. The code for a letter is the the sequence of 1s and 0s found on the path from the top of the tree to that letter as shown in the above image. We've arrived at the following code:
 
