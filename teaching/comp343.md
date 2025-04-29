@@ -28,7 +28,7 @@ permalink: /teaching/COMP343/
 | 13 (4/14-4/18)|  | [TTT Study 3 Due](/teaching/COMP343/tictactoe/study3/) | Easter |
 | 14 (4/21-4/24)| Easter | | |
 | 15 (4/28-5/2)|**Minimax, AB Pruning, MCTS Exam** | **TTT Study 1-3 DUE!** | | 
-| 16 (5/5-5/9)| |**TTT Study 4 Due** | *No Class* |  
+| 16 (5/5-5/9)| |**[TTT Study 4 Due](/teaching/COMP343/tictactoe/study4/)** | *No Class* |  
 | *Tu 5/13, 8am* | **Game Agent Exam** | | |
 
 **Final Exam Period: Tuesday 5/13, 8:00-11:00am**

@@ -24,4 +24,5 @@ The module `agent` provides the basis for building tic-tac-toe agents and contai
 1.  [Study 1: Perfect Agents](/teaching/COMP343/tictactoe/study1/)
 2.  [Study 2: Alpha-Beta Pruning](/teaching/COMP343/tictactoe/study2/)
 3.  [Study 3: Shannon's Type-A Agents](/teaching/COMP343/tictactoe/study3/)
+4.  [Study 4: Reinforcement Learning](/teaching/COMP343/tictactoe/study4/)
 
