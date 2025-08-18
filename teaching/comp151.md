@@ -13,13 +13,13 @@ permalink: /teaching/COMP151/
 
 ## Calendar
 
-The calendar below lists assignments *due* and other notable events.  It will be updated regularly and should be checked regularly. 
+The calendar below lists assignments *due* and other notable events.  It will be updated regularly and should be checked regularly. *Chapter assignments are found and completed on Runestone*.
 
 | Week | Monday | Wednesday | Friday |
 | :-- | :-- | :-- | :-- |
 | 1 (8/19-8/23)|  *No Class*   |     | Ch. 1  | 
-| 2 (8/26-8/30)| Ch 2  | Ch 2. [Lab 1](https://classroom.github.com/a/nntxWkDV)  |  *Ch. 2 Assessment*  | 
-| 3 (9/1-9/5)| *Labor Day* |   | Ch 3.  |     
+| 2 (8/26-8/30)| | Ch. 2, [Lab 1](https://classroom.github.com/a/nntxWkDV)  |  *Ch. 2 Assessment*  | 
+| 3 (9/1-9/5)| *Labor Day* |   |  |     
 | 4 (9/8-9/12)| | | |    
 | 5 (9/15-9/19)| | | |      
 | 6 (9/22-9/26)|  | | |     
