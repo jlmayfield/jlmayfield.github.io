@@ -16,9 +16,9 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | :-- | :-- | :-- | 
 | 1 (8/19-8/23)|  *No Class* |  | 
 | 2 (8/26-8/30)| Ch13,Ch1.0-1.2  | Ch 1. |   
-| 3 (9/1-9/5)| *Hwk 1* |   |
-| 4 (9/8-9/12)| | |     
-| 5 (9/15-9/19)| |  |      
+| 3 (9/1-9/5)| *Hwk 1* | *NO CLASS*  |
+| 4 (9/8-9/12)| *Hwk 2* | *Program1* |     
+| 5 (9/15-9/19)| **Exam (ch1-2)** |  |      
 | 6 (9/22-9/26)|   | |     
 | 7 (9/29-10/3)|   | |      
 | 8 (10/6-10/10)|  | *Fall Break* | 
@@ -39,7 +39,7 @@ Below are the problems for each chapter along with possible programs you might c
 | Chapter | Problems | Program Options | 
 | --: | :-- | :-- | 
 | 1 | 1-1, 1-2, 1-3, 1-5, 1-10, 1-13, 1-16, 1-22 | 1-2 |  
-| 2 | | |
+| 2 | 2-1, 2-3, 2-7, 2-10, 2-14, 2-16, 2-21, 2-23, 2-29, 2-38, 2-41, 2-44, 2-46 | 2-2, 2-3 |
 | 3 | | |
 | 4 | | |
 | 5 | | | 
