@@ -34,7 +34,9 @@ The calendar below lists assignments *due* and other notable events.  It will be
 
 ## Homework and Programming Problems 
 
-Below are the problems for each chapter along with possible programs you might choose to do and present. Homework problems are done an a by-chapter basis, but programs are grouped by course section/topic. 
+Below are the problems for each chapter along with possible programs you might choose to do and present. Homework problems are done an a by-chapter basis, but programs are grouped by course section/topic.  
+
+You do not do all of the programming problems. You'll choose one per section.  All problems should be done on LeetCode and documented in an Jupyter Notebook and added to the [Algorithm Notebooks](https://classroom.github.com/a/XRi-dCqj) assignment. 
 
 | Chapter | Problems | Program Options | 
 | --: | :-- | :-- | 
