@@ -15,9 +15,9 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | Week | Tuesday | Thursday | 
 | :-- | :-- | :-- | 
 | 1 (8/19-8/23)|  *No Class* |  | 
-| 2 (8/26-8/30)| Ch13,Ch1.0-1.2  | Ch 1. |   
-| 3 (9/1-9/5)| *Hwk 1* | *NO CLASS*  |
-| 4 (9/8-9/12)| *Hwk 2* | *Program1* |     
+| 2 (8/26-8/30)| Ch13,Ch1.0-1.2  | Ch 1. Ch2.0-2.3 |   
+| 3 (9/1-9/5)| *Hwk 1*. Ch2.4-2.8 | *NO CLASS*  |
+| 4 (9/8-9/12)| *Hwk 2*. Ch3.0-3.2 | *Program1*. Review. |     
 | 5 (9/15-9/19)| **Exam (ch1-2)** |  |      
 | 6 (9/22-9/26)|   | |     
 | 7 (9/29-10/3)|   | |      
