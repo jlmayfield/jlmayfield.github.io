@@ -20,7 +20,7 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 1 (8/19-8/23)|  *No Class*   |     | Ch. 1  | 
 | 2 (8/26-8/30)| [Lab 1](https://classroom.github.com/a/nntxWkDV) | Ch. 2 |  *Ch. 2 Assessment*  | 
 | 3 (9/1-9/5)| *Labor Day* |   | [Lab 1.5](https://classroom.github.com/a/AMZndCkk)  |     
-| 4 (9/8-9/12)| | | |    
+| 4 (9/8-9/12)| [Lab 2](https://classroom.github.com/a/hxj-sk2t) | | |    
 | 5 (9/15-9/19)| | | |      
 | 6 (9/22-9/26)|  | | |     
 | 7 (9/29-10/3)|  | | |      
