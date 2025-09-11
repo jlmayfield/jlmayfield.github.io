@@ -21,8 +21,8 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 2 (8/26-8/30)| Ch 4.2  | Ch 4.3-4.5   |  [Ch 4 Hwk - pt 1](/teaching/COMP235/fa25/hwk/ch4pt1.pdf)  | 
 | 3 (9/1-9/5)| *Labor Day* |   | Ch 5.0-5.2, [Ch 4 Hwk - pt 2](/teaching/COMP235/fa25/hwk/ch4pt2.pdf)  |     
 | 4 (9/8-9/12)|  | **Ch 4 Exam.** | Ch 5.3+ **Ch5 - Ex. 1,2,3,5,6 from 5.11**  |    
-| 5 (9/15-9/19)|  | | |      
-| 6 (9/22-9/26)|  | | |     
+| 5 (9/15-9/19)|  | Ch 17.0-17.3. Ch1.0-1.1 | Ch 1.2-1.4 |      
+| 6 (9/22-9/26)| Ch 1.5-Ch 1.7 | Ch 2.0 | *Ch 1 Exercises* |     
 | 7 (9/29-10/3)|  | | |      
 | 8 (10/6-10/10)|  | | *Fall Break* | 
 | 9 (10/13-10/17)|  | | | 
