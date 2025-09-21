@@ -64,12 +64,12 @@ Your environment now includes the packages needed to run tests and run the linte
 
 To run tests with a coverage report that includes the line numbers for uncovered code, use the following command template:
 ```
-pytest -vv --cov=FUNCTION1,FUNCTION2,... --cov-report term-missing TESTFILENAME
+pytest -vv --cov=MODULE1,MODULE2,... --cov-report term-missing TESTFILENAME
 ``` 
-Here *FUNCTION1* and *FUNCTION2* are the names of the functions for which you want coverage reports. List as many functions as you need, separated by commas. *TESTFILENAME* is the name of the file containing the tests. Lets say we have tests in `yourtests.py` and the functions you're testing were named `foo` and `bar`. Then you'd run the following command
+Here *MODULE1* and *MODULE2* are the names of the modules, or *.py files* that contain the code for which you want a coverage report. List as many files as you need, separated by commas. *TESTFILENAME* is the name of the file containing the tests. Lets say we have tests in `yourtests.py` and the functions you're testing were in `yourmod.py`. Then you'd run the following command
 
 ```
-pytest -vv --cov=foo,bar --cov-report term-missing yourtests.py
+pytest -vv --cov=yourmod --cov-report term-missing yourtests.py
 ```
 
 If you don't need or want to see a coverage report than you can simply do:
@@ -96,3 +96,16 @@ The key here is to lint your code and not necessarily your tests. So, if my code
 pylint mycode.py
 ```
 
+### Type Checks
+
+To run the type checker `mypy`, use the following:
+
+```
+mypy --strict FILETOCHECK
+```
+
+Again, if your code is in `mycode.py`, then you check that code with,
+
+```
+mypy --strict mycode.py
+```
