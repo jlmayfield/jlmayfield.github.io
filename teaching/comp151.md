@@ -22,9 +22,9 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 3 (9/1-9/5)| *Labor Day* |   | [Lab 1.5](https://classroom.github.com/a/AMZndCkk)  |     
 | 4 (9/8-9/12)| Ch. 3, [Lab 2](https://classroom.github.com/a/hxj-sk2t) |  | **Chapter 2 Exam** |    
 | 5 (9/15-9/19)| Ch 4, pt1, [Lab 3](https://classroom.github.com/a/pWxWRhud) | [Pytest](/teaching/COMP151/docs/pytest/) & [Local Testing](/teaching/COMP151/docs/localdev/) | Ch 4, pt2 |      
-| 6 (9/22-9/26)| *Ch 4 Assessment* [Lab 4 (aka 3-5)](https://classroom.github.com/a/lzbPWtd0)  | | |     
-| 7 (9/29-10/3)|  | | |      
-| 8 (10/6-10/10)|  | | *Fall Break* | 
+| 6 (9/22-9/26)| *Ch 4 Assessment* [Lab 4 (aka 3-5)](https://classroom.github.com/a/lzbPWtd0)  | | [Intro to Pygame](/teaching/comp151/docs/pygame-round1/). Ch 6.1-6.2 |     
+| 7 (9/29-10/3)| [Function Practice Lab](), Ch. 5, pt1  | **Chapter 4 Exam** | Ch. 5 pt2 |      
+| 8 (10/6-10/10)| *Start Game 0* | | *Fall Break* | 
 | 9 (10/13-10/17)|  | | | 
 | 10 (10/20-10/24)|  | | |
 | 11 (10/27-10/31)|  | | | 
