@@ -19,10 +19,10 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 3 (9/1-9/5)| *Hwk 1*. Ch2.4-2.8 | *NO CLASS*  |
 | 4 (9/8-9/12)| *Hwk 2*. | *Program1*. Review. |     
 | 5 (9/15-9/19)| Ch3.0-3.2 | **Exam (ch1-2)**  |      
-| 6 (9/22-9/26)|   | |     
-| 7 (9/29-10/3)|   | |      
-| 8 (10/6-10/10)|  | *Fall Break* | 
-| 9 (10/13-10/17)|  | | 
+| 6 (9/22-9/26)|  Ch 3.3-3.4 | Ch3.5-3.7, Ch 4.1-4.2 |     
+| 7 (9/29-10/3)| *Ch 3 Hwk Due*. Ch 4.3, 4.5| 4.6-4.7 |      
+| 8 (10/6-10/10)| *Ch 4 Hwk Due*, *Program 2*  | *Fall Break* | 
+| 9 (10/13-10/17)|  | **Exam (ch 3-4)** | 
 | 10 (10/20-10/24)|  | |
 | 11 (10/27-10/31)|   | | 
 | 12 (11/3-11/7)|    |     | 
@@ -36,7 +36,7 @@ The calendar below lists assignments *due* and other notable events.  It will be
 
 Below are the problems for each chapter along with possible programs you might choose to do and present. Homework problems are done an a by-chapter basis, but programs are grouped by course section/topic.  
 
-You do not do all of the programming problems. You'll choose one per section.  All problems should be done on LeetCode and documented in an Jupyter Notebook and added to the [Algorithm Notebooks](https://classroom.github.com/a/XRi-dCqj) assignment. 
+You do not do all of the programming problems. You'll choose one per section.  All problems should be done on LeetCode and documented in an Jupyter Notebook and added to the [Algorithm Notebooks](https://classroom.github.com/a/XRi-dCqj) assignment.,
 
 | Chapter | Problems | Program Options | 
 | --: | :-- | :-- | 
