@@ -133,28 +133,27 @@ The last block of code is where all the action is happening. It's the main *game
 
 Let's look at the whole block then break it down into parts.
 ```python
-# GAME LOOP GO!
-    while True:
-        # close game when x in window is hit
-        for event in pygame.event.get():
-            if event.type == pygame.QUIT: # pylint: disable=E1101
-                pygame.quit() # pylint: disable=E1101
-                sys.exit()
+while True:
+    # close game when x in window is hit
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT: # pylint: disable=E1101
+            pygame.quit() # pylint: disable=E1101
+            sys.exit()
 
-        # UPDATE GAME VARIABLES
-        #  time-based game clock update
-        curr_fps = tick_fps(fps_clock)
+    # UPDATE GAME VARIABLES
+    #  time-based game clock update
+    curr_fps = tick_fps(fps_clock)
 
-        # DRAW THE SCENE ACCORDING TO GAME STATE VARIABLES
-        #  draw in back to front order
-        draw_bg(display_surf,bg_0) # background
-        draw_pc(display_surf,sheet,sheet_x,sheet_y) # player
-        draw_fps(display_surf,curr_fps) # FPS clock
-        pygame.display.update()#always do last to force screen refresh
+    # DRAW THE SCENE ACCORDING TO GAME STATE VARIABLES
+    #  draw in back to front order
+    draw_bg(display_surf,bg_0) # background
+    draw_pc(display_surf,sheet,sheet_x,sheet_y) # player
+    draw_fps(display_surf,curr_fps) # FPS clock
+    pygame.display.update()#always do last to force screen refresh
 
-        # fix clock to FPS to end the loop
-        fps_clock.tick(FPS)
-        # END GAME LOOP
+    # fix clock to FPS to end the loop
+    fps_clock.tick(FPS)
+    # END GAME LOOP
 ```
 
 On the first line of code we see `while True:`. This is the line that causes the indefinite repetition. The `while` keyword signifies the start of a loop statement. Such statements are used to make code repeat. Specifically, *any **indented** code on the lines below this line will be repeat*. When you add code to this loop it must be indented to match the `for` on the second line.
