@@ -22,8 +22,8 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 6 (9/22-9/26)|  Ch 3.3-3.4 | Ch3.5-3.7, Ch 4.1-4.2 |
 | 7 (9/29-10/3)| Ch 4.3, 4.5| *Ch 3 Hwk Due* 4.6-4.7 |
 | 8 (10/6-10/10)| *Program 2* *Ch 4 Hwk Due (before you leave)*  | *Fall Break* |
-| 9 (10/13-10/17)|  | **Exam (ch 3-4)** |
-| 10 (10/20-10/24)|  | |
+| 9 (10/13-10/17)| *Class 11-11:30* |  |
+| 10 (10/20-10/24)| **Exam (ch 3-4)** | |
 | 11 (10/27-10/31)|   | |
 | 12 (11/3-11/7)|    |     |
 | 13 (11/10-11/14)|  | |
