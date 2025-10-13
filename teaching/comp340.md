@@ -25,7 +25,7 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 9 (10/13-10/17)| *Class 11-11:30* |  |
 | 10 (10/20-10/24)| **Exam (ch 3-4)** | |
 | 11 (10/27-10/31)|   | |
-| 12 (11/3-11/7)|    |     |
+| 12 (11/3-11/7)| **No Class**   |     |
 | 13 (11/10-11/14)|  | |
 | 14 (11/17-11/21)|  | |
 | 15 (11/24-11/28) | | *Thanksgiving* |
