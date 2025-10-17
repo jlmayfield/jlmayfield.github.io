@@ -26,7 +26,7 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 7 (9/29-10/3)| [Function Practice Lab](https://classroom.github.com/a/G0rLveQh), Ch. 5, pt1  | *NO CLASS* **(Online) Chapter 4 Exam** | Ch. 5 pt2 |
 | 8 (10/6-10/10)| [*Start Game 0*](https://classroom.github.com/a/GLHJZbyB) | | *Fall Break* |
 | 9 (10/13-10/17)|  | | |
-| 10 (10/20-10/24)|  | | |
+| 10 (10/20-10/24)|[Lab 5](https://classroom.github.com/a/uoX8ZCAD)  | | |
 | 11 (10/27-10/31)|  | | |
 | 12 (11/3-11/7)| **No Class. No Lab**  |  |     |
 | 13 (11/10-11/14)|  | | |
