@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interactivity and Pygame Events
-permalink: /teaching/comp151/docs/pygame-events
+permalink: /teaching/comp151/docs/pygame-events/
 ---
 
 

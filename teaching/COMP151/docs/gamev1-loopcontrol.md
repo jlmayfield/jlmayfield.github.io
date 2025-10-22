@@ -1,7 +1,7 @@
 ---
 layout: page
 title: From *Loop Forever* to *Loop Until*
-permalink: /teaching/comp151/docs/gamev1-loopcontrol
+permalink: /teaching/comp151/docs/gamev1-loopcontrol/
 ---
 
 Thus far, we've relied on the following game loop:
