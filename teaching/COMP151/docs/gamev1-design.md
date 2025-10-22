@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Game Design and Player Motion Requirements
-permalink: /teaching/comp151/docs/gamev1-design
+permalink: /teaching/comp151/docs/gamev1-design/
 ---
 
 
