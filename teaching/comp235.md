@@ -25,10 +25,10 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 6 (9/22-9/26)| Ch 1.5-Ch 1.7 | Ch 2.0 | *Ch 1 Exercises*. Ch 2.1-2.3 |
 | 7 (9/29-10/3)| Ch 2.4-2.6 | *NO CLASS* [C Hwk 1 Due](https://classroom.github.com/a/M1cjUrHO) | Ch. 2.8+ |
 | 8 (10/6-10/10)| **Ch 1 Exam** | | *Fall Break* |
-| 9 (10/13-10/17)|  |  | [C Project Due](https://classroom.github.com/a/kfqT3Jdn) |
-| 10 (10/20-10/24)|  | | |
-| 11 (10/27-10/31)|  | | |
-| 12 (11/3-11/7)| **No Class**  |  |     |
+| 9 (10/13-10/17)|  | Ch 6.  | [C Project Due](https://classroom.github.com/a/kfqT3Jdn) |
+| 10 (10/20-10/24)| Ch 7.1-7.3 | Ch 7.4 | Ch 7.4 |
+| 11 (10/27-10/31)| *Complete Ch 7 Exercises*, 7.5 | 7.8 | 7.9 |
+| 12 (11/3-11/7)| **No Class**  | **ASM Study Project**  | **ASM Study Project**     |
 | 13 (11/10-11/14)|  | | |
 | 14 (11/17-11/21)|  | | |
 | 15 (11/24-11/28) | | *Thanksgiving* | *Thanksgiving* |
