@@ -27,7 +27,7 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 8 (10/6-10/10)| [*Start Game 0*](https://classroom.github.com/a/GLHJZbyB) | | *Fall Break* |
 | 9 (10/13-10/17)|  | | |
 | 10 (10/20-10/24)|[Lab 5](https://classroom.github.com/a/uoX8ZCAD)  | | [Pygame Events](/teaching/comp151/docs/pygame-events/) |
-| 11 (10/27-10/31)| [Loop Control for Pygame](/teaching/comp151/docs/gamev1-loopcontrol/), [Lab - Game 0.5]() | **Ch 5 Exam.** | [Game Movement Design](/teaching/comp151/docs/gamev1-design/) |
+| 11 (10/27-10/31)| [Loop Control for Pygame](/teaching/comp151/docs/gamev1-loopcontrol/), [Lab - Game 0.5](/teaching/comp151/docs/game0_5/) | **Ch 5 Exam.** | [Game Movement Design](/teaching/comp151/docs/gamev1-design/), [Basic Game Movement](/teaching/comp151/docs/gamev1-implementation-basic/) |
 | 12 (11/3-11/7)| **No Class. No Lab**  |  |     |
 | 13 (11/10-11/14)|  | | |
 | 14 (11/17-11/21)|  | | |
