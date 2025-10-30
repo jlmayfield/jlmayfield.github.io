@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Game 0.5 - Animation Refactoring
-permalink: /teaching/comp151/docs/game0_5/
+permalink: /teaching/comp151/docs/gamev0_5/
 ---
 
 To prepare for a game with user interactions, we first want to do a bit of refactoring of our animation as well as add a couple of small features.
