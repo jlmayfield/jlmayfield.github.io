@@ -28,8 +28,8 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 9 (10/13-10/17)|  | Ch 6.  | [C Project Due](https://classroom.github.com/a/kfqT3Jdn) |
 | 10 (10/20-10/24)| Ch 7.1-7.3 | Ch 7.4 | Ch 7.4, [Goto Logic Notes](/teaching/COMP235/docs/condloopASM.pdf) |
 | 11 (10/27-10/31)| *Complete Ch 7 Exercises*, 7.5 | 7.8 | 7.9 |
-| 12 (11/3-11/7)| **No Class**  | **ASM Study Project**  | **ASM Study Project**     |
-| 13 (11/10-11/14)|  | | |
+| 12 (11/3-11/7)| **No Class**  | [ASM Study Project](/teaching/COMP235/hwk/asmstudy-all.pdf)  | [ASM Study Project](/teaching/COMP235/hwk/asmstudy-all.pdf)     |
+| 13 (11/10-11/14)| **ASM Study Due** | | |
 | 14 (11/17-11/21)|  | | |
 | 15 (11/24-11/28) | | *Thanksgiving* | *Thanksgiving* |
 | 16 (12/1-12/5)|  | | |
