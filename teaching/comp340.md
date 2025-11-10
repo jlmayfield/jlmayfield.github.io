@@ -26,8 +26,8 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 10 (10/20-10/24)| **Exam (ch 3-4)** | Ch 5.1-5.4 |
 | 11 (10/27-10/31)| Ch 5.5-5.6  | *Hwk 5 Due*, *Program 3* |
 | 12 (11/3-11/7)| **No Class**  |  Ch 7  |
-| 13 (11/10-11/14)| **Exam (ch5)** | |
-| 14 (11/17-11/21)|  | |
+| 13 (11/10-11/14)| Ch 7. MAXCUT. **Takehome - Exam (ch5) - Due by Friday**  | **No Class** |
+| 14 (11/17-11/21)| *Ch 7 hwk Due* | |
 | 15 (11/24-11/28) | | *Thanksgiving* |
 | 16 (12/1-12/5)|  | |
 | **12/11** | **Exam -- 8am-11am** | |
@@ -45,7 +45,7 @@ You do not do all of the programming problems. You'll choose one per section.  A
 | 3 | 3-3, 3-4, 3-6, 3-9, 3-12, 3-15, 3-25, 3-27 | 3-1 |
 | 4 | 4-1, 4-4, ,4-9, 4-14, 4-17, 4-21, 4-29, 4-33, 4-42 | 4-4 |
 | 5 | 5-2, 5-6, 5-7, 5-8, 5-11, 5-14 | 5-2 |
-| 7 | | |
+| 7 | 7-1, 7-6, 7-7, 7-9 | None |
 | 8 | | |
 | 10 | | |
 
