@@ -30,9 +30,9 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 11 (10/27-10/31)| [Loop Control for Pygame](/teaching/comp151/docs/gamev1-loopcontrol/), [Lab - Game 0.5](/teaching/comp151/docs/gamev0_5/) | **Ch 5 Exam.** | [Game Movement Design](/teaching/comp151/docs/gamev1-design/), [Basic Game Movement](/teaching/comp151/docs/gamev1-implementation-basic/) |
 | 12 (11/3-11/7)| **No Class. No Lab**  | [Time and Side-Scroller Movement](/teaching/comp151/docs/gamev1-sidescroller/)  |     |
 | 13 (11/10-11/14)| [Work on Game V1](/teaching/comp151/docs/gamev1/)  | |  [**Game V1 Due**](/teaching/comp151/docs/gamev1/) |
-| 14 (11/17-11/21)| [Lab 6](https://classroom.github.com/a/mCMBCxo1) | | |
-| 15 (11/24-11/28) | | *Thanksgiving* | *Thanksgiving* |
-| 16 (12/1-12/5)|  | | |
+| 14 (11/17-11/21)| [Lab 6](https://classroom.github.com/a/mCMBCxo1) | Runestone Ch6.3+. | Runestone Ch 7. |
+| 15 (11/24-11/28) | Runestone Ch 8.1-8.6. | *Thanksgiving* | *Thanksgiving* |
+| 16 (12/1-12/5)| Runestone Ch 9, Part 1 & 2 | | |
 | **12/8** | **Exam -- 6:30pm-9:30pm**   | | |
 
 <br><br><br>
