@@ -27,8 +27,8 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 11 (10/27-10/31)| Ch 5.5-5.6  | *Hwk 5 Due*, *Program 3* |
 | 12 (11/3-11/7)| **No Class**  |  Ch 7  |
 | 13 (11/10-11/14)| Ch 7. MAXCUT. **Takehome - Exam (ch5) - Due by Friday**  | **No Class** |
-| 14 (11/17-11/21)| *Ch 7 hwk Due* | |
-| 15 (11/24-11/28) | | *Thanksgiving* |
+| 14 (11/17-11/21)| *Ch 7 hwk Due* [Start MAXCUT work](https://classroom.github.com/a/jTWG_Pd7) | |
+| 15 (11/24-11/28) | *MAXCUT Part 1 Due* | *Thanksgiving* |
 | 16 (12/1-12/5)|  | |
 | **12/11** | **Exam -- 8am-11am** | |
 
