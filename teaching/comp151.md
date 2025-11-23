@@ -31,8 +31,8 @@ The calendar below lists assignments *due* and other notable events.  It will be
 | 12 (11/3-11/7)| **No Class. No Lab**  | [Time and Side-Scroller Movement](/teaching/comp151/docs/gamev1-sidescroller/)  |     |
 | 13 (11/10-11/14)| [Work on Game V1](/teaching/comp151/docs/gamev1/)  | |  [**Game V1 Due**](/teaching/comp151/docs/gamev1/) |
 | 14 (11/17-11/21)| [Lab 6](https://classroom.github.com/a/mCMBCxo1) | Runestone Ch6.3+. | Runestone Ch 7. |
-| 15 (11/24-11/28) | Runestone Ch 8.1-8.6. | *Thanksgiving* | *Thanksgiving* |
-| 16 (12/1-12/5)| Runestone Ch 9, Part 1 & 2 | | |
+| 15 (11/24-11/28) | Runestone Ch 8.1-8.6. [Start Game 2](/teaching/comp151/docs/gamev2/) | *Thanksgiving* | *Thanksgiving* |
+| 16 (12/1-12/5)| Runestone Ch 9, Part 1 & 2. *Lab time on Game 2* | | **GAME 2 DUE** |
 | **12/8** | **Exam -- 6:30pm-9:30pm**   | | |
 
 <br><br><br>
