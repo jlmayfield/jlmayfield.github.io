@@ -1,10 +1,43 @@
 ---
 layout: page
-title: COMP152 - Data Structures and Algorithms 
+title: COMP152 - Data Structures and Algorithms - Spring 2026
 permalink: /teaching/COMP152/
 ---
 
+&nbsp;&nbsp;&nbsp;[Syllabus](/teaching/COMP152/sp26/comp152-syllabus.pdf)<br>
+&nbsp;&nbsp;&nbsp;[Course Competencies](/teaching/COMP152/sp26/comp152-competencies.pdf)<br>
+&nbsp;&nbsp;&nbsp;[Self-Evaluation How To & Meeting Guide](/teaching/ungrading/howto-portfolio)<br><br>
 
+&nbsp;&nbsp;&nbsp;[RuneStone Textbook/Course](https://runestone.academy/ns/books/published/mc_comp152_sp26/pythonds-3.html)
+
+
+## Software
+
+&nbsp;&nbsp;&nbsp;[Python](https://www.python.org/downloads/)<br>
+&nbsp;&nbsp;&nbsp;[VS Code](https://code.visualstudio.com/download)<br>
+&nbsp;&nbsp;&nbsp;[Git](https://git-scm.com/downloads)<br>
+
+## Calendar
+
+| Week | Monday | Wednesday-Class | Wednesday-Lab | Friday |
+| :-- | :-- | :-- | :-- | :-- |
+| 1 (1/19-1/23) | **No Class** | | [Lab 1]() | |
+| 2 (1/26-1/30)| | | | |
+| 3 (2/2-2/6)| | | | |
+| 4 (2/9-2/13)| | | | |
+| 5 (2/16-2/20)| | | | |
+| 6 (2/23-2/27)| | | | |
+| 7 (3/2-3/6) | | | | |
+| 8 (3/9-3/13) | | | | |
+| 9 (3/16-3/20)| | | | |
+| 10 (3/23-3/27)| | | | |
+| 11 (3/30-4/3)| | | | |
+| 12 (4/6-4/10)| | | | |
+| 13 (4/13-4/17)| | | | |
+| 14 (4/20-4/24)| | | | |
+| 15 (4/27-5/1) | | | | |
+| 16 (5/4-5/8)| | | | |
+|  *Tu 5/12 - 6:30pm* | | | | |
 
 #### Past Offerings
 
