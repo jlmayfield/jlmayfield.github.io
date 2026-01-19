@@ -18,7 +18,7 @@ permalink: /teaching/COMP337/
 | :-- | :-- | :-- | :-- |
 | 1 (1/19-1/23) | *No Class* | | |
 | 2 (1/26-1/30)| | | [Wireshark 1](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_Intro_v9.0.pdf) |
-| 3 (2/2-2/6)| [Problem Set 1]() | | *Exam 1* |
+| 3 (2/2-2/6)| [Problem Set 1](/teaching/COMP337/sp26/psets/pset1) | | *Exam 1* |
 | 4 (2/9-2/13)| | | |
 | 5 (2/16-2/20)| | | |
 | 6 (2/23-2/27)| | | |

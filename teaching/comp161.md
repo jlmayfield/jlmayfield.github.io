@@ -12,6 +12,6 @@ Python-based introductory sequence.
 
 #### Past Offerings
 
-[Spring 2019](/teaching/COMP161/sp19/)  
-[Spring 2018](/teaching/COMP161/sp18/)  
-[Spring 2017](/teaching/COMP161/sp17/)
+[Spring 2017](/teaching/COMP161/sp17/) <br>
+[Spring 2018](/teaching/COMP161/sp18/) <br>
+[Spring 2019](/teaching/COMP161/sp19/) <br>
