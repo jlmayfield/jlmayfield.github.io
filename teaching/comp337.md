@@ -33,6 +33,7 @@ permalink: /teaching/COMP337/
 | 14 (4/27-5/1) | | | |
 | 15 (5/4-5/8)| | | *Finals*|
 |  (5/11-5/15) | **EXAM 6:30 pm**| *Finals* | *Finals* |
+
 #### Past Offerings
 
 [Spring 2018](/teaching/COMP337/sp18/)<br>
