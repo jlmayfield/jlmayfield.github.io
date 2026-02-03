@@ -18,8 +18,8 @@ permalink: /teaching/COMP337/
 | :-- | :-- | :-- | :-- |
 | 1 (1/19-1/23) | *No Class* | | |
 | 2 (1/26-1/30)| | | [Wireshark 1](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_Intro_v9.0.pdf) |
-| 3 (2/2-2/6)| [Problem Set 1](/teaching/COMP337/sp26/psets/pset1) | | *Exam 1* |
-| 4 (2/9-2/13)| | |[Wireshark 2 (HTTP)](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_HTTP_v9.0.pdf) & [Wireshark 3 (DNS)](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_DNS_v9.pdf) |
+| 3 (2/2-2/6)| [Problem Set 1](/teaching/COMP337/sp26/psets/pset1) | | |
+| 4 (2/9-2/13)| **Exam 1**  | |[Wireshark 2 (HTTP)](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_HTTP_v9.0.pdf) & [Wireshark 3 (DNS)](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_DNS_v9.pdf) |
 | 5 (2/16-2/20)|[Problem Set 2](/teaching/COMP337/sp26/psets/pset2) | | Socket Program 1 & 2 |
 | 6 (2/23-2/27)| | | |
 | 7 (3/2-3/6) | | | |
