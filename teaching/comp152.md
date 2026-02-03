@@ -23,7 +23,7 @@ permalink: /teaching/COMP152/
 | :-- | :-- | :-- | :-- | :-- |
 | 1 (1/19-1/23) | **No Class** | | [Lab 1](https://classroom.github.com/a/ku9XJ1Xf) |Reading 1 |
 | 2 (1/26-1/30)| Reading 2. | | [Lab 2](https://classroom.github.com/a/S-2NIdNt) | *Python Review Exam* |
-| 3 (2/2-2/6)| | Reading 3. | | |
+| 3 (2/2-2/6)| | Reading 3. | [Lab 3](https://classroom.github.com/a/seCSkAe-) | |
 | 4 (2/9-2/13)| | | | |
 | 5 (2/16-2/20)| | | | |
 | 6 (2/23-2/27)| | | | |
