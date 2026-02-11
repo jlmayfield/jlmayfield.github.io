@@ -25,8 +25,8 @@ permalink: /teaching/COMP152/
 | 2 (1/26-1/30)| Reading 2. | | [Lab 2](https://classroom.github.com/a/S-2NIdNt) | *Python Review Exam* |
 | 3 (2/2-2/6)| | Reading 3. | [Python Overloads Chart](/teaching/COMP152/sp26/docs/pyoverloads-OOP.pdf)  [Lab 3](https://classroom.github.com/a/seCSkAe-) | |
 | 4 (2/9-2/13)|  | | [Start OO-Refactor Project](https://classroom.github.com/a/dEIbqEbn) | |
-| 5 (2/16-2/20)| | *OO Project Due* | **No In-Person Lab** | **No Class** |
-| 6 (2/23-2/27)| | | | |
+| 5 (2/16-2/20)| | | **No In-Person Lab** | **No Class** |
+| 6 (2/23-2/27)| | *OO Project Due*  | | |
 | 7 (3/2-3/6) | | | | |
 |  (3/9-3/13) |**SPRING BREAK** | **SPRING BREAK** | **SPRING BREAK**| **SPRING BREAK** |
 | 8 (3/16-3/20)| | | | |
