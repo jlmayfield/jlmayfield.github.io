@@ -21,7 +21,7 @@ permalink: /teaching/COMP337/
 | 3 (2/2-2/6)| [Problem Set 1](/teaching/COMP337/sp26/psets/pset1) | | |
 | 4 (2/9-2/13)| **Exam 1**  | | |
 | 5 (2/16-2/20)| |[Problem Set 2](/teaching/COMP337/sp26/psets/pset2), [Wireshark 2 (HTTP)](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_HTTP_v9.0.pdf) & [Wireshark 3 (DNS)](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_DNS_v9.pdf) | **No Class** |
-| 6 (2/23-2/27)| | | |
+| 6 (2/23-2/27)| | | [Application and Socket Programs Due](https://classroom.github.com/a/Nu7zv1Ek) |
 | 7 (3/2-3/6) | | | |
 | (3/9-3/13) | **SPRING BREAK** | **SPRING BREAK** | **SPRING BREAK** |
 | 8 (3/16-3/20)| | | |
