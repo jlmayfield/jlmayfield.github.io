@@ -25,7 +25,7 @@ permalink: /teaching/COMP337/
 | 7 (3/2-3/6) | [Problem Set 3](/teaching/COMP337/sp26/psets/pset3) | | **Exam Ch 3.1-3.3**  |
 | (3/9-3/13) | **SPRING BREAK** | **SPRING BREAK** | **SPRING BREAK** |
 | 8 (3/16-3/20)| | | |
-| 9 (3/23-3/27)| | | |
+| 9 (3/23-3/27)| [Problem Set 4](/teaching/COMP337/sp26/psets/pset4) | | |
 | 10 (3/30-4/3)| | | **EASTER BREAK** |
 | 11 (4/6-4/10)| **EASTER BREAK** | | |
 | 12 (4/13-4/17)| | | |
