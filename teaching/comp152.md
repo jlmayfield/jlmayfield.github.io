@@ -29,7 +29,7 @@ permalink: /teaching/COMP152/
 | 6 (2/23-2/27)| | *OO Project Due*  | [Lab 4](https://classroom.github.com/a/V6KaJrm1) | |
 | 7 (3/2-3/6) | Reading 4 & 5. | | *Exam Practice Problems* | **Ch 2 Exam** |
 |  (3/9-3/13) |**SPRING BREAK** | **SPRING BREAK** | **SPRING BREAK**| **SPRING BREAK** |
-| 8 (3/16-3/20)| | | | |
+| 8 (3/16-3/20)| | Reading 6 | [Lab 5](https://classroom.github.com/a/mI6KqXom) | Reading 7 |
 | 9 (3/23-3/27)| | | | |
 | 10 (3/30-4/3)| | | | **EASTER BREAK** |
 | 11 (4/6-4/10)| **EASTER BREAK** | | | |
