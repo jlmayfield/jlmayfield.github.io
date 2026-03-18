@@ -30,8 +30,8 @@ permalink: /teaching/COMP152/
 | 7 (3/2-3/6) | Reading 4 & 5. | | *Exam Practice Problems* | **Ch 2 Exam** |
 |  (3/9-3/13) |**SPRING BREAK** | **SPRING BREAK** | **SPRING BREAK**| **SPRING BREAK** |
 | 8 (3/16-3/20)| | Reading 6 | [Lab 5](https://classroom.github.com/a/mI6KqXom) | Reading 7 |
-| 9 (3/23-3/27)| | | | |
-| 10 (3/30-4/3)| | | | **EASTER BREAK** |
+| 9 (3/23-3/27)| Reading 8 | Reading 9 | [Lab 6]() | Reading 10|
+| 10 (3/30-4/3)| | | **Exam Ch 4-5** | **EASTER BREAK** |
 | 11 (4/6-4/10)| **EASTER BREAK** | | | |
 | 12 (4/13-4/17)| | | |  |
 | 13 (4/20-4/24)|  | | | |
