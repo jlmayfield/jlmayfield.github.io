@@ -29,7 +29,7 @@ permalink: /teaching/COMP337/
 | 10 (3/30-4/3)|  | **Ch3 Exam 2** | **EASTER BREAK** |
 | 11 (4/6-4/10)| **EASTER BREAK** | | [Wireshark 5 (IP)](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_IP_v9.pdf) |
 | 12 (4/13-4/17)| [Problem Set 5](/teaching/COMP337/sp26/psets/pset5) | | |
-| 13 (4/20-4/24)| | | |
+| 13 (4/20-4/24)| | [Problem Set 6](/teaching/COMP337/sp26/psets/pset6) | [Wireshark 6 (ICMP)](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_ICMP_v8.0.pdf) |
 | 14 (4/27-5/1) | | | |
 | 15 (5/4-5/8)| | | *Finals*|
 |  (5/11-5/15) | **EXAM 6:30 pm**| *Finals* | *Finals* |
