@@ -33,8 +33,8 @@ permalink: /teaching/COMP152/
 | 9 (3/23-3/27)| Reading 8 | Reading 9 | [Lab 6](https://classroom.github.com/a/yS-xbGA_) | Reading 10 [Search & Sort Code](https://classroom.github.com/a/dWRJLVXe)|
 | 10 (3/30-4/3)| | | **Exam Ch 4-5** | **EASTER BREAK** |
 | 11 (4/6-4/10)| **EASTER BREAK** | | [Lab 7](https://classroom.github.com/a/J3JRCN5I) | Reading 11 |
-| 12 (4/13-4/17)| Reading 12 | | [Lab 8](https://classroom.github.com/a/UpcajWSA) |  |
-| 13 (4/20-4/24)|  | | | |
+| 12 (4/13-4/17)| Reading 12 | | [Lab 8](https://classroom.github.com/a/UpcajWSA) | Reading 13 |
+| 13 (4/20-4/24)| Reading 14-15 | | | Reading 16 |
 | 14 (4/27-5/1) | | | | |
 | 15 (5/4-5/8)| | | | **EXAM 6:30PM** |
 |  (5/11-5/15) | *Finals* | *Finals | *Finals* | *Finals* |
