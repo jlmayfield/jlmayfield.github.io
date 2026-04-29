@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COMP 337 - Problem Set 5
+title: COMP 337 - Problem Set 6
 permalink: /teaching/COMP337/sp24/psets/pset6
 ---
 

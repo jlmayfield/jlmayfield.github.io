@@ -31,7 +31,7 @@ permalink: /teaching/COMP337/
 | 12 (4/13-4/17)| [Problem Set 5](/teaching/COMP337/sp26/psets/pset5) | | |
 | 13 (4/20-4/24)| | [Problem Set 6](/teaching/COMP337/sp26/psets/pset6) | [Wireshark 6 (ICMP)](https://www-net.cs.umass.edu/wireshark-labs/Wireshark_ICMP_v8.0.pdf) |
 | 14 (4/27-5/1) | | | **Ch 4-5 Exam**|
-| 15 (5/4-5/8)| | | *Finals*|
+| 15 (5/4-5/8)| [Problem Set 7](/teaching/COMP337/sp26/psets/pset7) | | *Finals*|
 |  (5/11-5/15) | **EXAM 6:30 pm**| *Finals* | *Finals* |
 
 #### Past Offerings
