@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP 337 - Problem Set 6
-permalink: /teaching/COMP337/sp26/psets/pset6
+permalink: /teaching/COMP337/sp26/psets/pset7
 ---
 
 Read the following:
