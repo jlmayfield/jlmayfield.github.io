@@ -6,7 +6,9 @@ permalink: /teaching/
 
  The links below provide access to the lecture notes and other course resources for the classes I'm currently teaching and have recently taught. For a complete list of courses I've taught see my [CV](/cv/).
 
+[COMP141 - Introduction to Computing](/teaching/COMP141)<br>
 [COMP151 - Introduction to Programming](/teaching/COMP151)<br>
+[COMP161 - Programming II](/teaching/COMP161)<br>
 [COMP152 - Data Structures and Algorithms](/teaching/COMP152)<br>
 [COMP235 - Introduction to Systems](/teaching/COMP235)<br>
 [COMP240 - Computer Applications](/teaching/COMP240)<br>
