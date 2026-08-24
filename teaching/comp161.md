@@ -4,4 +4,16 @@ title: COMP161 - Programming II - Fall 2026
 permalink: /teaching/COMP161/
 ---
 
-# COMING SOON
+&nbsp;&nbsp;&nbsp; [Syllabus](/teaching/COMP161/fa26/comp161-syllabus.pdf)
+&nbsp;&nbsp;&nbsp; [Classroom 50 Site](https://classroom50.org/monmouth-college-cs/comp161-fa26/)
+&nbsp;&nbsp;&nbsp; [Text: Foundations of Python Programming](https://runestone.academy/ns/books/published/comp161_fa26/)
+
+
+
+
+### Calendar
+
+| Week | Monday | Wednesday (Class) | Wednesday (Lab) | Friday |
+| :-- | :-- | :-- | :-- | :--- |
+| 1 (8/24-8/28)|  *No Class*   | Intro   |  [Lab 1](https://classroom50.org/monmouth-college-cs/comp161-fa26/)  |  Lab 1 Debrief  |
+| 2 (8/31-9/4) |  |  |  |
