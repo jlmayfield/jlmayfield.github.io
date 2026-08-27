@@ -14,4 +14,5 @@ permalink: /teaching/COMP161/
 | Week | Monday | Wednesday (Class) | Wednesday (Lab) | Friday |
 | :-- | :-- | :-- | :-- | :--- |
 | 1 (8/24-8/28)|  *No Class*   | Intro   |  [Lab 1](https://classroom50.org/monmouth-college-cs/comp161-fa26/)  |  Lab 1 Debrief  |
-| 2 (8/31-9/4) |  |  |  |
+| 2 (8/31-9/4) | RS: Iteration Review | RS: Iteration Again  | Lab 2  |   |
+| 3 (9/5-9/9) |  |  |  |   |
