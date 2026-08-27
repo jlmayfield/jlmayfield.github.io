@@ -12,5 +12,6 @@ permalink: /teaching/COMP141/
 
 | Week | Monday (Class) | Monday (Lab) | Wednesday | Friday |
 | :-- | :-- | :-- | :-- | :--- |
-| 1 (8/24-8/28)|  *No Class*   | *No Lab*    |  Intro  |  Networks  |
+| 1 (8/24-8/28)|  *No Class*   | *No Lab*    |  Intro  |  [Networks](/teaching/COMP141/LectureNotes/01_networks_where_am_i/)  |
 | 2 (8/31-9/4) |  |  |  |
+| 3 (9/5-9/9) |  |  |  |  |
