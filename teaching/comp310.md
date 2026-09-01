@@ -13,8 +13,8 @@ permalink: /teaching/COMP310/
 | Week | Tuesday | Thursday
 | :-- | :-- | :-- |
 | 1 (8/24-8/28)|  *No Class*   | Intro   |
-| 2 (8/31-9/4) |   | RS: SQL 1 |
-| 3 (9/5-9/9) |  |   |
+| 2 (8/31-9/4) |   | RS: SQL 1 & SQL 2 |
+| 3 (9/5-9/9) |  |  |
 
 #### Past Course Offerings
 
