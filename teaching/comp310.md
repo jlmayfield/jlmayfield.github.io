@@ -14,7 +14,7 @@ permalink: /teaching/COMP310/
 | :-- | :-- | :-- |
 | 1 (8/24-8/28)|  *No Class*   | Intro   |
 | 2 (8/31-9/4) |   | RS: SQL 1 & SQL 2 |
-| 3 (9/5-9/9) |  |  |
+| 3 (9/5-9/9) | [BBDB Assignment 1](https://classroom50.org/monmouth-college-cs/comp310-fa26/assignments/c310-bbdb-sql/accept) |  |
 
 #### Past Course Offerings
 
