@@ -29,6 +29,8 @@ We have one very specific need for knowing a bit of binary: *specifying networks
   - [From Subnet Mask to Network address in CIDR Notation](#from-subnet-mask-to-network-address-in-cidr-notation)
   - [Recap](#recap)
 - [Help from Hex](#help-from-hex)
+  - [Binary To Hex and Back Again](#binary-to-hex-and-back-again)
+  - [So Many Bases!](#so-many-bases)
 - [Glossary](#glossary)
 
 ## Goals
@@ -74,7 +76,7 @@ The only difference between binary and the numbers we use is a choice of base. H
 
 To represent large values with respect to a base, we use a positional system. The position of the digit determines its overall magnitude. Consider the decimal value `123`.  If you read that as *one-hundred twenty three*, then you recalled that the right side is the `1`s place, the next value is the `10`s place, followed finally by the `100`s place.  We can go on forever with `1000`s, `10000`s, and so on.  The key here is two fold: each place represents *a power of the base* and the value at that place is a singular value in that base (i.e. a digit here).  You can do any base you want with these rules. The values in binary are easy: 0 and 1. We probably should review the bases:
 
-| Power (p) | Decimal ($$10^p$$) | Binary ($$2^p$$) |
+| Power (p) | Decimal ($10^p$$) | Binary ($$2^p$$) |
 | :--- | :--- | :--- |
 | 0 | 1 | 1 |
 | 1 | 10 | 2 |
@@ -275,9 +277,67 @@ One more example. What if our IP was `10.11.74.47` and we had the same subnet ma
 
 # Help from Hex
 
-*Coming Soon!*
+Hexadecimal is the base 16 number system. The immediate problem with any base larger than 10 is that our base 10 digits are insufficient to cover that system.  In this case we need a symbol/digit for 10, 11, 12, 13, 14, and 15. Good news. We can just cherry pick some letters.  Now, check this out:
+
+| Decimal | Binary | Hex |
+| :-- | :--- | :--- |
+| 0 | 0000 | 0 |
+| 1 | 0001 | 1 |
+| 2 | 0010 | 2 |
+| 3 | 0011 | 3 |
+| 4 | 0100 | 4 |
+| 5 | 0101 | 5 |
+| 6 | 0110 | 6 |
+| 7 | 0111 | 7 |
+| 8 | 1000 | 8 |
+| 9 | 1001 | 9 |
+| 10 | 1010 | A |
+| 11 | 1011 | B |
+| 12 | 1100 | C |
+| 13 | 1101 | D |
+| 14 | 1110 | E |
+| 15 | 1111 | F |
+| 16 | 10000 | 10 |
+
+Notice that decimal 0-15 and the hex digits 0-F directly equate to half-byte (4 bit) representations. This works out so nice because $$2^4=16$$. We'd get similarly nice digit to binary conversion in any base that is a power of 2. Why this is notable is that *it provides a really easy way to compress a sequence of bits for communication*.
+
+In computing, we routinely deal with long bit sequences (aka large binary numbers) and simply need to recognize that pattern rather than do a bunch operations with it. In our case, we'd like a shortish way to communicate the 128 bits of an IPv6 address and the 48 bits off a MAC address. Hex is great for this. It reduces the number of symbols by a factor of 4 and therefore takes less to type/write/print and is easier to visually scan and recognize.
 
 
+## Binary to Hex and Back Again
+
+We don't really ever write IPv4 as hex, but we could. Let's use an IP to practice. Say your IP is 10.11.24.57.  In binary we get:
+
+```
+00001010 00001011 00011000 00111001
+```
+Now break that into groups of four,
+
+```
+0000 1010 0000 1011 0001 1000 0011 1001
+```
+and then replace each group of four with the hex equivalent.
+```
+0A0B1839
+```
+There you have it: `10.11.24.57` in hex is `0A0B1839`.
+
+What if your IP, in hex, was `E4D2FC53`.  Just reverse the process. Each hex digit is replaced with the binary equivalent.
+```
+E    4    D    2    F    C    5    3
+1110 0100 1101 0010 1111 1100 0101 0011
+```
+Easy peazy, lemon squezy.
+
+## So Many Bases!
+
+What's the value of 110101?  Did you say something like "one-hundred ten-thousand..." or did you start doing the binary conversion? What about 14?  Did you say fourteen or did you start converting to base 16? When we're working in multiple number systems in computing, it's important to remove this ambiguity. We have a more or less standard notation that we use to disambiguate.
+
+| Number System | Prefix | Example | Decimal Value |
+| :--- | :--- | :--- |
+| Binary | `0b` | `0b1101` | 13 |
+| Decimal | | `1101` | 1,101 |
+| Hex | `0x` | `0x1101` | 4,353 |
 
 # Glossary
 
