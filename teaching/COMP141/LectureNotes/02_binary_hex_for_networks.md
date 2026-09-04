@@ -74,7 +74,7 @@ The only difference between binary and the numbers we use is a choice of base. H
 
 To represent large values with respect to a base, we use a positional system. The position of the digit determines its overall magnitude. Consider the decimal value `123`.  If you read that as *one-hundred twenty three*, then you recalled that the right side is the `1`s place, the next value is the `10`s place, followed finally by the `100`s place.  We can go on forever with `1000`s, `10000`s, and so on.  The key here is two fold: each place represents *a power of the base* and the value at that place is a singular value in that base (i.e. a digit here).  You can do any base you want with these rules. The values in binary are easy: 0 and 1. We probably should review the bases:
 
-| Power (p) | Decimal ($`10^p`$) | Binary ($`2^p`$) |
+| Power (p) | Decimal ($$10^p$$) | Binary ($$2^p$$) |
 | :--- | :--- | :--- |
 | 0 | 1 | 1 |
 | 1 | 10 | 2 |
@@ -98,11 +98,11 @@ The good news with binary is that the 0 or 1 nature of it means we're really jus
 
 ## From Binary to Decimal
 
-Given an unsigned integer $`n`$ in binary, we can figure out the decimal equivalent adding the powers of two for which $`n`$ has a `1` in that power's place. For example, above we looked at `1011`.  There are ones in the `1`'s place, the `2`'s place, and the `8`s place, so:
+Given an unsigned integer $$n$$ in binary, we can figure out the decimal equivalent adding the powers of two for which $$n$$ has a `1` in that power's place. For example, above we looked at `1011`.  There are ones in the `1`'s place, the `2`'s place, and the `8`s place, so:
 
 $$ 1011 = 1 + 2 + 8 = 13 $$
 
-How about another byte-sized example. Consider `10100101`. The `1`s exist in the 1st, 3rd, 6th, and 8th places. That is the place for $`2^0`$, $`2^2`$, $`2^5`$ and $`2^7`$. This means:
+How about another byte-sized example. Consider `10100101`. The `1`s exist in the 1st, 3rd, 6th, and 8th places. That is the place for $$2^0$$, $$2^2$$, $$2^5$$ and $$2^7$$. This means:
 
 $$ 10100101 = 1 + 4 + 32 + 128 = 165 $$
 
@@ -111,7 +111,7 @@ $$ 10100101 = 1 + 4 + 32 + 128 = 165 $$
 
 ### Range of and Expressiveness of 1 Byte
 
-We can now determine the minimum and maximum value represented by 1 byte.  We actually already know this from IP.  The minimum is `00000000` which is, of course, `0`.  The max is `11111111`, which is  255.  If you're not convinced, the add all the powers of two from $`2^0`$ to $`2^7`$.
+We can now determine the minimum and maximum value represented by 1 byte.  We actually already know this from IP.  The minimum is `00000000` which is, of course, `0`.  The max is `11111111`, which is  255.  If you're not convinced, the add all the powers of two from $$2^0$$ to $$2^7$$.
 
 There are 256 values in the range of 0 to 255 when we include both 0 and 255. This means a single byte is able to represent, or express, 256 different things.  Another way we can determine this is to think of individual bits. Imagine you get to choose a value for each bit. You have two choices for the first bit, then given that choice, you get 2 choices for the next, and so on.  The total number of choices for 8 bits is then,
 
@@ -123,7 +123,7 @@ This technique can be used to count choices whenever you're making a series of i
 
 Let's use that counting technique and get a rough count that ignore special rules and just looks at total possible addresses. An IPv4 address is 4 bytes, each byte can take on 256 possible values. That means there are $256^4$ or $4,294,967,296$ (a bit over 4 billion) possible addresses.  This does not compare well with the current world population. We can't even give every person on earth an IPv4 address. We have ways around this, but clearly the IPv4 scheme was not prepared for the demand for internet presence.
 
-An IPv6 address is 16 Bytes, or 128 bits. It's typically written using hexadecimal notation. We'll get to that later. For now, notice that IPv6 implies a space of $`256^{16}`$ different addresses. That's in the ballpark of $`3.4 \times 10^{38}`$. That's A LOT more.
+An IPv6 address is 16 Bytes, or 128 bits. It's typically written using hexadecimal notation. We'll get to that later. For now, notice that IPv6 implies a space of $$256^{16}$$ different addresses. That's in the ballpark of $$3.4 \times 10^{38}$$. That's A LOT more.
 
 
 ## From Decimal to Binary
@@ -134,7 +134,7 @@ To find the binary representation of a decimal number (without using a computer/
 
 This is basically the exact opposite of our binary to decimal method.  We'll just look at numbers between 255 and 0, i.e. values representable in one byte.  This method builds the binary number in left to right order (most-significant bit to least-significant bit)
 
-0.  Start at the largest place, $`2^7`$ or $`128`$.
+0.  Start at the largest place, $$2^7$$ or $$128$$.
 1.  For each place (left to right) ask, "Can I subtract this place value from my number?".
     * If yes, then write down a `1` and subtract the place value from my number. *The result of the subtraction is your new number*
     * If no, then write down a `0`.
@@ -220,7 +220,7 @@ Let's say your IP address is `10.11.10.47` and your computer reports that you ha
 
 To find out the size of your network from your subnet mask, you:
 1. Convert the left-most, non 255 byte to binary.
-2. Every bit from the right-most `1` in the binary representation up to the $`2^7`$ place (most-significant) are network bits.
+2. Every bit from the right-most `1` in the binary representation up to the $$2^7$$ place (most-significant) are network bits.
 3. Add these bits to left-hand 255 bytes (8 bits each) and that's your CIDR network size.
 
 In `255.255.240.0` we have two left-hand bytes of 255. That means we have 16 network bits for sure. Now we convert 240 to determine how many more network bits we have. Let's do that. First we work out which powers of two add up to 240.
@@ -230,15 +230,15 @@ In `255.255.240.0` we have two left-hand bytes of 255. That means we have 16 net
 48 - 32  = 16
 16 - 16  = 0
 ```
-That's the 7th, 6th, 5th, and 4th powers. This means `11110000` is 240 in binary. The right-most `1` is in the $`2^4`$ place, so it and everything left of it are network bits. *This means we're on a `/20` network.
+That's the 7th, 6th, 5th, and 4th powers. This means `11110000` is 240 in binary. The right-most `1` is in the $$2^4$$ place, so it and everything left of it are network bits. *This means we're on a `/20` network.
 
 Here's the subnet mask in full binary: `11111111 11111111 11110000 00000000`.  The fact that it's a run of `1`s followed by a run of `0`s is by design. It's *always* like that. If you read it logically, then there's a `1` for every bit that's part of the network address and a `0` for the host addresses. It's still the case that the address is network portion followed by host. A subnet mask *must* always be `1`s followed by `0`s.
 
 ## From Number of Network Bits to Number of hosts
 
-If your network uses `N` of 32 bits for the network, then there must be exactly $`32-N`$ host bits.  Our counting process from above tells us this means we have at most $`2^{32-N}`$ addresses available for hosts.  Technically, we can't have the host bits be all `0` or all `1`. This means we can have *exactly* $`2^{32-N}-2`$ hosts on our network.
+If your network uses `N` of 32 bits for the network, then there must be exactly $$32-N$$ host bits.  Our counting process from above tells us this means we have at most $$2^{32-N}$$ addresses available for hosts.  Technically, we can't have the host bits be all `0` or all `1`. This means we can have *exactly* $$2^{32-N}-2$$ hosts on our network.
 
-If our network has 20 network bits, then we have 12 host bits to work with. This means we have $`2^{12} - 2 = 4096-2 = 4094`$ usable host addresses on *any* `/20` network.
+If our network has 20 network bits, then we have 12 host bits to work with. This means we have $$2^{12} - 2 = 4096-2 = 4094$$ usable host addresses on *any* `/20` network.
 
 
 ## From Subnet Mask to Network address in CIDR Notation
@@ -269,7 +269,7 @@ One more example. What if our IP was `10.11.74.47` and we had the same subnet ma
 1. Converting a subnet mask into binary will tell you which bits are network bits and which are host bits.
 2. If you have `N` network bits, then you have `M=32-N` host bits.
     *   You're on a `/N` network
-    *   It can accommodate $`2^{M}-2`$ hosts.
+    *   It can accommodate $$2^{M}-2$$ hosts.
 3. If you know your IP address and your subnet mask, then you can specify the network IP range in CIDR notation.
     * Compute the bitwise and of your subnet mask and your IP address. That's the network specific part of the IP.  Your network (the set of IP addresses) is expressed as that value `/N`.
 
@@ -290,7 +290,7 @@ One more example. What if our IP was `10.11.74.47` and we had the same subnet ma
 | **Byte** | A unit of digital data consisting of 8 bits (sometimes called an octet in networking), capable of representing 256 distinct values (ranging from 0 to 255 in unsigned decimal). |
 | **Classless Inter-Domain Routing (CIDR)** | An IP addressing and routing system developed to overcome class-based limitations, using prefix notation (an IP address followed by a slash and bit count, e.g., `/20`) to specify the boundary between network and host bits. |
 | **Decimal Number System** | The base-10 number system commonly used by humans, where 10 symbols (digits) are used to represent values from 0 through 9, with each place value representing a power of 10. |
-| **IPv6 (Internet Protocol Version 6)** | The successor to IPv4 that uses 16-byte (128-bit) addresses specified in hexadecimal, providing approximately $`3.4 \times 10^{38}`$ possible addresses. |
+| **IPv6 (Internet Protocol Version 6)** | The successor to IPv4 that uses 16-byte (128-bit) addresses specified in hexadecimal, providing approximately $$3.4 \times 10^{38}$$ possible addresses. |
 | **Logical AND** | A fundamental logical operation functioning on two bits (treating `1` as true and `0` as false) that evaluates to `1` (true) only when both input bits are `1`. |
 | **Media Access Control (MAC) Addresses** | 48-bit physical network device addresses, usually specified in hexadecimal, used in systems that operate under IP to move data on a local network (LAN) (short for Media Access Control). |
 | **Off-by-One Error** | A common computing logic error caused by being off by a value of one.  |
