@@ -14,4 +14,4 @@ permalink: /teaching/COMP141/
 | :-- | :-- | :-- | :-- | :--- |
 | 1 (8/24-8/28)|  *No Class*   | *No Lab*    |  Intro  |  [Networks](/teaching/COMP141/LectureNotes/01_networks_where_am_i/)  |
 | 2 (8/31-9/4) |  | [Lab 1 & Hwk 1](/teaching/COMP141/Assignments/01_networks_and_routes/)  |   | *Lab 1 & Hwk 1 Due* [CIDR, Binary, and Hex](/teaching/COMP141/LectureNotes/02_binary_hex_for_networks/) |
-| 3 (9/5-9/9) |  |  |  |  |
+| 3 (9/5-9/9) | *No Class* | *No Lab* |  |  |
