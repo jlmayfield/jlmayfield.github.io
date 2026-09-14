@@ -99,7 +99,7 @@ We'll start with simple cryptogram puzzles that leak a lot of information throug
 1. Decipher cryptogram [puzzle 0002](/teaching/COMP141/Assignments/lab2/worksheet_0002.pdf). It was created with a Caesar shift.
 2. Decipher cryptogram [puzzle 0003](/teaching/COMP141/Assignments/lab2/worksheet_0003.pdf). It was created with a random key. Word lengths and sentence structure let you do this without doing a frequency analysis. Work as a team!
 3. Decipher the advanced cryptogram [puzzle 0006](/teaching/COMP141/Assignments/lab2/worksheet_0006.pdf). This was created with a Caesar shift. Maybe your team can work together to brute-force it?
-4. Decipher the advanced cryptogram [puzzle 0007](/teaching/COMP141/Assignments/lab2/worksheet_0007.pdf). This was created with a random key. Your team will need to get *very* lucky or start counting and see if counting letters helps. [Worksheets for frequency analysis](/teaching/COMP141/Assignments/lab2/uniliteral_frequency_anlaysis.pdf) are available.
+4. Decipher the advanced cryptogram [puzzle 0007](/teaching/COMP141/Assignments/lab2/worksheet_0007.pdf). This was created with a random key. Your team will need to get *very* lucky or start counting and see if counting letters helps. [Worksheets for frequency analysis](/teaching/COMP141/Assignments/lab2/uniliteral_frequency_analaysis.pdf) are available.
 
 The major theme here is that any predictable, regular structure in the system is a potential sign of weakness. More advanced algorithms and systems work hard to remove regularity and produce ciphertext that appears to be truly random.
 
