@@ -12,8 +12,8 @@ permalink: /teaching/COMP141/
 
 | Week | Monday (Class) | Monday (Lab) | Wednesday | Friday |
 | :-- | :-- | :-- | :-- | :--- |
-| 1 (8/24-8/28)|  *No Class*   | *No Lab*    |  Intro  |  [Networks](/teaching/COMP141/LectureNotes/01_networks_where_am_i/)  |
-| 2 (8/31-9/4) |  | [LN01 - Lab 1 & Hwk 1](/teaching/COMP141/Assignments/01_networks_and_routes/)  |   | *Lab 1 & Hwk 1 Due* [LN02 - CIDR, Binary, and Hex](/teaching/COMP141/LectureNotes/02_binary_hex_for_networks/) |
+| 1 (8/24-8/28)|  *No Class*   | *No Lab*    |  Intro  |  [LN01 - Networks](/teaching/COMP141/LectureNotes/01_networks_where_am_i/)  |
+| 2 (8/31-9/4) |  | [Lab 1 & Hwk 1](/teaching/COMP141/Assignments/01_networks_and_routes/)  |   | *Lab 1 & Hwk 1 Due* [LN02 - CIDR, Binary, and Hex](/teaching/COMP141/LectureNotes/02_binary_hex_for_networks/) |
 | 3 (9/5-9/9) | *No Class* | *No Lab* | Practice Problems | *Practice Problems Due* |
-| 4 (9/14-9/18) | Review for Q1.  | [Lab 2]()  | **Quiz 1**  |   |
+| 4 (9/14-9/18) | Review for Q1.  | [Lab 2](/teaching/COMP141/Assignments/02_lab2/)  | **Quiz 1**  |   |
 | 5 (9/21-9/25) |   |   |   |   |
