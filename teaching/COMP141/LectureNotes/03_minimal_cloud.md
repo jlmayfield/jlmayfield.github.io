@@ -1,6 +1,7 @@
+---
 layout: page
 title: COMP141 - Lecture Notes 3 - Cloud Compute
-permalink: /teaching/COMP141/LectureNotes/02_binary_hex_for_networks/
+permalink: /teaching/COMP141/LectureNotes/03_minimal_cloud/
 mathjax: true
 ---
 
