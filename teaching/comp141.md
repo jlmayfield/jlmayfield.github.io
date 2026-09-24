@@ -17,3 +17,4 @@ permalink: /teaching/COMP141/
 | 3 (9/5-9/9) | *No Class* | *No Lab* | Practice Problems | *Practice Problems Due* |
 | 4 (9/14-9/18) | Review for Q1.  | [Lab 2](/teaching/COMP141/Assignments/02_lab2/)  | **Quiz 1**  |   |
 | 5 (9/21-9/25) | [Cloud Compute](/teaching/COMP141/LectureNotes/03_minimal_cloud/)  | [Lab 3: In the Cloud](/teaching/COMP141/Assignments/03_in_the_cloud/)  |   |   |
+| 6 (9/28 -10/2) | *Due: TLCL 1-4 Reading Questions*  | [Bandit Lab #1]() |  |  |
