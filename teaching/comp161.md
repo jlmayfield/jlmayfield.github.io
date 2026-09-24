@@ -18,3 +18,4 @@ permalink: /teaching/COMP161/
 | 3 (9/5-9/9) | *No Class*  | RS: Nested Data | [Lab 3](https://classroom50.org/monmouth-college-cs/comp161-fa26/assignments/comp-161-lab-3/accept?k=4oes9c90)  | RS: Nested Iteration   |
 | 4 (9/14-9/18) |   |   | [Lab 4](https://classroom50.org/monmouth-college-cs/comp161-fa26/assignments/comp161-lab-4/accept?k=4oes9c90)  |   |
 | 5 (9/21-9/25) | RS: File I/O  | RS: Exceptions  | [Start: Route Reader](https://classroom50.org/monmouth-college-cs/comp161-fa26/assignments/route-reader/accept?k=4oes9c90)  |   |
+| 6 (9/28 -10/2) |  |  | *Route Reader* | **Quiz 1** |
