@@ -7,6 +7,7 @@ permalink: /teaching/COMP141/
 &nbsp;&nbsp;&nbsp; [Syllabus](/teaching/COMP141/fa26/comp141-syllabus.pdf) <br>
 &nbsp;&nbsp;&nbsp; [Textbook: The Linux Command Line](https://linuxcommand.org/tlcl.php) <br>
 &nbsp;&nbsp;&nbsp; [Lab Problems: Bandit](https://overthewire.org/wargames/bandit/) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Bandit Lab Report Form](/teaching/COMP141/Assignments/bandit_lab_report.pdf)
 
 ### Calendar
 
@@ -17,4 +18,6 @@ permalink: /teaching/COMP141/
 | 3 (9/5-9/9) | *No Class* | *No Lab* | Practice Problems | *Practice Problems Due* |
 | 4 (9/14-9/18) | Review for Q1.  | [Lab 2](/teaching/COMP141/Assignments/02_lab2/)  | **Quiz 1**  |   |
 | 5 (9/21-9/25) | [Cloud Compute](/teaching/COMP141/LectureNotes/03_minimal_cloud/)  | [Lab 3: In the Cloud](/teaching/COMP141/Assignments/03_in_the_cloud/)  |   |   |
-| 6 (9/28 -10/2) | *Due: TLCL 1-4 Reading Questions*  | [Bandit Lab #1]() |  |  |
+| 6 (9/28 -10/2) | *Due: TLCL 1-4 Reading Questions*  | Bandit 0-3 |  |  |
+| 7 (10/5-10/9) |  |  |  |  |
+| 8 (10/12-10/16) |  |  |  |  |
