@@ -18,6 +18,6 @@ permalink: /teaching/COMP141/
 | 3 (9/5-9/9) | *No Class* | *No Lab* | Practice Problems | *Practice Problems Due* |
 | 4 (9/14-9/18) | Review for Q1.  | [Lab 2](/teaching/COMP141/Assignments/02_lab2/)  | **Quiz 1**  |   |
 | 5 (9/21-9/25) | [Cloud Compute](/teaching/COMP141/LectureNotes/03_minimal_cloud/)  | [Lab 3: In the Cloud](/teaching/COMP141/Assignments/03_in_the_cloud/)  |   |   |
-| 6 (9/28 -10/2) | *Due: TLCL 1-4 Reading Questions*  | Bandit 0-3 |  |  |
-| 7 (10/5-10/9) |  |  |  |  |
-| 8 (10/12-10/16) |  |  |  |  |
+| 6 (9/28 -10/2) | *Due: TLCL 1-4 Reading Questions* [LN04 : Files and Bandits](/teaching/COMP141/LectureNotes/04_bandit_group_01/) | Bandit 0-3 |  |  |
+| 7 (10/5-10/9) |    | Bandit 4-6 | *Quiz: TLCL1-4,LN3-4*  |  |
+| 8 (10/12-10/16) |  | Bandit 7-9  | **Midterm Exam**  | **Fall Break**  |
