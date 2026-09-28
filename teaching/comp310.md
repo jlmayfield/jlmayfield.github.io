@@ -17,8 +17,9 @@ permalink: /teaching/COMP310/
 | 3 (9/5-9/9) | [BBDB Assignment 1](https://classroom50.org/monmouth-college-cs/comp310-fa26/assignments/c310-bbdb-sql/accept) |  |
 | 4 (9/14-9/18) | RS: SQL 3 | BBDB Assignment 2 |
 | 5 (9/21-9/25) | RS: SQL 4 & 5 | BBDB Assignment 3 & 4 |
-| 6 (9/28 -10/2) | *Retrosheet+Tufte Queries* | **SQL Exam** |
-
+| 6 (9/28 -10/2) | **No Class**  | *Retrosheet+Tufte Queries* |
+| 7 (10/5-10/9) |  |  |
+| 8 (10/12-10/16) | **SQL Midterm Exam** | **Fall Break** |
 #### Past Course Offerings
 
 [Fall 2018](/teaching/COMP310/fa18/) <br>
