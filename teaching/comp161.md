@@ -19,5 +19,5 @@ permalink: /teaching/COMP161/
 | 4 (9/14-9/18) |   |   | [Lab 4](https://classroom50.org/monmouth-college-cs/comp161-fa26/assignments/comp161-lab-4/accept?k=4oes9c90)  |   |
 | 5 (9/21-9/25) | RS: File I/O  | RS: Exceptions  | [Start: Route Reader](https://classroom50.org/monmouth-college-cs/comp161-fa26/assignments/route-reader/accept?k=4oes9c90)  |   |
 | 6 (9/28-10/2) |  | [LN: Testing](/teaching/COMP161/LectureNotes/testing/)  | [*MonkeyPatch Route Reader*](/teaching/COMP161/fa26/assignments/rr-lab2.pdf) | **Quiz 1** |
-| 7 (10/5-10/9) |  |  | *Pandas + Geolocation* |  |
+| 7 (10/5-10/9) |  |  | [*Pandas + Geolocation*](/teaching/COMP161/fa26/assignments/rr-lab3.pdf) |  |
 | 8 (10/12-10/16) |  |  | **RR Project Due**  | **Fall Break** |
