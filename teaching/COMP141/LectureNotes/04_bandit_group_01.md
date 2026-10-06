@@ -9,6 +9,10 @@ mathjax: true
 
 Your first round of Bandit problems gets you in touch with getting access to and reading files. As your text pointed out, in Linux, everything is a file. Finding and accessing files is an essential part of working with and administering a system. In these notes we'll cover a few things to help you work through the Bandit problems and by extension work with files all over a computer.
 
+## *The Linux Command Line*
+
+These lecture notes go along with the first four chapters of *The Linux Command Line*. For your study and convenience, [here are chapter vocab terms and shell commands covered](/teaching/COMP141/LectureNotes/tlcl_bandit01/).
+
 ## Table of Contents
 
 - [Goals](#goals)
