@@ -17,7 +17,7 @@ permalink: /teaching/COMP141/
 | 2 (8/31-9/4) |  | [Lab 1 & Hwk 1](/teaching/COMP141/Assignments/01_networks_and_routes/)  |   | *Lab 1 & Hwk 1 Due* [LN02 - CIDR, Binary, and Hex](/teaching/COMP141/LectureNotes/02_binary_hex_for_networks/) |
 | 3 (9/5-9/9) | *No Class* | *No Lab* | Practice Problems | *Practice Problems Due* |
 | 4 (9/14-9/18) | Review for Q1.  | [Lab 2](/teaching/COMP141/Assignments/02_lab2/)  | **Quiz 1**  |   |
-| 5 (9/21-9/25) | [Cloud Compute](/teaching/COMP141/LectureNotes/03_minimal_cloud/)  | [Lab 3: In the Cloud](/teaching/COMP141/Assignments/03_in_the_cloud/)  |   |   |
+| 5 (9/21-9/25) | [LN03: Compute and the Cloud](/teaching/COMP141/LectureNotes/03_minimal_cloud/)  | [Lab 3: In the Cloud](/teaching/COMP141/Assignments/03_in_the_cloud/)  |   |   |
 | 6 (9/28 -10/2) | *Due: TLCL 1-4 Reading Questions* [LN04 : Files and Bandits](/teaching/COMP141/LectureNotes/04_bandit_group_01/) | Bandit 0-3 | [Bob's Files Intro](/teaching/COMP141/Assignments/filesystem_playground_student.pdf) | *LN04 Reading Questions* |
 | 7 (10/5-10/9) | [LN05 - Files, You, and Everyone Else](/teaching/COMP141/LectureNotes/05_bandit_group_02/), *Bob Problems 1 & 2 - B Only - Due*   | Bandit 4-6 |   | **Quiz: TLCL1-4,LN3-4**  |
 | 8 (10/12-10/16) |  | Bandit 7-9  | **Midterm Exam**  | **Fall Break**  |
