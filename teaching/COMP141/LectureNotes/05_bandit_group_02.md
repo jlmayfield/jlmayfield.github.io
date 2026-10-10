@@ -11,6 +11,10 @@ Right now we know *just enough* to wander around aimlessly on a file system, but
 
 The other skill we need to avoid being lost at the shell is knowing how to get help from the shell. More specifically, we need to know how to get information about commands from the shell so that we can more effectively work at the shell without relying on external resources.
 
+## *The Linux Command Line*
+
+These notes are accompanied by chapters 5, 9, and 17 from the text. Here are the [vocab and command references for the chapters](/teaching/COMP141/LectureNotes/tlcl_bandit02/).
+
 ## Table of Contents
 
 - [Goals](#goals)
