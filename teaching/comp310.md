@@ -20,6 +20,8 @@ permalink: /teaching/COMP310/
 | 6 (9/28 -10/2) | **No Class** | *Retrosheet+Tufte Queries*  |
 | 7 (10/5-10/9) |  |  |
 | 8 (10/12-10/16) | **SQL Midterm Exam** | **Fall Break** |
+| 9 (10/19-10/23) |  |  |
+| 10 (10/26-10/30) |  |  |
 
 #### Past Course Offerings
 
