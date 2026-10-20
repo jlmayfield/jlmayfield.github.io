@@ -21,5 +21,5 @@ permalink: /teaching/COMP161/
 | 6 (9/28-10/2) |  | [LN: Testing](/teaching/COMP161/LectureNotes/testing/)  | [*MonkeyPatch Route Reader*](/teaching/COMP161/fa26/assignments/rr-lab2.pdf) | **Quiz 1** |
 | 7 (10/5-10/9) |  |  | [*Pandas + Geolocation*](/teaching/COMP161/fa26/assignments/rr-lab3.pdf) |  |
 | 8 (10/12-10/16) |  |  | **RR Project Due**  | **Fall Break** |
-| 9 (10/19-10/23) | Design and OOP | *RS: Objects* | [Lab 5]()  |  |
+| 9 (10/19-10/23) | Design and OOP | *RS: Objects* | [Lab 5 - TicTacToe](https://classroom50.org/monmouth-college-cs/comp161-fa26/assignments/tictactoe/accept?k=4oes9c90)  |  |
 | 10 (10/26-10/30) |  |  |   |   |
