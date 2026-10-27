@@ -23,3 +23,5 @@ permalink: /teaching/COMP161/
 | 8 (10/12-10/16) |  |  | **RR Project Due**  | **Fall Break** |
 | 9 (10/19-10/23) | Design and OOP | *RS: Objects* | [Lab 5 - TicTacToe](https://classroom50.org/monmouth-college-cs/comp161-fa26/assignments/tictactoe/accept?k=4oes9c90)  |  |
 | 10 (10/26-10/30) |  |  |   |   |
+| 11 (11/2-11/6) | |  |   |   |
+| 12 (11/9-11/13) |   |  |   |   |
