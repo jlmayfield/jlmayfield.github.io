@@ -20,8 +20,10 @@ permalink: /teaching/COMP310/
 | 6 (9/28 -10/2) | **No Class** | *Retrosheet+Tufte Queries*  |
 | 7 (10/5-10/9) |  |  |
 | 8 (10/12-10/16) | **SQL Midterm Exam** | **Fall Break** |
-| 9 (10/19-10/23) |  |  |
-| 10 (10/26-10/30) |  |  |
+| 9 (10/19-10/23) |  | RS: Design 1 |
+| 10 (10/26-10/30) | ER Model | RS: Design 2  |
+| 11 (11/2-11/6) | *Skim Codd* | RS: Theory 1 |
+| 12 (11/9-11/13) | RS: Theory 2 | *Read Codd* |
 
 #### Past Course Offerings
 

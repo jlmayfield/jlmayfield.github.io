@@ -23,3 +23,5 @@ permalink: /teaching/COMP141/
 | 8 (10/12-10/16) |  | *Bob Problems 3*  | **Midterm Exam**  | **Fall Break**  |
 | 9 (10/19-10/23) | [LN06 - Redirects!](/teaching/COMP141/LectureNotes/06_bandit_group_03/) | Bandit 7-9 |  | *Ch 6,19,20 RQs Due* |
 | 10 (10/26-10/30) |  | [Choose Your Own Adventure!](/teaching/COMP141/Assignments/cyoa_student.pdf) [Trail Log as Markdown](https://dillinger.io/)  | *CYOA Trail Log Due - Printed Markdown AND PDF*  | **QUIZ: CYOA Commands**  |
+| 11 (11/2-11/6) | |  |   |   |
+| 12 (11/9-11/13) |   |  |   |   |
