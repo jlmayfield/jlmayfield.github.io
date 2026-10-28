@@ -12,6 +12,7 @@ mathjax: true
 * This table only provides single commands with single options. You can, and must at times, combine options and combine commands via pipes.  Review the *Filters* section in chapter 6 if you need more details and examples.
 * In the examples below, files can be actual files or are left out entirely when building filters using piping. When building filters, the "file input" proceeds the command, i.e. `CMD file` vs `OTHERCMD ... | CMD`.
 
+
 |  Task | Command | Template |
 | :-- | :-- | :--- |
 | Change working directory using  | `cd` | `cd PATH/TO/DIR/` |
@@ -41,7 +42,7 @@ mathjax: true
 | Find file modified exactly `n` hours ago | `find -ctime n` | `find START/HERE -ctime n` |
 | Find file with permissions UGO (in octal) | `find -perm UGO` | `find START/HERE -perm UGO` |
 | Find lines that match REGEX | `grep` | `grep "REGEX" PATH/TO/file.txt` |
-| Find lines that DO NOT match REGEX | `grep -v | `grep -v "REGEX" PATH/TO/file.txt` |
+| Find lines that DO NOT match REGEX | `grep -v` | `grep -v "REGEX" PATH/TO/file.txt` |
 | Sort lines | `sort` | `sort PATH/TO/file.txt` |
 | Remove adjacent duplicates | `uniq` | `uniq PATH/TO/file.txt` |
 
@@ -57,5 +58,5 @@ mathjax: true
 | Has zero or more of anything `".*"` |
 | Contains PATTERN | `"PATTERN"` |
 | Starts with PATTERN | `"^PATTERN"` |
-| Ends with PATTERN | `"PATTERN$` |
+| Ends with PATTERN | `"PATTERN$"` |
 
