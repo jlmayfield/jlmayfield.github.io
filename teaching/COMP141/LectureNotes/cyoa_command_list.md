@@ -15,6 +15,7 @@ mathjax: true
 
 |  Task | Command | Template |
 | :-- | :-- | :--- |
+| **Navigational Core** | | |
 | Change working directory using  | `cd` | `cd PATH/TO/DIR/` |
 | View directory contents         | `ls` | `ls PATH/TO/DIR/` |
 | View Details of Contents        |  `ls -l`  | `ls -l PATH/TO/DIR/` |
@@ -22,12 +23,12 @@ mathjax: true
 | Write/Concatenate File Contents to CLI | `cat` | `cat PATH/TO/file.txt` |
 | View and Page File Contents | `less` | `less PATH/TO/file.txt` |
 | Line wrap file contents to `n` lines | `fold -w n` | `fold -w n PATH/TO/file.txt` |
-| Count lines of a file | `wc -l` | `wc -l PATH/TO/file.txt` |
-| Count characters of a file | `wc -c` | `wc -c PATH/TO/file.txt` |
-| Make a file group executable (user, others) | `chmod` | `chmod g+x PATH/TO/file.sh` (`u+x` or `o+x`) |
-| Make a file group readable (users, others) | `chmod` | `chmod g+r PATH/TO/file.sh` (`u+r` or `o+r`)|
+| **File and Script management** | | |
+| Make a file group executable (user, others) | `chmod g+x` | `chmod g+x PATH/TO/file.sh` (`u+x` or `o+x`) |
+| Make a file group readable (users, others) | `chmod g+r` | `chmod g+r PATH/TO/file.sh` (`u+r` or `o+r`)|
 | Execute file `foo.sh` in working directory|  | `./foo.sh` |
 | Execute file `foo.sh` in another directory|  | `./REL/PATH/foo.sh` or `/ABS/PATH/foo.sh` |
+| **File Hierarchy Search** | | |
 | Find regular files | `find -type f` | `find START/HERE -type f` |
 | Find directories | `find -type d` | `find START/HERE -type d` |
 | Find file by name | `find -name` | `find START/HERE -name NAMEPATTERN` |
@@ -41,10 +42,14 @@ mathjax: true
 | Find file modified less than `n` hours ago | `find -ctime -n` | `find START/HERE -ctime -n` |
 | Find file modified exactly `n` hours ago | `find -ctime n` | `find START/HERE -ctime n` |
 | Find file with permissions UGO (in octal) | `find -perm UGO` | `find START/HERE -perm UGO` |
+| **File Content Search** | | |
 | Find lines that match REGEX | `grep` | `grep "REGEX" PATH/TO/file.txt` |
 | Find lines that DO NOT match REGEX | `grep -v` | `grep -v "REGEX" PATH/TO/file.txt` |
+| **File Content Analysis** | | |
 | Sort lines | `sort` | `sort PATH/TO/file.txt` |
 | Remove adjacent duplicates | `uniq` | `uniq PATH/TO/file.txt` |
+| Count lines of a file | `wc -l` | `wc -l PATH/TO/file.txt` |
+| Count characters of a file | `wc -c` | `wc -c PATH/TO/file.txt` |
 
 # Regular Expressions (regexs)
 
@@ -55,7 +60,7 @@ mathjax: true
 | Pattern | Regex Template |
 | :---  |  :---- |
 | Has One of anything | `"."` |
-| Has zero or more of anything `".*"` |
+| Has zero or more of anything | `".*"` |
 | Contains PATTERN | `"PATTERN"` |
 | Starts with PATTERN | `"^PATTERN"` |
 | Ends with PATTERN | `"PATTERN$"` |
