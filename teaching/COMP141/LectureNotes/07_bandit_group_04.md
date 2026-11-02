@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMP141 - Lecture Notes 7 - Data Encoding
-permalink: /teaching/COMP141/LectureNotes/06_bandit_group_04/
+permalink: /teaching/COMP141/LectureNotes/06_bandit_group_07/
 mathjax: true
 ---
 
