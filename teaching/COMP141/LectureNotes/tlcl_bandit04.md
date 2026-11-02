@@ -1,3 +1,9 @@
+---
+layout: page
+title: COMP141 - Vocab and Commands from TLCL Chapters 18 and 20
+permalink: /teaching/COMP141/LectureNotes/tlcl_bandit04/
+mathjax: true
+---
 # TLCL Chapters 18 and 20 (`tr`): Vocabulary and Commands Covered
 
 ## Chapter 18
