@@ -4,7 +4,6 @@ title: COMP141 - Lecture Notes 8 - Secure Communications
 permalink: /teaching/COMP141/LectureNotes/08_bandit_group_05/
 mathjax: true
 ---
-
 # Communication and Cryptography
 
 Now that we're getting a handle on the inner workings of our local computing system, it's time to reach back out to the web and start communicating with other systems.  This means taking a more nuanced look at communications across the internet and learning how to send messages without applications like the web browser or the ssh client.
@@ -23,6 +22,7 @@ Much of what follows is not covered in TLCL. What there is comes from chapter 16
   - [The Transport Layer](#the-transport-layer)
   - [The Network Layer](#the-network-layer)
   - [Unpacking a Bandit connection using SSH](#unpacking-a-bandit-connection-using-ssh)
+  - [Copying Files Between Hosts](#copying-files-between-hosts)
   - [Sending Your Own Messages with `nc`](#sending-your-own-messages-with-nc)
   - [Tin-foil Time](#tin-foil-time)
 - [Reaching Out - With Security](#reaching-out---with-security)
@@ -37,11 +37,22 @@ Much of what follows is not covered in TLCL. What there is comes from chapter 16
 
 ## Goals
 
-**Coming Soon**
+1. Understand the role and purpose of the network, transport, and application layers in computer communications and the internet.
+2. Know the basic principles behind the TCP, UDP, and IP protocols and how they fit within the layered model of computer networking.
+3. Know how to make client connections using `ssh`, `nc` and `openssl s_client`, and understand the differences between them.
+4. Be familiar with symmetric-key cryptography, asymmetric-key/public-key cryptography, key-exchange, and hashing and their uses for secure communications across the web.
 
 ## Objectives
 
-**Coming Soon**
+1. Be able to compare and contrast the role of the transport, network, and application layers of the internet.
+2. Be able to provide concrete examples of protocols that function at the transport, network, and application layers.
+3. Be able to explain what a handshake is and roughly what happens during the SSH handshake when connecting using a password or key-based authentication.
+4. Be able to establish an insecure connection and exchange messages with a listener using `nc`.
+5. Be able to establish a secure SSL/TLS connection and exchange messages with a listener using `openssl s_client`.
+6. Be able to copy files between hosts using `scp`.
+7. Be able to log in using key-based authentication with SSH.
+8. Be able to compare and contrast encryption algorithms with hashing.
+9. Be able to explain what it means to salt a hash and why it's important for password security.
 
 # Reaching Out - A Return to the Web
 
@@ -98,6 +109,24 @@ Now consider what happens when you connect to a bandit server.  We're going to i
 * In the background, IP gets all the packets through the network. TCP keeps an eye on the network, manages the big picture, and gets the message to the client/server application once it safely arrives at the host.
 * You do your thing over that TCP connection (including the login part) and disconnect when you're done.
 
+## Copying Files Between Hosts
+
+If you have accounts on two machines, it's likely that you want to copy or move files between them. For basic copy tasks you have `scp`, or "secure copy".  The `scp` application runs on top of `ssh`. So, by default it operates on port 22.
+
+The principle is the same as `cp` but either your source or target is a remote machine and you need to specify the connection details for that machine.  Specifically, you need (1) the username on that machine, (2) the hostname/IP and port, and (3) the path to the files you want to copy on that machine. This looks like: `user@host:path/to/file` with the `-P PORT` option specifying the port. So, copying some files *from* the bandit server as bandit0 to your current working directory would look like:
+
+```bash
+scp -P 2220 bandit0@bandit.labs.overthewire.org:path/to/file .
+```
+
+To copy *to* the user home directory on the bandit server you'd swap the arguments:
+```bash
+scp -P 2220 path/to/file bandit0@bandit.labs.overthewire.org:.
+```
+*Recall that you can't actually write to the user home directory on the bandit server. You can replace the `.` with the path to the directory in which you'd like to write your files.*
+
+In both examples above we're using the `.` shortcut for the current working directory. You can replace that with any relative or absolute path.
+
 ## Sending Your Own Messages with `nc`
 
 Of course, there is a shell application that lets you send and receive your own messages. It's called `nc` or *netcat*.  It does *a lot*. For now, we'll focus on sending messages. Later we'll look at setting up listeners to receive messages and maybe even using `nc` to find out what applications are listening for messages on a specific host.
@@ -153,6 +182,8 @@ Public-key cryptography gets its name from the idea that one of the keys in the 
 5. The blob and the signature are sent to the server.
 6. The server decrypts the signature with the public key, hashes the blob, and compares the signature hash with a hash it computes itself. If they're the same, then the blob must have come from the owner of the private key that goes with the public key, i.e. the user!
 
+The RSA algorithm has been so important and so influential that its discoverers were awarded the **Turing Award** in 2002. The Turing Award is an annual award given by the **Association for Computing Machinery** (ACM), one of the leading international, professional computing organizations. It is regarded as one of, if not *the*, highest honors in computing and is often called the Nobel Prize of Computing. (It is not a Nobel; you cannot win a Nobel Prize for computing.)
+
 There are public-key algorithms that only do digital signatures and do not also provide general encryption and decryption. In fact, the `ed25519` algorithm recommended for SSH authentication is a pure digital-signature algorithm where the private key computes the signature and the public key verifies it.
 
 The `ssh` client uses the `-i` option to enable key-based authentication:
@@ -205,25 +236,41 @@ echo "MESSAGE" | openssl s_client -crlf -ign_eof -connect HOST:PORT
 
 ## Key Exchange
 
-**Coming Soon**
+The SSL/TLS and SSH protocols all use **symmetric-key encryption** to encrypt *data in transit* and keep it confidential. This requires establishing a shared key. As previously mentioned, there exist specific algorithms that let you generate local secrets, combine them with some publicly exchanged information, and then establish a shared secret key. Key-exchange algorithms are considered public-key cryptography algorithms, but they are neither intended nor used for general data encryption.
+
+The first such algorithm is the **Diffie-Hellman** algorithm, discovered in 1976 by Whitfield Diffie and Martin Hellman. Their discovery is so important that they were awarded the **Turing Award** in 2015. We'll cover the Diffie-Hellman algorithm later. What's important to know now is that *every* time you connect to a host with SSH, a key-exchange algorithm is run during the handshake process. When you use HTTPS, which uses SSL/TLS, a key-exchange algorithm is run. While you may often interact with public-private key pairs directly, key-exchange systems are the often silent bedrock of the secure web.
 
 
 # Local Authentication: Passwords and Hashing
 
-**Coming Soon**
+All those public-key systems are for nothing if your local account is compromised. This means choosing good passwords and securing them.  This is usually managed via *hash functions*.
+
+When you create a new password the system will do two things:
+1. Generate a random sequence of characters (a character sequence is called a **string**), and combine that random string with your password. The random string is called the **salt**.
+2. The salted password is then run through a hash function.  The salt and the hash value for the salted password are stored locally in files like `/etc/shadow` on Linux.
+
+When you authenticate with a password the system will then:
+1. Look up your salt.
+2. Salt the password you provided and hash the salted password.
+3. If the resultant hash matches what's on record, then you must have typed the correct password.
+
+Notice that *your plaintext password does not need to be saved locally and therefore never should be*. By salting the passwords, you guarantee that two users with the same password will not have the same hashed, salted password.  This helps to prevent things like a **rainbow-table attack** where a malicious user can build a dictionary that stores known hash-value-to-password pairs.  By using random salt, the attacker is forced to brute-force compute salt+password combos and check them against a known hash. By choosing *strong passwords* that are long, avoid guessable patterns, and otherwise look random, we can make brute-force guessing and checking of passwords prohibitively difficult.
 
 # Recap
 
-**Coming Soon**
+The bedrock protocols for the internet, TCP/IP and UDP/IP, let us reach out and communicate between devices but do not afford us any security. When we need confidentiality or need to validate the integrity of information, we turn to cryptography. *Symmetric-key encryption* algorithms are the go-to solution for keeping data confidential while it is in transit across the internet. To use these algorithms, we need to establish a shared encryption/decryption key. *Key-exchange* algorithms like Diffie-Hellman let two parties securely agree on a shared secret key. Of course, we might need to validate the integrity of the communications and seek out further assurances that both parties are looking at the same messages, that both parties are who they say they are, and that nobody can deny critical parts of the communications after the fact.  For this we turn to *digital signatures* which can be accomplished using public-key cryptography like the RSA algorithm combined with cryptographic hash functions. Finally, we protect our accounts on multi-user systems by choosing strong passwords and using salt and hash functions to produce a one-way fingerprint of the password rather than store the password itself.
+
 
 # Glossary
 
 | Term | Definition |
 | :--- | :--- |
 | **Application Layer** | The top layer of the network model, representing the logic of client and server applications (such as web browsers, web servers, and SSH clients/servers) and specifying the format and rules (protocols) for exchanging messages within a specific application. |
+| **Association for Computing Machinery (ACM)** | One of the leading international, professional computing organizations; presents the annual Turing Award. |
 | **Asymmetric-Key Encryption** | Cryptographic encryption schemes enabled by public-key cryptography in which the encoder and decoder use different, mathematically paired keys (a public key and a private key) rather than a single shared key. |
 | **Confidentiality** | A core principle of information security (part of the CIA triad) ensuring that communication and information are visible only to intended parties. |
 | **Cryptography** | The field providing mathematical algorithms and protocols to keep information and communication secure, particularly by providing confidentiality and integrity across insecure networks. |
+| **Diffie-Hellman** | The first public-key key-exchange algorithm (discovered in 1976 by Whitfield Diffie and Martin Hellman), enabling two parties to establish a shared secret key over an insecure channel by combining local secrets with publicly exchanged values. |
 | **Digest** | A fixed-length summary output produced by a one-way cryptographic hash function that cannot be decoded back into the original input; also referred to as a hash or fingerprint. |
 | **Digital Signature** | A cryptographic value computed from a message's hash using a sender's private key (e.g., by encrypting the hash in RSA or computing a signature in `ed25519`) that allows anyone with the corresponding public key to verify the sender's identity and the message's integrity. |
 | **End-of-File (`EOF`)** | A control signal (sent from the terminal via `ctrl-d`) that indicates the end of input or data transmission. |
@@ -241,19 +288,26 @@ echo "MESSAGE" | openssl s_client -crlf -ign_eof -connect HOST:PORT
 | **OSI Model** | The *Open Systems Interconnection* model, a layered conceptual reference framework used since the 1980s to understand and structure networked computer communications. |
 | **Protocols** | The formal rules and message formats that govern how data is exchanged between systems or applications at a given network layer. |
 | **Public-Key Cryptography** | Cryptographic algorithms and protocols based on a linked pair of keys—one made public and one kept private—enabling asymmetric-key encryption, digital signatures, and key-based authentication. |
+| **Rainbow-Table Attack** | A password-cracking attack that uses a precomputed lookup dictionary mapping known hash values to their corresponding plaintext passwords; defeated by salting passwords. |
 | **RSA** | One of the original public-key cryptography algorithms (named after its discoverers Rivest, Shamir, and Adleman) capable of both asymmetric encryption/decryption and digital signatures. |
+| **Salt** | A random string of characters combined with a user's plaintext password before hashing so that identical passwords produce different hashes and precomputed rainbow-table attacks are prevented. |
 | **Session Key** | A shared symmetric-key encryption key established during a connection handshake (via a key-exchange algorithm) and used to encrypt traffic for a single communication session only. |
 | **SSL (Secure Socket Layer)** | An earlier cryptographic protocol designed to provide secure communications and key exchange just below the application layer; now superseded by TLS. |
 | **SSL/TLS** | The collective term for the SSL (Secure Socket Layer) and TLS (Transport Layer Security) protocols that sit between the application and transport layers to provide applications with key exchange and encrypted communication channels. |
+| **String** | A sequence of characters (such as text, a password, or a random salt). |
+| **Symmetric-Key Encryption** | Cryptographic encryption schemes in which both the encoder and decoder use the same shared secret key (used by protocols like SSH and SSL/TLS to encrypt data in transit once a session key is established). |
 | **TCP (Transmission Control Protocol)** | A connection-oriented transport-layer protocol that establishes a connection via a handshake, exchanges port numbers, and provides reliable end-to-end delivery of messages between hosts at the cost of additional overhead. |
 | **TLS (Transport Layer Security)** | The modern cryptographic protocol (succeeding SSL) used by HTTPS, QUIC, and other applications to perform key exchange and secure application traffic with a session key. |
 | **Transport Layer** | The network layer below the application layer that provides end-to-end, host-to-host communication for applications using port numbers and protocols such as TCP and UDP. |
+| **Turing Award** | An annual award given by the Association for Computing Machinery (ACM), regarded as the highest honor in computing (often called the "Nobel Prize of Computing"). |
 | **UDP (User Datagram Protocol)** | A connectionless transport-layer protocol that sends messages without establishing a connection or guaranteeing delivery, offering lower overhead than TCP. |
 
 # Commands Covered
 
 | Command | Option | Purpose | Example Usage |
 | :--- | :--- | :--- | :--- |
+| `scp` | | Securely copy files between local and remote hosts over `ssh` | `scp -P 2220 bandit0@bandit.labs.overthewire.org:path/to/file .` |
+| | `-P` | Specify the SSH port number to connect to on the remote host (note uppercase `-P`) | `scp -P 2220 path/to/file bandit0@bandit.labs.overthewire.org:.` |
 | `nc` | | Establish TCP or UDP network connections to send and receive messages ("netcat") | `nc jlmayfield.github.io 80` |
 | | `-u` | Use UDP instead of the default TCP transport protocol | `nc -u DESTINATION PORT` |
 | `echo` | | Display a line of text to standard output (often piped into network utilities like `nc` or `openssl s_client`) | `echo "MESSAGE" \| nc DESTINATION PORT` |
