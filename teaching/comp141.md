@@ -25,3 +25,5 @@ permalink: /teaching/COMP141/
 | 10 (10/26-10/30) |  | [Choose Your Own Adventure!](/teaching/COMP141/Assignments/cyoa_student.pdf) [Trail Log as Markdown](https://dillinger.io/)  | *CYOA Trail Log Due - Printed Markdown AND PDF*  | [**QUIZ: CYOA Commands**](/teaching/COMP141/LectureNotes/cyoa_command_list/)  |
 | 11 (11/2-11/6) | [LN07 - Data Encoding](/teaching/COMP141/LectureNotes/07_bandit_group_04/) | Bandit 10-12  |   | *LN07 RQs Due*  |
 | 12 (11/9-11/13) | [LN08 - Secure Communications](/teaching/COMP141/LectureNotes/08_bandit_group_05/)  |  Bandit [13](https://overthewire.org/wargames/bandit/bandit14.html),[14](https://overthewire.org/wargames/bandit/bandit15.html), & [15](https://overthewire.org/wargames/bandit/bandit16.html) | [LN09 - Modern Cryptography](/teaching/COMP141/LectureNotes/09_cryptography)  |   |
+| 13 (11/16-11/20) | *Due: RQs for LN 8 & 9* *Due: Crypto Sheet a* | Crypto Sheet b. [Bandit 16](https://overthewire.org/wargames/bandit/bandit17.html) |  |   |
+| 14 (11/23-11/27) | **QUIZ: Encoding and Crypto** |  | **NO CLASS** | **NO CLASS**  |

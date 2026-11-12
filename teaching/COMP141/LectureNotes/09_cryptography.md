@@ -36,11 +36,23 @@ Modern Cryptography begins by recognizing that all information used in computati
 
 ## Goals
 
-**Coming Soon**
+1. Understand the basic vocabulary and techniques of modular arithmetic.
+2. Be familiar with the use of modular arithmetic to create a simple hash function for strings.
+3. Be familiar with textbook RSA and its relationship to the prime factoring problem.
+4. Be familiar with RSA-based Digital Signatures.
+5. Be familiar with textbook Diffie-Hellman and its relationship to the discrete logarithm problem.
 
 ## Objectives
 
-**Coming Soon**
+1. Be able to perform modular arithmetic using addition, multiplication, and exponentiation using small values.
+2. Be able to define and verify small prime numbers.
+3. Be able to define and verify a potential modular multiplicative inverse.
+4. Be able to define and verify a generator modulo N.
+5. Be able to define a simple hash function for strings and use it to hash short strings.
+6. Given a high-level description of the process along with critical equations, be able to compute an RSA public-private key pair with small values and use it to encrypt and decrypt.
+7. Be able to carry out a toy example of digital signing with RSA and hashing given a set of RSA keys and a pre-defined hash function.
+8. Given a high-level description of the process along with critical equations, be able to establish a small, shared key using Diffie-Hellman key-exchange.
+9. Explain what is meant by Post-Quantum cryptography and its relationship to RSA and Diffie-Hellman.
 
 # Modular Arithmetic
 
