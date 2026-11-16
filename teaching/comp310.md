@@ -24,6 +24,10 @@ permalink: /teaching/COMP310/
 | 10 (10/26-10/30) | ER Model | RS: Design 2  |
 | 11 (11/2-11/6) | *Skim Codd* | RS: Theory 1 |
 | 12 (11/9-11/13) | RS: Theory 2 | *Read Codd* |
+| 13  (11/16- 1/20)| [What is NoSQL](https://www.mongodb.com/resources/basics/databases/nosql-explained) [Relational to Document](https://learn.mongodb.com/courses/relational-to-document-model) | [Embedding](https://www.mongodb.com/resources/products/fundamentals/embedded-mongodb)  |
+| 14  (11/23-11/27) |  | **No Class**  |
+| 15  (11/30-12/4) |  |  |
+| 16  (12/7-12/11) |  | **No Class**  |
 
 #### Past Course Offerings
 
