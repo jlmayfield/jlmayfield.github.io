@@ -56,7 +56,7 @@ Now let's do something a bit more than 8 beats. You have two options and they ar
 
 #### From Notes to Frequencies
 
-Western music, and the music you'll be programming, is based on a clear 12 note pattern that repeats itself over and over at higher and higher pitches. This repetition produces a standard set of notes from which all music is written.  You can find their names and the wave frequencies that go with them here: [Note Names to Wave Frequency](https://pages.mtu.edu/~suits/notefreqs.html).  At the top of the chart is C0, a very low note. The 12 note pattern starting at C0 continues down the chart to B0 and then begins the pattern again at C1.  We tend to like notes around C4 and place this note in the middle of a piano or keyboard. For this reason it's called *middle C*.    
+Western music, and the music you'll be programming, is based on a clear 12 note pattern that repeats itself over and over at higher and higher pitches. This repetition produces a standard set of notes from which all music is written.  You can find their names and the wave frequencies that go with them here: [Note Names to Wave Frequency](https://plastic.audio/note-frequencies/).  At the top of the chart is C0, a very low note. The 12 note pattern starting at C0 continues down the chart to B0 and then begins the pattern again at C1.  We tend to like notes around C4 and place this note in the middle of a piano or keyboard. For this reason it's called *middle C*.    
 
 #### Scales, Intervals, and Resonant Tones
 
